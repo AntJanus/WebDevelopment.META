@@ -19,3 +19,17 @@ Luckily, Suzy has a couple of hours before lunch so she decides to review the co
 After lunch, Suzy finally started working on her main project, adding a blog to their sales platform in order to allow the marketing team to make announcements through the site. It would have been a trivial feature; however, the marketing team requested the ability to schedule blog posts and to require manager approval for posting ahead of schedule. She inquired about the specifications to find out if a writer can prompt for manager approval or if the manager has to do it themselves.
 
 As you can see, most of Suzy's day was not taken up with coding HTML or any of the other languages. In fact, most of her day was taken up with the "human" side of web development: getting specifications, fixing problems, getting feedback on code, reviewing code, and creating web tests. Of course, not every day is the same. Some days, Suzy may spend her time researching a new technology for the system, or she may spend her entire day shut off from the world coding away. Depending on her position, she may have additional duties.
+
+So in the end, a web developer is a master of many of the processes that not only go into creating an end-product but up-keeping it.
+
+Here are some possible duties and what they entail:
+
+1. creating a program solution to a specified problem
+2. implementing a design for a website
+3. writing test programs for larger applications
+4. communicating with other teams and/or clients
+5. converting specifications into code
+6. learning new languages/libraries in order to solve a problem
+7. reviewing code or getting code reviewed
+8. fixing bug
+9. time and project management
