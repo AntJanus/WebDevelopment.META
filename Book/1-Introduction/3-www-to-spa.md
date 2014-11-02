@@ -27,5 +27,26 @@ Now imagine if we had to update our background color because we had a redesign? 
 
 As you can see, we're faced with two problems. One of them is that any change, whether stylistic or otherwise, will require us to change every single page. Is there an easier solution? Well, one appeared a few years after WWW came into existence, PHP.
 
-PHP used to be a templating language, which means that you could "template" your websites. That means that we can create a single `header.php` file which has all of our header information, a single `footer.php` file, and then we could
+PHP used to be a templating language, which means that you could "template" your websites. That means that we can create a single `header.php` file which has all of our header information, a single `footer.php` file for all our copyrights and miscellaneous information, and let's add a sidebar that we can update with our daily wisdoms. All of a sudden though, we end up with 3 secondary files and just as many post/page files. The positive is that those extra template files helped us save hours of time of updating headers.
 
+````html
+<?php include('header.php'); ?>
+	<p color="white">My post</p>
+	<?php include('sidebar.php'); ?>
+<?php include('footer.php'); ?>
+
+````
+
+Wonderful, so that's about 4 years of advances right there. Mind you, there were alternatives to PHP, including ASP (microsoft server-side language). Now, we still have an issue, if we want to change the way paragraphs look like in all our pages, we're still stuck with the old method of changing each page. Luckily, an answer came in the form of CSS in 1996. CSS is a language for describing styles of different HTML tags and how they should render in a browser. So instead of using the former method, we could create a `style.css` file, including on the page and control the look and feel of all of our pages from one place:
+
+````css
+p {
+	color: white;
+}
+````
+
+At this point, Javascript was also introduced with its ability to modify the page after it arrives in the browser. It used to be completely normal and expected for sites to "refresh" or reload on every action taken. Whether a link was clicked, or form submitted, or whatever else. Javascript allowed web developers to create drop-downs and do other simple logic on the page itself. Especially useful was the advent of DOM, a convention that helped Javascript manipulate the page itself.
+
+Let's try to hurry up now. Because of CSS, sites started using more unified styles, and also lead sites to use the old "table" tags for creating more complicated layouts. PHP and ASP Classic ushered in an era of dynamic and database-driven sites which gave rise to ecommerce, blogging, and similar sites.
+
+As time went by, new technologies were introduced into the web, further accelerated by wider adoption rates. AJAX, the ability for Javascript to send a request to a server and then modify its current page based on the response, became the precursor of what we know today as SPA or Single Page Apps. Further improvements to CSS gave rise to Web Design, the art of creating a website.
