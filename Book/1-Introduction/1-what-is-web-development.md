@@ -21,4 +21,19 @@ Now, this may sound complicated and it is but it's much easier if you allow your
 
 So, in conclusion, programming involves a fine art of making it easier and quicker to make complex computer instructions.
 
-But we still haven't discussed how the internet works. For a web developer, knowing the background behind how their code runs is crucial to being a successful developer. It also enables a developer to
+But we still haven't discussed how the internet works. For a web developer, knowing the background behind how their code runs is crucial to being a successful developer. It also enables a developer to communicate better with others in adjoining fields such as system administrators, devOps, and similar.
+
+At its core, internet is pretty simple. It's a huge web of wires that allow computers to communicate with each other. Back in '90, Berners-Lee and Cailliau came up with a proposal for hypertest and gave rise to WWWW or the World WIde Web. These two guys realized that there could be a better way for computers to communicate. A more, "user friendly" method that would allow people to "browse freely" through exposed documents on another machine. This idea augmented the way people interacted with the internet, making it a more accessible place for people outside of academics, government, and business. Soon enough, domains came to be (a sort of "alias" for an IP address), HTML was widely adopted and we started progressing toward the internet we know and love today.
+
+And this, finally brings us to what web development is. Web Development is the process through which a web page is created. Whenever you open some kind of site through your internet browser, you access a web page that was developed by a web developer.
+
+However, as easy-sounding as it is, it can be much more complicated. The Web started with "static" pages, which were websites precoded in HTML. These sites dominated the world until server-side scripting languages took over. First used for templating, and later as a way to truly "program" the web page. In this case, programming allows us to put any kind of instructions that need to be carried out and reflected on a web page.
+
+We can, for instance, use a server-side programming language to get information from a database, do some post-processing on it, and display it in a format that is pleasing to us.
+
+What's great is that the adoption of internet and the boom it caused in businesses allowed several key technologies to emerge: javascript, and CSS. Javascript allows us to do **front-end development** while server-side languages allow us to indulge in **back-end development**. And what Javascript did was allow us to interact with websites more fluidly. For example, we could try to submit a comment on a website and Javascript would let us know, as we type, that we did not make it long enough, even before we submit our information to the server.
+
+Cascasding Style Sheets, on the other hand, allowed us to design more usable websites and websites that were pleasing to look at. The art of applying these styles and designing with them eventually became a cross between **UI development** and the aforementioned front-end development.
+
+The next question to ask is, What is a web developer?
+
