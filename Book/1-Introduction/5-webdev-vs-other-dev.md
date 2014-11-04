@@ -20,5 +20,5 @@ There's also the necessity of learning 3D modeling or at least concepts, linear 
 
 So what else is there? App development? App development is slowly merging with web development but granted, there are less app developers than web developers and one might find that avenue lucrative and fun. It's a place full of innovation, especially with rapid cell phone advancements and the wealth of software access phone makers create. Both Android and iOS give app developers a great deal of new APIs (think of an API as a way to access a piece of hardware or software outside of your app). It's a booming market.
 
-As far as desktop application development, I would say that outside of enterprise-level work, it's a limited field of work, especially now that everything is being offloaded onto the web.
+As far as desktop application development, I would say that outside of enterprise-level work, it's a limited field of work, especially now that everything is being offloaded onto the web. However, if you like the enterprise, this is a great option!
 
