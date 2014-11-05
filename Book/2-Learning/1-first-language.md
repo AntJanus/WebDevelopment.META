@@ -30,7 +30,35 @@ PHP syntax is superbly simple. The cool thing with PHP is that you can mix it wi
 </html>
 ````
 
-The `<?php ?>` tags denote the use of PHP. And while it's awesome that you *can* use it along with HTML, most modern applications use it in an Object Oriented way with a dedicated templating engine. Sounds complicated? It's not really that bad.
+The `<?php ?>` tags denote the use of PHP. And while it's awesome that you *can* use it along with HTML, most modern applications use it in an Object Oriented way with a dedicated templating engine. Sounds complicated? It's not really that bad. A more complicated example can show you how advanced PHP looks like:
+
+````
+<?php
+namespace Illuminate\Container;
+
+use Closure;
+use ArrayAccess;
+
+class Container implements ArrayAccess {
+    protected $resolved = array();
+    protected $bindings = array();
+
+    public function build($concrete, $parameters = array())
+    {
+        if ($concrete instanceof Closure)
+        {
+            return $concrete($this, $parameters);
+        }
+
+        $reflector = new ReflectionClass($concrete);
+        $instances = $this->getDependencies($parameters);
+
+        return $reflector->newInstanceArgs($instances);
+    }
+}
+````
+
+Taken and simplified from [Laravel's container class file](https://github.com/laravel/framework/blob/4.2/src/Illuminate/Container/Container.php). No, it doesn't work but it showcases some ideas behind PHP OOP.
 
 ### Learning it
 
@@ -54,6 +82,43 @@ I've already mentioned a few tools so that should give you an idea of what peopl
 
 There are tons of Wordpress developer jobs. What's interesting, however, is that many of those don't require in-depth PHP knowledge and many front-end developers (developers that focus on HTML/CSS and the site itself rather than the underlying logic and programming) choose Wordpress and PHP as their main tools.
 
+## Ruby
+
+Ruby vs PHP is a much discussed topic. PHP developers generally don't like Ruby and Ruby syntax, and it goes the other way as well. One of the most distinguishing differences is that Ruby is a "spec language", meaning that someone somewhere wrote down how everything in Ruby should work. This meant that there is a Ruby interpretted written in Java, in .Net, and in some other languages as well, alongside the official release. PHP doesn't have a spec, there's just a release, this is slowly changing but we're not there yet.
+
+### Syntax
+Ruby doesn't work like PHP, it can't just be mixed with HTML. Ruby has its own "server" which runs all of Ruby code. Instead of simply opening a `.rb` page using a server, a Ruby server has to point to a file and opens only that file (and any imported/included files, which is how the entire thing works basically).
+
+The problem with Ruby is that there's no easy way to iteratively get better. Here's an example of a "Hello World":
+
+````
+puts "Hello World";
+````
+
+Once you get the basics, it's time to get into Sinatra or Rails (Ruby frameworks) and you're going straight into Object Oriented Programming.
+
+````
+require 'fileutils'
+require 'active_support/core_ext/hash/keys'
+require 'rails/engine'
+
+module Rails
+    class Application < Engine
+        autoload :Bootstrap, 'rails/application/bootstrap'
+
+        class << self
+            def inherited(base)
+                super
+                Rails.app_class = base
+            end
+        end
+    end
+end
+````
+
+Taken from the [Rails repository](https://github.com/rails/rails/blob/master/railties/lib/rails/application.rb) and simplified to show syntax.
+
+### Learning It
 
 
 
