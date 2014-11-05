@@ -23,6 +23,9 @@ PHP is how I got started out and I would say that I very much enjoy the language
 PHP syntax is superbly simple. The cool thing with PHP is that you can mix it with HTML like so:
 
 ````
+<?php
+    $title = "My page title";
+?>
 <html>
     <head>
         <title><?php echo $title; ?></title>
@@ -70,11 +73,11 @@ It takes a week to from knowing nothing to building your own first rudimentary b
 
 ### Frameworks and tools
 
-PHP has grown significantly more modern in the past several years. Some of the main frameworks of today include Laravel, Symfony, and Silex, all of which can run in enterprise environments as well as work for startups.
+PHP has grown significantly more modern in the past several years. Some of the main frameworks of today include Laravel and Symfony, all of which can run in enterprise environments as well as work for startups.
 
 PHP also has its own package manager (a script that allows for better importing of libraries) called Composer.
 
-As a sidenote, Wordpress, the largest blogging platform and CMS, runs on PHP and is a requirement for templating.
+As a sidenote, Wordpress, the largest blogging platform and CMS, runs on PHP and PHP is a requirement to work on the templates.
 
 ### Jobs
 
@@ -127,3 +130,119 @@ Once you get the OOP down and start working straight with Ruby, you'll find your
 So as far as the learning curve goes, I'd say it starts out steep but then it gets very easy.
 
 ### Frameworks and Tools
+
+There are a number of tools that Bundler which is a package manager, there is RVM/RBEnv which allows Ruby developers to run several different Ruby versions at once, depending on which project they're on.
+
+The two big names in Ruby is Rails (which short Ruby into popularity) and Sinatra (another framework). There's also Rake which allows Ruby developers to run various tasks from the command line (like making database changes, and running test suites).
+
+### Jobs
+
+Ruby has been one of the main languages that startups have focused on for developing apps. In fact, Twitter was originally built on Ruby until it was switched over to Scala.
+
+It is, as PHP, in the top languages in terms of employability; however, note that Ruby work seems mostly used at startups and mid-sized companies.
+
+## C\# and ASP.NET
+
+C\# is an interesting language choice in that, unlike the others, it's not known for being Open Source or cross platform. C\# was created by Microsoft for a variety of purposes. One of them were desktop applications, the other one is web development via their ASP.NET framework. It's important to see the language necessarily as part of the framework as well.
+
+### Syntax
+
+C\# is very reminiscent of C++ and Java in that it's an Object Oriented langauge by default and the way it works is similar to the two in terms of syntax. Strangely enough, C\# allow learning it the same way you learn PHP only because of some recent strides by Microsoft to make things much easier.
+
+````
+@{
+    var title = "My page title";
+}
+
+<html>
+    <head>
+        <title>@title</title>
+    </head>
+</html>
+````
+
+ASP.NET does not operate like PHP despite how it looks. Most of the regular code must be created through an object oriented manner like so:
+
+````
+using System;
+using System.IO;
+using System.Text;
+
+namespace Microsoft.AspNet.Mvc.Razor
+{
+    public class RazorTextWriter : TextWriter, IBufferedTextWriter
+    {
+        public RazorTextWriter(TextWriter unbufferedWriter, Encoding encoding)
+        {
+            UnbufferedWriter = unbufferedWriter;
+            BufferedWriter = new StringCollectionTextWriter(encoding);
+            TargetWriter = BufferedWriter;
+        }
+
+        public override Encoding Encoding
+        {
+            get { return BufferedWriter.Encoding; }
+        }
+    }
+}
+````
+
+Taken and simplified from [Asp.Net MVC](https://github.com/aspnet/Mvc/blob/dev/src/Microsoft.AspNet.Mvc.Razor/RazorTextWriter.cs).
+
+### Learning It
+
+C# and ASP.NET can be interesting in terms of learning. On the one hand, you can modify websites within just a few minutes, on the other, the Object Oriented programming can feel daunting. On top of that, you're required to use a Windows machine and a specific toolset.
+
+However, given enough time, and learning OOP, you'll find yourself working with a robust framework.
+
+There's also the alternative of using a non OOP framework meant for beginners and in that case, it really is just like PHP.
+
+### Frameworks and tools
+
+So I mentioned an MS-only toolset. And it's true. You'll be using Visual Studio, an IDE that works with C# and ASP.NET, to make websites. One of the top frameworks for C# web development is ASP.NET MVC, the object oriented version of ASP.NET, and there's also ASP.NET WebPages, the non-OOP version of ASP.NET which allows users to writer simpler applications and websites.
+
+### Jobs
+
+ASP.NET is notorious for being an enterprise-level framework. In short, big companies, often non-tech oriented, use it. What's great though is that most of these companies invested into a ASP.NET architecture for the long haul, meaning that there are lots of big companies looking for .NET developers.
+
+Another interesting point is that startups are not as interested in C# as other languages. The only tech company name you can associate with .NET (other than Microsoft) is StackOverflow. This means that the average pay for a .NET developer is significantly higher than any other language out there.
+
+As a sidenote, C# and C# conventions easily translate into App development, Game development, and other types of development unlike Ruby or PHP which are stuck being server-side.
+
+## Javascript
+
+This is an interesting addition to the list. For one, it's a front-end programming language, the language of the browser; however, recently, a new type of technology called NodeJS allow for Javascript to run on the server and is currently one of the hottest server-side languages. The server-side implementation is very young however, and the front-end usage of the language is starkly different (not in syntax but in programming paradigm).
+
+### Syntax
+Depending on which side you go to, typical Javascript will look different. Let's first consider the typical front-end usage:
+
+````
+<html>
+    <head>
+    </head>
+    <body>
+        <p>My old text</p>
+        <script>
+            var el = document.QuerySelectorAll('p')[0];
+            el.innerHtml = 'Hello world';
+        </script>
+    </body>
+</html>
+````
+
+Javascript on the front-end can be very confusing but once you get the hang of it, it makes sense, you're just augmenting what the user sees. In this case, the JS will change out the inner text of the paragraph to be "hello world". Here's JS on the back end:
+
+````
+var http = require('http');
+
+var server = http.createServer(function(req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    res.end('Hello world');
+});
+````
+
+A little different. NodeJS-land is as if a completely new Javascript but luckily, the two implementation (server-side, browser) have started to share many libraries.
+
+On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
+
+On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript: 
