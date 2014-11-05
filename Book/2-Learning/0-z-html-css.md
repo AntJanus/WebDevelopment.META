@@ -2,7 +2,7 @@ title: HTML and CSS
 ----
 content:
 
-First and foremost, you need to learn HTML and CSS. That's a given. At least the basics. You're good to go in under a week to start learning about a programming language, seriously.
+First and foremost, you need to learn HTML and CSS. That's a given. At least the basics. You're good to go in under a week to start learning about a programming language, seriously. One week.
 
 Here's what HTML looks like:
 
