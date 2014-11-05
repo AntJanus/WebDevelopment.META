@@ -120,6 +120,10 @@ Taken from the [Rails repository](https://github.com/rails/rails/blob/master/rai
 
 ### Learning It
 
+Ruby has become the favorite language of many coding courses and thus there is a wealth of tutorials on the subject, way more than for PHP. However, learning Ruby has necessarily become implicated with learning Rails or another framework. While it is possible to code without Object Oriented Programming, it's not possible when coding for the web.
 
+Once you get the OOP down and start working straight with Ruby, you'll find yourself surrounded by a great community that will help you along and answer all of your questions.
 
+So as far as the learning curve goes, I'd say it starts out steep but then it gets very easy.
 
+### Frameworks and Tools
