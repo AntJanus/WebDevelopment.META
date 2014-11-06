@@ -245,4 +245,23 @@ A little different. NodeJS-land is as if a completely new Javascript but luckily
 
 On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
 
-On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript: 
+### Learning It
+
+Learning Javascript is two-fold as everything else about it. On the browser, learning it can be difficult to understand because of its "evented" nature. And it definitely is not a good choice for a first programming language as most server-side languages work completely differently. However, Javascript is hot and there are tons of resources available.
+
+As far as difficulty on the Node side, most call it incomprehensible at first. Especially since so many configurations (such as server) have to be done manually. There are some frameworks that make this process easier but the entire "async" nature of Node (ability to send out several requests at the same time, parallel to each other) can be difficult to understand even by people that are already familiar with another language.
+
+### Frameworks and Tools
+
+Javascript is known for its wealth of tools and helpful libraries. One of the most important today is Bower which is a package manager for javascript frameworks. There is also Gulp and Grunt which are Node projects that have become a streamlined part of a front-end developers job.
+
+Outside of that, a couple of interesting frameworks to mention are: AngularJS, the jQuery library, and Express, a Node library. Angular is a front-end MVC framework, trying to bring what's on the back-end into the front-end. jQuery is a library that makes front-end interactions a breeze and Express makes back-end Node setup much simpler than doing everything manually.
+
+### Jobs
+
+Javascript is the hottest language on the market currently. Companies are readily switching to Node, both large and small, and every company that has any sizeable presence online is perfecting its user interface and user experience with the help Javascript. There's no better language today to learn in order to get a job quickly.
+
+## So which one?
+
+It's a difficult question and a number of developers do argue about it; however, in the end it's up to you and your comforts. Look over the syntax, checkout a few tutorials and see what makes sense for your own personal method of learning.
+
