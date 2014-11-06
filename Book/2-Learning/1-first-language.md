@@ -245,6 +245,7 @@ A little different. NodeJS-land is as if a completely new Javascript but luckily
 
 On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
 
+<<<<<<< HEAD
 ### Learning It
 
 Learning Javascript is two-fold as everything else about it. On the browser, learning it can be difficult to understand because of its "evented" nature. And it definitely is not a good choice for a first programming language as most server-side languages work completely differently. However, Javascript is hot and there are tons of resources available.
@@ -265,3 +266,33 @@ Javascript is the hottest language on the market currently. Companies are readil
 
 It's a difficult question and a number of developers do argue about it; however, in the end it's up to you and your comforts. Look over the syntax, checkout a few tutorials and see what makes sense for your own personal method of learning.
 
+=======
+On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript:
+
+````
+// selecting elements
+var commentTrigger = document.querySelectorAll('.comment-show')[0];
+var comments = document.querySelectorAll('.comments')[0];
+
+//event handler
+commentTrigger.addEventListener('click', function(e) {
+   //ajax request
+   request - new XMLHttpRequest();
+   request.open('GET', '/posts?limit=10', true);
+
+   request.onload = function() {
+     if(request.status >= 200 && request.status < 400) {
+        comments.innerHtml = request.responseText;
+        addClass(comments, 'show');
+     } else {
+        console.log('Error');
+     }
+   }
+
+   request.send();
+});
+````
+
+### Learning It
+
+Unfortunately, in-browser Javascript is way different than most server-side languages, especially in use. I don't recommend jumping into javascript for that reason. Even back-end Javascript is much more different because it works mostly "async", meaning that the language sends off requests to elsewhere and then handles when those requests come back.
