@@ -245,4 +245,33 @@ A little different. NodeJS-land is as if a completely new Javascript but luckily
 
 On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
 
-On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript: 
+On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript:
+
+````
+// selecting elements
+var commentTrigger = document.querySelectorAll('.comment-show')[0];
+var comments = document.querySelectorAll('.comments')[0];
+
+//event handler
+commentTrigger.addEventListener('click', function(e) {
+   //ajax request
+   request - new XMLHttpRequest();
+   request.open('GET', '/posts?limit=10', true);
+
+   request.onload = function() {
+     if(request.status >= 200 && request.status < 400) {
+        comments.innerHtml = request.responseText;
+        addClass(comments, 'show');
+     } else {
+        console.log('Error');
+     }
+   }
+
+   request.send();
+});
+````
+And a more advanced example of Node javascript:
+
+````
+
+````
