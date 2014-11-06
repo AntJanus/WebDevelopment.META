@@ -270,8 +270,7 @@ commentTrigger.addEventListener('click', function(e) {
    request.send();
 });
 ````
-And a more advanced example of Node javascript:
 
-````
+### Learning It
 
-````
+Unfortunately, in-browser Javascript is way different than most server-side languages, especially in use. I don't recommend jumping into javascript for that reason. Even back-end Javascript is much more different because it works mostly "async", meaning that the language sends off requests to elsewhere and then handles when those requests come back.
