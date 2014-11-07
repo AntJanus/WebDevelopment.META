@@ -50,6 +50,7 @@ There are several problems with attending college, however, and they cannot be b
 1. It takes too long. 4 years is a long time. No longer than any other degree but a long time nonetheless
 2. It's expensive. Especially in the US. A CS degree may cost you upward of 8K a semester just in classes and books.
 3. Most jobs won't give you a position straight out of college. So you either have to struggle to find one miraculous employer that will hire you after college or find time to work along with your studies.
+4. What you learn may no necessarily apply to what you do and what you may learn may not necessarily be up to date.
 
 So, as always, there's a decision to be made. I can tell you from personal experience that most employers value college as "two years worth of work experience" once you have at least one year of actual work experience. At least there's that.
 
@@ -59,7 +60,7 @@ Being self-taught has become a symbol of a web developer because even when you m
 
 So here is a list of skills that self-taught developers like to highlight in their learning experiences:
 
-1. The learn what they need as they need it, and use it - This can be a great advantage since any knowledge you acquired can be directly used right away. This includes those pesky "widge-breadth" knowledge factors which can be learned ONLY when they're necessary. 
+1. The learn what they need as they need it, and use it - This can be a great advantage since any knowledge you acquired can be directly used right away. This includes those pesky "widge-breadth" knowledge factors which can be learned ONLY when they're necessary.
 2. Work and client experience can quickly shape your career. Those few extra years of working with clients or at agencies can quickly convert to a rising career. There's a great deal of hands-on experience and learning from mentors. On top of that, you quickly gain contacts with people that have a need for developers.
 3. The learning community creates great connections. There are entire communities of future web developers that get help from seasoned programmers and other people on their path. The web development community is a great one to join
 4. The entire process is cheap with little commitment and great pay-offs for the work.
@@ -75,4 +76,23 @@ But as always, there are some downsides to being a self-taught developer:
 
 1. Older companies that are used to the "college-degree-only" hiring process will pass you over
 2. You will always have to take the initiative to learn more and learn more deeply about computer science on your own. That can be difficult and discouraging.
+3. Creating connections is on you and on you to find the right environment for it.
+
+As before, I would like to warn you that some employers require degrees but most tech companies do not. And some that do will let you slide by if you have about 2 years worth of working experience.
+
+## The Choice is yours
+
+As always, the choice is yours. There is no "better way" despite what people may tell you. What I do recommend is reading through the rest of this book and learning about what it takes to be a web developer and what it takes to be a good web developer. At least that will prepare you better for your decision.
+
+Also, I recommend getting involved in the web development community. Whether it's on Reddit, Dzone, HackerNews, or other websites, it's good to be there, to ask questions, to read people's concerns, and to read through past discussions on this very topic. People do get heated but if you look past their ego, you'll see a grain of wisdom that may apply to specifically you.
+
+Outside of that, there are a few general recommendations and words of wisdom to share with you:
+
+1. If you're in college, it's a good idea to take on freelance or community project for some experience. These may not pay much or they may pay so much you'll drop out
+2. Start learning ASAP, don't wait for the right moment. Even if you're in the first year of college, get an HTML or follow some online tutorials, just to get a feel for it.
+3. It doesn't matter what age you are. There are 40 and 50 year olds learning HTML/CSS. At one of my talks, there was a lady that was at least 65 or 70 asking the most hardcore questions and sporting her Surface. There were also teenagers that probably haven't even graduated from High School yet.
+4. If you're in it partially for the money, be practical. By that, I mean, do your calculations and figure out what works best for you and what will drive most of the profit. If you want to have a startup, you're the rule-maker, not another company and investors don't care about your degrees. They care about your knowledge.
+5. Think about your learning style, keep that in mind as you choose a route.
+6. And no one said you can't combine the two.
+
 
