@@ -149,7 +149,7 @@ Average salary: $105,000/year
 
 ## C\# and ASP.NET
 
-C\# is an interesting language choice in that, unlike the others, it's not known for being Open Source or cross platform. C\# was created by Microsoft for a variety of purposes. One of them were desktop applications, the other one is web development via their ASP.NET framework. It's important to see the language necessarily as part of the framework as well.
+C\# is an interesting language choice in that, unlike the others, it's not known for being Open Source or cross platform. C\# was created by Microsoft for a variety of purposes. One of them were desktop applications, the other one is web development via their ASP.NET framework. It's important to see the language necessarily as part of the framework as well. Note that ASP.NET has three portions: the MVC part (object oriented => complicated), Web Pages (simple), and Web Forms (oldest style).
 
 ### Syntax
 

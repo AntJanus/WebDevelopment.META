@@ -1,4 +1,5 @@
-title: Finding a Good Course ----
+title: Finding a Good Course
+----
 content:
 
 Enough of choices, let's dive into the specifics. Where do you find a good source? There are plenty of sites and at the risk of possibly endorsing a site that may not be as good anymore or in the future, let me give you a nice neat list of some online courses:
@@ -103,5 +104,3 @@ Over the past several years, I brushed up and improved my knowledge with a combi
 4. Scour Coursera for advanced courses to teach me the most basic parts of programming. But this is further down the road.
 
 But the choice is up to you.
-
-
