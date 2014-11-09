@@ -14,6 +14,8 @@ I wanted to give a rundown of the most popular started languages of today, their
 
 Luckily, whatever decision you make isn't life changing, you'll eventually get to a point where you will tackle the task of learning a secondary language. Not only that but overall, each language I'll present you will prepare you well for the world out there, no matter which choice you make. Try not to make the option paralyze you! Just pick one and go with it!
 
+**Note:** The average salaries are pulled straight from Indeed.com and may not be representative of real-world salaries in your own area.
+
 ## PHP
 
 PHP is how I got started out and I would say that I very much enjoy the language. It's a wonderful starter language but let's rip into it before I tell you the details.
@@ -85,6 +87,8 @@ I've already mentioned a few tools so that should give you an idea of what peopl
 
 There are tons of Wordpress developer jobs. What's interesting, however, is that many of those don't require in-depth PHP knowledge and many front-end developers (developers that focus on HTML/CSS and the site itself rather than the underlying logic and programming) choose Wordpress and PHP as their main tools.
 
+Average Salary: $92,000/year
+
 ## Ruby
 
 Ruby vs PHP is a much discussed topic. PHP developers generally don't like Ruby and Ruby syntax, and it goes the other way as well. One of the most distinguishing differences is that Ruby is a "spec language", meaning that someone somewhere wrote down how everything in Ruby should work. This meant that there is a Ruby interpretted written in Java, in .Net, and in some other languages as well, alongside the official release. PHP doesn't have a spec, there's just a release, this is slowly changing but we're not there yet.
@@ -140,6 +144,8 @@ The two big names in Ruby is Rails (which short Ruby into popularity) and Sinatr
 Ruby has been one of the main languages that startups have focused on for developing apps. In fact, Twitter was originally built on Ruby until it was switched over to Scala.
 
 It is, as PHP, in the top languages in terms of employability; however, note that Ruby work seems mostly used at startups and mid-sized companies.
+
+Average salary: $105,000/year
 
 ## C\# and ASP.NET
 
@@ -209,6 +215,8 @@ Another interesting point is that startups are not as interested in C# as other 
 
 As a sidenote, C# and C# conventions easily translate into App development, Game development, and other types of development unlike Ruby or PHP which are stuck being server-side.
 
+Average salary: $92,000/year
+
 ## Javascript
 
 This is an interesting addition to the list. For one, it's a front-end programming language, the language of the browser; however, recently, a new type of technology called NodeJS allow for Javascript to run on the server and is currently one of the hottest server-side languages. The server-side implementation is very young however, and the front-end usage of the language is starkly different (not in syntax but in programming paradigm).
@@ -245,7 +253,6 @@ A little different. NodeJS-land is as if a completely new Javascript but luckily
 
 On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
 
-<<<<<<< HEAD
 ### Learning It
 
 Learning Javascript is two-fold as everything else about it. On the browser, learning it can be difficult to understand because of its "evented" nature. And it definitely is not a good choice for a first programming language as most server-side languages work completely differently. However, Javascript is hot and there are tons of resources available.
@@ -262,37 +269,29 @@ Outside of that, a couple of interesting frameworks to mention are: AngularJS, t
 
 Javascript is the hottest language on the market currently. Companies are readily switching to Node, both large and small, and every company that has any sizeable presence online is perfecting its user interface and user experience with the help Javascript. There's no better language today to learn in order to get a job quickly.
 
-## So which one?
+Average Salary: $94,000/year
 
-It's a difficult question and a number of developers do argue about it; however, in the end it's up to you and your comforts. Look over the syntax, checkout a few tutorials and see what makes sense for your own personal method of learning.
+### Python
 
-=======
-On the back-end, JS works much like the other languages. Here's a more advanced sample of in-browser javascript:
+Lastly, there is Python. Python has been around for a while and it has MANY different applications. From command line tools, to game programming, to websites and more, it's more versatile than any of the listed languages. On top of that, it's probably the most cross-platform language out there.
 
-````
-// selecting elements
-var commentTrigger = document.querySelectorAll('.comment-show')[0];
-var comments = document.querySelectorAll('.comments')[0];
+### Syntax
 
-//event handler
-commentTrigger.addEventListener('click', function(e) {
-   //ajax request
-   request - new XMLHttpRequest();
-   request.open('GET', '/posts?limit=10', true);
+Python
 
-   request.onload = function() {
-     if(request.status >= 200 && request.status < 400) {
-        comments.innerHtml = request.responseText;
-        addClass(comments, 'show');
-     } else {
-        console.log('Error');
-     }
-   }
-
-   request.send();
-});
-````
 
 ### Learning It
 
-Unfortunately, in-browser Javascript is way different than most server-side languages, especially in use. I don't recommend jumping into javascript for that reason. Even back-end Javascript is much more different because it works mostly "async", meaning that the language sends off requests to elsewhere and then handles when those requests come back.
+Python is among the few languages that are used to teach programming from the get-go, and it's one of the most useful ones in that manner. Unlike C++ and C, Python doesn't have to be "class based" or object oriented, python is just..python. It can be complicated, and it can be simple. Getting started with Python is a breeze.
+
+### Frameworks and Tools
+For web development, the default standard for Python is Django, an MVC framework that drives most of the major webdev python projects.
+
+### Jobs
+The job market for Python is varied. It's definitely not a "hot" language but it's neither a dead one. Python is used pretty much everywhere but only a few shops choose Python as the way to go.
+
+Average salary: $102,000/year
+
+## So which one?
+
+It's a difficult question and a number of developers do argue about it; however, in the end it's up to you and your comforts. Look over the syntax, checkout a few tutorials and see what makes sense for your own personal method of learning.

@@ -1,5 +1,4 @@
-title: Finding a Good Course
-----
+title: Finding a Good Course ----
 content:
 
 Enough of choices, let's dive into the specifics. Where do you find a good source? There are plenty of sites and at the risk of possibly endorsing a site that may not be as good anymore or in the future, let me give you a nice neat list of some online courses:
@@ -68,12 +67,41 @@ Lynda is one of the older course providers out there and because of that it has 
 * with no rating system, it can be difficult to browse the catalog; however, it's become easier over time.
 * some of the courses may feel dated and it can be a bummer learning from something not following modern techniques. But again, Lynda's been good at renewing their courses.
 
-## Other Alternatives
+## Alternatives
 
 Of course, paid courses aren't the only way to get in; however, I've found most of the options above to be more than satisfactory for personal learning. And at $20-$30/month it's no large expenditure. So if you'd like to take on something free first and make sure this is what you want to do, here are some of the options.
 
 ### CodeAcademy
 
 CodeAcademy is a free course-learning platform that teaches one to code. It has several languages to learn as well: Python, Ruby, and PHP, even Javascript. So it's definitely a good place to look at. They even have a step-by-step making your first website.
+
+Their Ruby course has been around for a while and has been met with great results. The jQuery one as well. I see people posting on /r/learnprogramming straight from CodeAcademy all the time.
+
+### Coursera
+
+Coursera is a special case since it is a hub for free College courses offered by accredited colleges. They do not provide credit but some do provide "certificates of completion". This is a double-edged sword. You get the advantage of college-style courses; however, you get the speed of college-style courses so if you're not comfortable with that style of learning, coursera may not be for you.
+
+On top of that, their courses vary, expire, and range in subject coverage. There is no "beginner web development" course but there may be a course on algorithms and design patterns worth checking out.
+
+## Which one?
+
+I can only tell you my personal experience for what that's worth and where I would have correct myself:
+
+1. I started learning HTML from a random "learn HTML" website that was full of mistakes and bad examples
+2. Several years later I tried to relearn HTML and CSS by using Lynda. Problem was, I skipped the "learning" and "beginner" courses in order to find courses that supplied me with a step-by-step process for making websites without really understanding anything.
+3. I picked up CSS by using a website that is full of misinformation and most developers avoid like plague. Go figure, right? I started blogging to keep notes of my progress. Luckily, the CSS section wasn't too terrible at the time.
+4. Finally, I dropped it all and started learning PHP from a series of tutorials made by a member of Zend (the main sponsor of PHP and creator of the interpretter). This tutorial got me up to speed with most basics.
+5. I continue learning HTML/CSS from bad tutorials until finally, I moved onto Wordpress.
+
+You see my pattern? I started in all the wrong places and learned bad habits. Luckily, I was only too eager to drop them. So from that point on, I used Lynda to really get me up to speed with everything and it was great. That, combined with some online tutorials got me to the intermediate level. But that was at a time when most of these options were not available.
+
+Over the past several years, I brushed up and improved my knowledge with a combination of all of the resources. If I was to do everything all over again, I'd probably choose the following avenue:
+
+1. Use CodeAcademy to find out which language suits me most and if that type of learning works with me. Get as far with it as possible. Now, while CodeAcademy teaches coding, it doesn't teach the rest of web development.
+2. Pick up TeamTreehouse for its focused learning objectives. It's relatively cheap and has all the courses to get me going in my career.
+3. Subscribe to Lynda and focus on the technologies that interest me the most. Or, pick up those courses on Udemy. I like fixed costs so I'd probably go with Lynda for a while until I saw something very interesting on Udemy. TutsPlus premium is good for this step, too.
+4. Scour Coursera for advanced courses to teach me the most basic parts of programming. But this is further down the road.
+
+But the choice is up to you.
 
 
