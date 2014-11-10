@@ -64,4 +64,22 @@ Let's come back to our English and Russian individuals. They can barely understa
 In this scenario, they may not be aware of the entire stack or what goes into the process but they are able to do a few things our T-shape person can't:
 
 * actively participate in the development that's lead by a person of an adjoining skill. Instead of a front-end developer discussing with the back-end developer how the API should look, the front-end developer can code the API while the back-end developer can supply the more difficult logic and code
-* take over 
+* switch modes. Even if a skill is not your main strength, you should be able to float around and switch modes, having another more skilled person help you out
+* argue and communicate points about technology outside of their main domain
+
+An arrow shape skillset makes a developer superbly invaluable since they are able to comfortably move from place to place and work better with others.
+
+I've met people like this and it's amazing to work with them because you instantly feel in awe of the person. They are able to leave a difficult back-end project and solve front-end problems. They are able to discuss and argue technology decisions made outside of their immediate domain as if it was their own livelihood. And best of all, when they approach a problem, they can think in terms of "where do I need to solve this problem?" on top of the other usual questions.
+
+Imagine trying to figure out how to speed up the system. An arrow person would be able to consider the following:
+
+1. Do we need better hardware or use more hardware? If so, time to upgrade hosting account.
+2. Is there some way to speed up the existing hardware or use software that can deliver/compute data faster? This includes caching, for instance, and different database systems.
+3. Is the back-end system just too slow? Does it need performanze optimization? Perhaps it makes too many requests to external services or too many SQL calls to get data, or there is a stray foreach loop.
+4. Can we pull data asynchronously on the front-end? Can we split up our requests? If so, perhaps some information can be marked as non-priority and have our Javascript request it separately and thus improve *perceived* speed.
+
+You can even tell where that arrow is headed and most likely, the arrow person will implement a little of all of those. Use better caching (storing data output from a program to reuse it), figure out bottlenecks on the back-end and combine SQL statements, and request the slower/additional data *after* the initial data is sent.
+
+## Yet most developers
+
+If most developers were to explain their skillset it would most likely resemble soft goo squished between their hands, you never know where the excess of their skill will be, where there will be a gap and where they will be simply "mediocre". It's great to find people, however, who can learn quickly and who can form somewhat of that arrow shape in a workplace based on the needs of the job. And that's honestly how skills develop. At a workplace, when they're needed, and this creates that uneven landscape.
