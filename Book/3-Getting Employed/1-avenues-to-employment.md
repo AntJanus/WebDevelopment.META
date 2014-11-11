@@ -94,3 +94,9 @@ This one is a bit unorthodox and when I gave a talk about developer employment, 
 On top of that, it's totally fine to shamelessly advertise yourself at the end of your posts. And the more people you get to read your post, the higher the chance that one of them will reach out to you or have their hiring manager reach out. It sounds impossible but I've worked in a company that reached out to a prospective employee based on a twitter conversation, and he got hired. I've been interviewed and my boss recalled an article I wrote a year prior and how he found it useful. It was a great "in".
 
 Along with this there are other methods. People advertise jobs on Reddit, and I've seen very meaningful comments followed up with "Well, if you're looking in this area, give me a shout."
+
+### It's a combination of everything
+
+Everyone swears by something different. I personally have had bad experiences with recruiters so I avoid them like the plague but I've also have bad experiences working directly with companies. I've heard of others that had a flipped situation and could not have gotten that awesome gig without one. And the list goes on. Things aren't simple and straightfoward.
+
+However, one thing I would definitely recommend is using Reddit or other social media to ask for help in decision making. You'll quickly find others who have been in similar situations that can help you out. Make sure you use a throwaway account. I've personally gone there to discuss job prospects of being a CTO, of becoming partners with someone, the stressors of Freelancing, and so on. There is a great deal of helpful people on there.
