@@ -89,4 +89,8 @@ Having useful open source projects, or popular open source projects, can help fi
 
 **Writing articles**
 
-This one is a bit unorthodox and when I gave a talk about developer employment, I got some weird looks and later on was asked, "how can you even force yourself to do it?" and the thing is, I don't.
+This one is a bit unorthodox and when I gave a talk about developer employment, I got some weird looks and later on was asked, "how can you even force yourself to do it?" and the thing is, I don't, I love it. Writing articles is by far my most interesting method of getting a good job. There have been numerous instances where I was able to seal the deal because my would-be bosses have read my work and actually learned from it.
+
+On top of that, it's totally fine to shamelessly advertise yourself at the end of your posts. And the more people you get to read your post, the higher the chance that one of them will reach out to you or have their hiring manager reach out. It sounds impossible but I've worked in a company that reached out to a prospective employee based on a twitter conversation, and he got hired. I've been interviewed and my boss recalled an article I wrote a year prior and how he found it useful. It was a great "in".
+
+Along with this there are other methods. People advertise jobs on Reddit, and I've seen very meaningful comments followed up with "Well, if you're looking in this area, give me a shout."
