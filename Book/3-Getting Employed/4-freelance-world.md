@@ -52,3 +52,21 @@ Here are some usual clauses to watch out for:
 * Payment options - some comapnies provide only specific types of payment (check, direct deposit, etc.) and may give themselves extraordinary amount of time to pay. For instance, a company may state that it will have up to 90 days to pay any invoice which can be problematic.
 * Non-compete clause - this one is prominent among full-time salaried employees as well so watch out but a non-compete is basically an agreement that for some amount of time you may not work for any competition in the area after your contract is done. This can be devastating if the clause is overreaching such as when competition is described as any company using similar technology within a 50 mile radius, and for the duration of two years.
 * cancellation and completion clauses - for the freelancers, make sure that if the client provides you with a contract of their own, it doesn't state something like, "we can cancel at any point and not pay for any work done so far while still retaining IP". These terrifying clauses popup often and can cost you your business.
+
+The basic thing I can tell you is reading through a contract and never trust it when someone says that this is a "standard". Look it up first, ask other developers.
+
+## Freelancing
+
+Let's talk about freelancing. Freelancing can be wonderful but usually requires a solid base of clients in order to be an enjoyable venture. And just like finding a job, there are certain strategies to obtaining and retaining customers. There's also the issue of "how much to charge" which no one can quite agree on, and finally, it's important to understand all of your responsibilities. And interestingly, remember that web development can be more than just that in clients' eyes.
+
+### Getting Clients
+
+Getting clients is sometimes easier than retaining them but both are daunting tasks. The first place you want to make sure is ready is your own website that showcases your work, discusses the services you offer, and hopefully quickly, can show off testimonials of past clients.
+
+The second place depends on you. I personally found freelance work by writing articles about freelancing, about making websites, and interjecting a little note at the end that says I'm available for projects. Not very effective.
+
+Another place is Craigslist. Believe it or not, many smaller business depend on craigslist as a means of getting work done. And even larger businesses do. Check it out, their services or web work section and see if there is anyone looking for work done. Be wary of people that have the "next Facebook!" idea or people that offer a percentage of future profit as a payment. Outside of that, make sure you can get these clients to sign contracts, even if they claim to not "do things this way". A lost client is better than a non-paying client that cost you several thousand dollars worth of work.
+
+There are plenty of other communities where people post projects and you can try to get in contact with the client and discuss it. Reddit is a good place. However, there are plenty of communities that just don't work well. There are many sites that are meant for developers such as ODesk and Freelancer but from my personal experience and the experiences that I've heard about it from many other developers, it's a pitfall of failure because of low-paying projects, high competition that underbids everyone, and sketchy client behavior.
+
+
