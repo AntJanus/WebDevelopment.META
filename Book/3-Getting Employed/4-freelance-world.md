@@ -88,4 +88,30 @@ This is why some companies and some individuals can reach very high rates. Some 
 
 As a freelancer, you'll have certain responsibilities, beyond that of taxes that you will have to make sure you take care of. If you don't, you might get in trouble and jeopardize your business:
 
-1.
+1. project management - clients *can* get lazy even if they tell you how adamant they are about their deadline. It's up to you to keep up the flow of information and the steam of the project. If you need content, make sure you get it, and make sure to ask for it when necessary. If you need a client's approval to move on, make sure they know and make sure you let them know that if you can't get approval by a certain date, you will have to postpone the deadline.
+2. invoicing - sending invoices (basically a piece of paper that says how much a client should pay you) is part of your job. So is following up on late clients, and possibly following up with whatever contractual obligations they have and whatever rights you have if they fail to pay on time.
+3. timetable - it's up to you to figure out how much you can handle. If you find several clients at once, great! However, you may not be able to pay attention to that many projects at once. Taking them on could force you to either work VERY long hours (I've heard of developers pulling 80+ hours a week) or breaking the contract. On top of that, you're risking losing quality, losing possible repeat clients, and pay altogether. Make sure you know how much you can handle and only take on that amount.
+
+There's much more than that, but you get the idea.
+
+### Beyond WebDev
+
+So when your client tells you they want a "website", it could mean one in a million different things. For a non-tech person, a website is a very nebulous term (which is why there are contracts that specify what a website is!) so make sure you know what you're getting yourself into. But also, know that you can't always avoid doing only one part of the overall job. It's easy to push off, for instance, design when you're the one doing web development; however, you may lose business this way.
+
+Freelancing is the epitome of the "jack of all trades" so let's go over some things that clients will see as a website and may expect from you:
+
+1. Design - Every freelance web developer I know has at least basics of design. This means that they can create a polished UI for a client's needs; however, it doesn't mean that you should have to be a UI design expert that can build the next generation communication web application for a watch.
+2. Development - This one is a given but it also means front-end as well as back-end. There will be clients that will need one or the other, but some will want both, not knowing there is a difference! :) Make sure you know enough of both to build a solid website
+3. SEO - or Search Engine Optimization is the black magic of making a website "pop" in the ranking of a search engine (basically, google). This is an effort worth an entire agency over the course of many months or even years so you can't possibly do this alone unless it's the only thing to do. You'll need to inform your client of that; however, there are things you *can* do as a developer: have clean markup, present all of your contents so that it's search engine legible, use the proper SEO tags (like using the correct `h1` for headings), and generate a sitemap without any dead pages (get rid of dead pages too). These few things won't put your client on the map but when they do approach an SEO company, the company won't have to make an extensive list of things that need to change on the back-end, development side.
+4. IT/Hosting - many clients maybe unfamiliar with the concept of "hosting" a website. You may be called on to recommend a hosting company and to even setup your final product there. Make sure you familiarize yourself with website migrations, hosting, and linux for this task.
+5. Error/Support - You may be thinking that once you're done with a site, you hand it off and don't have to think about it again but client's may not see things the same way. Every developer will create bugs that's why it's easier to say that clients pay you for time to build a website, not for the actual final product. Make sure you know how to debug, fix, and support your product.
+
+It should go without saying that none of these tasks should be offered for free and if you're uncomfortable with any of them, you may want to state so and make it known; however, the fuller complete package you can offer, the better. It's also worth mentioning that any of these tasks requested by a client should be on the contract and discuss limits of performing them. This is what's called a "scope", a defined set of limits within a project or a contract. Expanding it should change the contract.
+
+## Contracting
+
+Now that we're a bit more familiar with freelancing, let's jump into the world of contracting which is similar yet so very different. It can be a rewarding career move for people that like change, that want to move around between technologies and jobs. However, with this freedome comes the responsibility of finding the next gig right away, figuring out your benefits, what to charge for and what to not charge for, and a great deal more so let's dive in.
+
+### Finding the next gig
+
+Contractors should have an easy time finding the next
