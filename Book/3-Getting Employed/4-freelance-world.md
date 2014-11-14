@@ -110,8 +110,14 @@ It should go without saying that none of these tasks should be offered for free 
 
 ## Contracting
 
-Now that we're a bit more familiar with freelancing, let's jump into the world of contracting which is similar yet so very different. It can be a rewarding career move for people that like change, that want to move around between technologies and jobs. However, with this freedome comes the responsibility of finding the next gig right away, figuring out your benefits, what to charge for and what to not charge for, and a great deal more so let's dive in.
+Now that we're a bit more familiar with freelancing, let's jump into the world of contracting which is similar yet so very different. It can be a rewarding career move for people that like change, that want to move around between technologies and jobs. However, with this freedom comes the responsibility of finding the next gig right away, figuring out your benefits, what to charge for and what to not charge for, and a great deal more so let's dive in.
 
 ### Finding the next gig
 
-Contractors should have an easy time finding the next
+Contractors should have an easy time finding the next gig so this item is not so worrysome. Make sure, though, to have it aligned at least several weeks prior to the end of one contract. It's also not uncommon for companies to renew your contract continuously through the years. Some companies prefer this over full time hires or may have rules that prohibit full-time remote hires.
+
+### Benefits
+
+Most contracting gigs don't offer benefits; however, there are several alternatives to company-paid benefits. You can start your own 401K that you can contribute to yourself without the assistance of a company. And while you do lose on the "matching" amount a company would pay, you won't have to deal with rollovers and you'll be in full charge of it.
+
+As far as medical care, there are plenty of options out there. If you choose to do so, you may find a job as a "full-time contractor", which is a position at a company that hires out people. Meaning that you keep a steady position with full benefits while you contract with the company's clients.
