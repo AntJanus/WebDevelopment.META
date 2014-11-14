@@ -121,3 +121,17 @@ Contractors should have an easy time finding the next gig so this item is not so
 Most contracting gigs don't offer benefits; however, there are several alternatives to company-paid benefits. You can start your own 401K that you can contribute to yourself without the assistance of a company. And while you do lose on the "matching" amount a company would pay, you won't have to deal with rollovers and you'll be in full charge of it.
 
 As far as medical care, there are plenty of options out there. If you choose to do so, you may find a job as a "full-time contractor", which is a position at a company that hires out people. Meaning that you keep a steady position with full benefits while you contract with the company's clients.
+
+### Tracking your time
+
+This bit can be confusing but as a contractor, even one that works "full-time" or 40 hours a week, you'll be required to submit a time tracking sheet. Depending on who you work for, it may even require justifications as to how you spent your time though I haven't encountered too many companies that do that. There are some things you may not be aware of. For instance, you can't track time you spend eating lunch. For all intents and purposes, it's an hour off. However, meetings, discussions with other employees regarding a project *can* be tracked. Even checking your email can be tracked.
+
+Generally speaking, as long as you're devoting your time to work in one way or another, it can be tracked.
+
+## What it all means
+
+All kinds of things but one thing I can recommend for everyone is trying out Freelancing, no matter what. It's a great way to get initial experience when you're starting out or to get extra money on the side when you have a big purchase coming up. It's also a great path in the web development career; however, it's definitely not for everyone.
+
+If you have an adventuruous spirit, freelancing is definitely a great journey and it can be a great way to build a startup.
+
+As far as contracting goes, I recommend it for the jittery but it's not something you should or need to experience. It's just another way of doing things.
