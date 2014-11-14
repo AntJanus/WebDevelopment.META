@@ -69,4 +69,23 @@ Another place is Craigslist. Believe it or not, many smaller business depend on 
 
 There are plenty of other communities where people post projects and you can try to get in contact with the client and discuss it. Reddit is a good place. However, there are plenty of communities that just don't work well. There are many sites that are meant for developers such as ODesk and Freelancer but from my personal experience and the experiences that I've heard about it from many other developers, it's a pitfall of failure because of low-paying projects, high competition that underbids everyone, and sketchy client behavior.
 
+Outside of that, there's always "cold emailing", or emailing business that look like they need a new website; though, I've never had any success with that particular one.
 
+### How much to charge
+
+This one ranges wildly from $20/hour to $150/hour depending on the type of the work you do. The rule of thumb is to pick a salary you'd like to make and work your way down from it:
+
+1. Multiply the rate by a certain % to account for extra taxes
+2. Add extra money for days off and holidays. Most companies have about 6-9 holidays a year plus 10-15 days off a year
+3. Add expenses that will come out of your pocket. You'll need a computer, accounting software, billing, invoicing, web development software, probably some subscriptions, etc.
+4. Savings for the time that you won't be able to find a project.
+5. Expenses to find a client
+6. And money to take into account when business speeds up or slows down.
+
+This is why some companies and some individuals can reach very high rates. Some developers charge at least $10K per project, and each project can last anywhere from two weeks to a month.
+
+### Responsibilities
+
+As a freelancer, you'll have certain responsibilities, beyond that of taxes that you will have to make sure you take care of. If you don't, you might get in trouble and jeopardize your business:
+
+1.
