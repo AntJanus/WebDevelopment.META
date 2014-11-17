@@ -33,3 +33,21 @@ It's difficult to describe the benefits other than just the community and a plac
 If you have a question, feel free to ask and hopefully get good responses. There are several communities specifically geared toward CS careers (computer science) which can help you with your resume, with where to look and everything else.
 
 One last thing, a potential employer may look through your twitter history. This can be a good and a bad thing. I've had an employer go through my reddit history out of curiosity and that fostered an instant connection between him and I since I did the same with his account.
+
+It's, however, not a necessity. I've had a person attend my talk where I discussed how social media helped me land a job. Well, in fact, I worked with a co-worker who was hired on the basis of a twitter conversation. And she asked me how to go about being active on twitter and making a "personal" brand as a web developer when she doesn't really like it. I answered her as honestly as I could: You don't *have* to do it.It may not even pay off for most people.
+
+## Blogging and blogs
+
+A great way to spruce up your website is by adding a blog to it. There are several good reasons to do so outside of possible SEO benefits, and one of them is getting your portfolio some exposure. Many websites that are frequented by high-profile developers and even recruiters allow submission of interesting articles. HackerNews and Reddit allow such submissions.
+
+Now, I don't recommend this as a strategy for getting a job but there are lots of rewarding reasons for writing a blog:
+
+1. writing tutorial blogs helps you internalize and learn. It's the same concept as teaching a subject helps you learn about it more in-depth because you're forced to explain the topic in terms that a beginner could understand.
+2. writing opinion pieces on tech can gather you a good discussion on the topic and thus enables you to challenge your ideas and possibly get validation.
+3. it gives you a great chronological "developer's diary" of what you thought, what you struggled with, and how you overcame those challenges.
+4. if you're smart with monetization, your writing could pay off somewhat (nothing worth switching to full-time).
+5. for anyone looking at your site and wanting to hire you, it's a great way to showcase your skills, your knowledge, and your ability.
+
+I definitely recommend everyone having one even if you write in yearly "What I've learned" and "What I plan to do" or even if you just gather your favorite articles in one place.
+
+However, as with social media, don't get into it if you find it too much of a hassle. I know plenty of web developers that don't even bother with one, but plenty that love blogging too.
