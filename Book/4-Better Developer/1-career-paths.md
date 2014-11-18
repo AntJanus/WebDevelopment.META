@@ -53,3 +53,55 @@ A front-end developer deals with what shows up in the browser. This can encompas
 Front-end developers have the ability to shape the way a user interacts with their application. This can feel very powerful and can be extremely rewarding. A front-end developer may follow spec but usually it's up to them to figure out how to execute it.
 
 Front-end developers, as far as programming goes, have to deal with front-end performance issues, being able to write code that works the same way across a myriad of devices and much more. While they are restricted to only one official cross-platform language, there are hundreds of libraries and many different paradigms to follow. It's also the place that's seemingly advancing the fastest in the landscape. From industry-changing frameworks to rapidly advancing browsers that can do more every year, a front-end developer can live "on the edge".
+
+As a front-end developer, the job market varies from lucrative startups to a ton of freelance work for smaller businesses. As a front-end developer, you can make yourself quite a comfortable career. The big upside of this expertise is how quickly it's growing, how much demand is increasing and how much the career is becoming more coveted.
+
+## As time goes by
+
+As time goes by, you will have to make more difficult choices, and not just ones that involve which tech you work with. In fact, the more time goes by, the more you'll realize just how much everything is blending together. Front end and back end will start to resemble each other, and all languages will seem quite similar except for a few nuances. At that point, I'd say you achieved the Senior Developer level; however, your career wants may take you elsewhere.
+
+Some people call developers "code monkeys" (which, in reality, sounds pretty offensive), and you may want to get away from that but still stay at the tech side. There are several opportunities you'll be faced with.
+
+### Senior Developer (management heat: 0/10)
+
+Not much a monkey, more of a gorilla that bangs its chest and lets everyone know what they should be doing. As a Senior Developer, you'll be in a unique position to mentor junior developers and partake in important technological decisions as well as handle the hardest challenges set before you. This is the position where you get to argue with other senior developers, with your manager, and everyone else about your position on a decision.
+
+And it's important to argue and hold your ground, you're there specifically for your expertise. Senior Development still requires a lot of coding but some coding will be replaced with important decision-making on application architecture, white-boarding solutions to complicated problems, and estimating deadlines for larger projects. You'll focus more on creating an application that will last that others will work on.
+
+There's a saying that you should write your code as if the next person to work on it is an OCD-driven serial killer that has your address. In this case, a senior developer is someone who is least likely to become the next victim because half their career is staked on making code that junior developers will be able to work with, update, and patch while they're off doing the next big thing.
+
+Senior development is wonderful for all of those that want to keep coding but take on some responsibility while not leaving development altogether.
+
+### Lead Developer (management heat: 3/10)
+
+As a Lead Developer, you take on not just the senior developer role but also somewhat of a manager role. This means that you'll have responsibilities outside of your code such as some project management, estimation of deadlines, ability to speak with upper management about the problems you may be facing, and delegation of rules. This position ranges wildly depending on where you work.
+
+Being a Lead Developer can mean anything from being the ONLY developer (startup) to being a Lead Developer of all developers currently working for a company (mid-size company) to being one among many lead developers that lead a team of specific developers (mid-size/enterprise). As a lead developer, you'll need inter-personal skills on top of your coding.
+
+Many take on this role to not only have the final say (or as close as possible to it) over technology but also to have the ability to steer the entire development team where they see fit. A senior developer may argue but it's the Lead Developer that puts their foot down. In this case, a Lead Developer uses the senior staff to guide their decisions. This can offer its own challenges but its own set of rewards outside of coding such as a happy team, a productive team, and ability to change age-old practices at the company (such as not using version control).
+
+It's definitely a worthwile career for anyone that wants to do more than just sit in front of a text editor trying to get at the next problem. It's definitely a career for someone who wants to be a leader.
+
+### Project Manager (management heat: 5/10)
+
+A project manager can work anywhere, not just in a tech field but let's discuss a high-profile project manager in tech. For this role, you'd be required to know more than just tech, you're required to know people. This career step requires you to be more "manager" and less "developer" in order to keep projects in a row. And it's a god-awful job if you can't figure out what makes people tick in your team.
+
+So first of all, you'll need to be good at estimating deadlines and by that, I mean, you'll need to be good at knowing what a developer really means when they say "a couple of hours" because in some cases it could really mean a couple of hours, in others it could mean "6 months and half a million dollars". It'd be your job to figure out which is which and how to prioritize the task.
+
+The joy of project management is orchestrating the wealth of resources under your hands to get a job done. It's about knowing the right people and distributing workload based on who can handle it, who can do it the best, and who can do it the quickest as well as keeping a good rotation of projects in order to not fatigue developers.
+
+The developer part of this job is basically knowing developers because you've been one, and knowing when "simple changes" become horrendous nightmares. I would say that it's also the job of a project manager to estimate time in such a way that no corners can be cut.
+
+Unfortunately, PMs can get a lot of flack, and many people just "don't believe in them". I believe that the nay-sayers have never experienced a good one.
+
+### Manager (management heat: 10/10)
+
+A manager is, simply, a manager. In the hierarchy of things, they're above a PM, above a Lead Developer, and above a developer. But they're also almost the furthest from code (usually). As a manager, you becomes responsible for your entire team, your projects, deadlines, and on top of that, all of the managerial tasks such as discipline, hiring, team coherence, complaints, etc.
+
+If that was not enough, you're also THE person to have to meet with other managers and represent your team. You have to fight for your team, get involved in office politics, and take the heat for any failures of your underlinks. It's definitely not a job for everyone.
+
+If I was to describe this job in one word, you're the "Shepherd" and your developers are your sheep while your PM is your dog helping you keep your sheep in line. As the shepherd, you have to protect your flock, make sure it thrives, steer in the right direction, and possibly go running after that one stray sheep which is headed for the wolf's den.
+
+Many find this job rewarding but it is far from coding. Many managers I've spoken to that used to be coders talk about the simpler times when they enjoyed "just coding". Some others talked to me about how they code as a hobby now, not as a job and it's not only more enjoyable but it enables them more input on what goes on in their team.
+
+This career path can lead to bigger and better things as you become a manager of managers, a directory, vice-president, or a CTO (Chief Technology Officer).
