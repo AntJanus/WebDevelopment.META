@@ -28,4 +28,28 @@ In this path, you're entering a whole new world for developers because DevOps di
 
 I've discussed back-end vs front-end; however, working as a full-time developer on either side can be a much different experience. As a back-end developer, you will be responsible for the bulk of the business-logic (the code required to perform your business's specific duties), data storage, and communication with the front-end. This can be a daunting job; however, back-end languages have their charms and beauty. Back-end developers also usually don't have to focus on the look of the website, but rather deal with the programming aspect of it.
 
-One of the greatest advantages of back-end code over front-end code is the wealth of languages you can use. From C\# to Python, PHP, Ruby, there are even C++ frameworks for the back-end, not to mention Java, Scala, and I could keep going while the front-end is limited to its Javascript and possibly you could count Dart (which compiles to JS anyways). 
+One of the greatest advantages of back-end code over front-end code is the wealth of languages you can use. From C\# to Python, PHP, Ruby, there are even C++ frameworks for the back-end, not to mention Java, Scala, and I could keep going while the front-end is limited to its Javascript and possibly you could count Dart (which compiles to JS anyways). This means that there is a wealth of paradigms to tackle, and many new paradigms that people test and try to advance.
+
+Back-end developers usually don't deal with interactivity but create endpoints for front-end developers to hook into for that specific interactivity.
+
+Back-end development is where you get to really get your programming chops on. These positions also offer the greatest range of employment since any large company that needs a developer, will most likely need a back-end developer. These positions are also paid the most since they deal with proper logic execution, performance, and everything else to do with making money.
+
+### Full-stack developer
+
+A full-stack developer tends to move between layers but the best way to describe one is by saying that a full-stack developer is great at two things: prototyping, and finishing products. By that I mean that a full-stack developer can be given a task and not only get the rudimentary business logic in place but also get the front-end started with basic interactivity.
+
+This is great for full-time prototypers wherein, after a project's completion, a back-end developer can come in and put together a well architected solution and a front-end developer can come in and layer on some crazy interactions.
+
+This is not to say that a full-stack developer cannot do both of those as well (some can, some can't); however, the point of a full-stack developer is not to get bogged down on either end.
+
+As far as the "completion", this is to say that after the architecture is done, bulk of the back-end work, and the front-end, a full stack developer can come in to implement new features that span both sides.
+
+As far as the work environment, full-stack developers don't often get specifically "full-stack" positions but rather can move in a company on both sides, or, when finding a new job, switch paradigms instantly. This offers a wide range but without being fully submerged on either end, it can be difficult to get into the highest paid ranges. I'd say that most developers are *somewhat* full-stack developers, knowing things somewhat well on both sides.
+
+### Front-end developer
+
+A front-end developer deals with what shows up in the browser. This can encompass interactivity, converting design to code, animations (nowadays), and sometimes even design. Front-end developers are famed as the "normal" people when it comes to programmers. I think that mostly has to do with the visual aspect of their work. Code changes and work is tangible rather than more abstract. And clients can see updates immediately, being able to view a "before" and "after" shot.
+
+Front-end developers have the ability to shape the way a user interacts with their application. This can feel very powerful and can be extremely rewarding. A front-end developer may follow spec but usually it's up to them to figure out how to execute it.
+
+Front-end developers, as far as programming goes, have to deal with front-end performance issues, being able to write code that works the same way across a myriad of devices and much more. While they are restricted to only one official cross-platform language, there are hundreds of libraries and many different paradigms to follow. It's also the place that's seemingly advancing the fastest in the landscape. From industry-changing frameworks to rapidly advancing browsers that can do more every year, a front-end developer can live "on the edge".
