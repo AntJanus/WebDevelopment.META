@@ -34,6 +34,30 @@ Working long hours. Contrary to popular belief, working longer hours does not ne
 
 This means that, no more weekend work, no more "staying after five" or whenever, and no more working late at night at home just to get a project done on a deadline. But if you do need to work longer hours it should happen rarely and not be a habit. On top of that, it should be followed by a time of less stress and responsibility. Meaning that once you launch that long difficult project, take a break.
 
+Taking on too much. Another good point is not to take on too much. It might seem inviting to volunteer for every new project but in the end, it'll lead to stress. And if it doesn't lead to working long hours, it will still lead to fatigue. Sometimes, it's inevitable but over-assignment should be a last resort. Prolonged exposure to high stress will definitely knock you out of the game.
 
+There are other reasons but two those are the top ones. Along with that are less visible and recognizable ones:
 
+1. working monotonously with no new projects and no real change in the form of the projects.
+2. unclear job expectations.
 
+## Solution
+
+The solution is to never get to the point where you're starting to think you've burnt out. However, you may have already passed that point of no return. It's fine, we've all been there and we will all be there again. Let's talk about what you can do once you reach that point.
+
+First of all, stop doing what's putting you in this position. If you've been working long hours, cut them back to your regular hours. If you have too many projects, talk to your PM or your manager about clearing your plate. If you can't, try to push the projects off as much as possible.
+
+Next, try the quick-fix solutions:
+
+1. whenever you're off work, go outside and away from electronics.
+2. take a few days off to just relax and get away.
+3. spend a weekend doing this you want to do, no programming.
+
+But that will only keep things from getting worse. What you'll need to do is start changing the way you work:
+
+1. Don't allow long work hours.
+2. Speak to your PM or Manager and communicate with them about your workload.
+3. Switch to a new project if you can.
+4. Ask for recognition of the work you do.
+
+And honestly, if you encounter severe issues with any of these points, start looking for a new job.
