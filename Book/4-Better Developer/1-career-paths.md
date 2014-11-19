@@ -105,3 +105,9 @@ If I was to describe this job in one word, you're the "Shepherd" and your develo
 Many find this job rewarding but it is far from coding. Many managers I've spoken to that used to be coders talk about the simpler times when they enjoyed "just coding". Some others talked to me about how they code as a hobby now, not as a job and it's not only more enjoyable but it enables them more input on what goes on in their team.
 
 This career path can lead to bigger and better things as you become a manager of managers, a directory, vice-president, or a CTO (Chief Technology Officer).
+
+## And much more
+
+As always, there are no neat boxes to fit developers into but the main categories are clear and encompass 90% of development professions. If you don't know which path you'd like to go down, that's fine, you have all the time in the world.
+
+I know plenty of developers that have been in the game for decades and still switch around and move around the field. It's the same for you.
