@@ -30,7 +30,10 @@ In short: a 10xer is a scapegoat for accomplishments and an utterly simplified s
 
 There has been a strange rise of people using super-simple text-editors to write code. Vim is a text editor shipped and/or available for most operating systems in the world. It's available via the command line and recently via GUI as well. Emacs is pretty much in the same boat albeit a few years younger. Sublime Text took what these two offered and created a very powerful text editor that was simpler than IDEs (integrated development environments) but more user-friendly than the commandline text editors.
 
-In truth, developers will try to persuade you that THEIR setup is better. It's just something we do. I use VIM, I recommend it, it's a wonderful experience. But I've used Sublime Text as well as many IDEs and they all work well.
+In truth, developers will try to persuade you that THEIR setup is better. It's just something we do. I use VIM, I recommend it, it's a wonderful experience. But I've used Sublime Text as well as many IDEs and they all work well. In fact, the difference in productivity was the setup of these editors, not the editors themselves.
 
+There was recently a discussion about how Eclipse (a popular Java/C++/anything IDE) is slow; however, with some adjustments, it's an incredibly fast and wonderful editor. VIM experienced a rebirth when people realized that about 50 lines of configuration (not a lot, trust me) and some plugins could make the editor extremely powerful. Emacs is the same situation.
+
+So it's really up to you to know what works es
 
 

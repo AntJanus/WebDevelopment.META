@@ -82,3 +82,5 @@ There are some main criteria that you should adhere to but make sure to tailor e
 It all boils down to communication about your job and taking breaks from the computer. It sounds simple but most developers can't uphold even 2 of these suggestions in their workplace.
 
 It's unfortunate for them and they WILL argue with you that working 15 hours a day is great for them and how much they love it but a couple of years down the road they'll be stringent advocates of 8-hours-only days.
+
+Make sure that your voice counts.
