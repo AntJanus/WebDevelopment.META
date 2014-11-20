@@ -24,3 +24,13 @@ However, again, it's a fallacy. The reason why projects stall or become drawn ou
 
 When finally an outsider is hired at a terribly high rate and presented with a specific spec, the game changes. Scope change now requires new contracts, office politics had to have been settled by now, approvals have to be timely or already done by this point. Any delays or mistakes cost real-time additional money (not just fixed budgetted-for salaries). The developer also has a clean slate at this point, no more legacy software to deal with. Suddenly, the project is free of all of these hurdles and can easily be fulfilled. And voila, an outside contractor suddenly accomplishes more than the entire company could together.
 
+In short: a 10xer is a scapegoat for accomplishments and an utterly simplified situation in which a single developer is made out into a legendary hero that others should aspire to.
+
+## VIM and/or Emacs and/or Sublime Text will make you a better developer
+
+There has been a strange rise of people using super-simple text-editors to write code. Vim is a text editor shipped and/or available for most operating systems in the world. It's available via the command line and recently via GUI as well. Emacs is pretty much in the same boat albeit a few years younger. Sublime Text took what these two offered and created a very powerful text editor that was simpler than IDEs (integrated development environments) but more user-friendly than the commandline text editors.
+
+In truth, developers will try to persuade you that THEIR setup is better. It's just something we do. I use VIM, I recommend it, it's a wonderful experience. But I've used Sublime Text as well as many IDEs and they all work well.
+
+
+
