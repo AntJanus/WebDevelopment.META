@@ -60,4 +60,25 @@ But that will only keep things from getting worse. What you'll need to do is sta
 3. Switch to a new project if you can.
 4. Ask for recognition of the work you do.
 
-And honestly, if you encounter severe issues with any of these points, start looking for a new job.
+And honestly, if you encounter severe issues with any of these points, start looking for a new job. You're worth it.
+
+## Prevention
+
+Lastly, let's discuss prevention. From the solutions list, you should already have an idea of what you need to do. But just to be organized, I'll go over it again with some extra tips especially ones concerning lifestyle because work burnout can be caused by outside influences as well. Prevention is probably the most important part of this chapter as prevention should slowly become a part of your life as a developer and internalizing the advice in this section will help you become a better developer. Because what's better than a developer who can handle stressful situations, can work sustainably at the same level, and rides high on productivity and low on burnout? Not much, and it's a big step toward become a better dev and moving along in your career path.
+
+There are some main criteria that you should adhere to but make sure to tailor everything to your own specific needs:
+
+- If you have time off, take it throughout the year to replenish your reserves. Vacations are great. Vacations away from electronics are better.
+- While working, make sure to take breaks. If you follow the pomodoro technique, work for 20 minutes, and take a 5 minute break for a stretch. Go for a walk during lunch.
+- Work only during your hours. That means no working through lunch, no getting extra work in at home at night, and no long hours. If you absolutely have to, make sure to follow with a replenishing activity.
+- Switch up projects. Make sure to communicate with your superiors and try to switch up the nature of what you work on.
+- Outside of work, get a non-computer-related hobby. It's very tempting to go home and code some more but make sure you have other things to do as well. Most high-profile developers do, from wood burning to writing and composing music.
+- When job-hunting, consider the challenge in your future job. Don't pick a job that's too dull nor too chaotic.
+- Keep an open communications channel with your supervisors about work. They should know if you're overworked or underworked or if expectations of you are unclear.
+- Work out. Seriously. I'll talk about dev health later on but exercise is the number 1 way to get rid of stress and tension and to reset your mind away from work.
+- Whenever you finish a big project, do a small celebration for yourself. Include others in on it, and celebrate your teams' successes as well. This goes double if your team doesn't celebrate anything, ever.
+- When you encounter a problem you can't seem to solve, get away from your desk and go for a walk.
+
+It all boils down to communication about your job and taking breaks from the computer. It sounds simple but most developers can't uphold even 2 of these suggestions in their workplace.
+
+It's unfortunate for them and they WILL argue with you that working 15 hours a day is great for them and how much they love it but a couple of years down the road they'll be stringent advocates of 8-hours-only days.
