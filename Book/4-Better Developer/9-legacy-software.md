@@ -75,4 +75,73 @@ Legacy software is a mix of that "debt bankruptcy" and can apply to being locked
 
 So what happens to that old software? It becomes "legacy software". Legacy software often makes us thing of "time long ago". It makes us think of Java, of Windows XP and Internet Explorer 6, it makes us think of large dusty computers with code written in the 90s. And you're half-right, there's plenty of those and plenty of companies hiring new developers to completely rewrite their application. But until the rewrite is done and every feature and every user migrated, there's still "legacy software", the old version, to deal with.
 
-Legacy software is a fickle. It *always* feels old, terrible, and you're wondering who was drinking or smoking what when they wrote it. Often times, we get to look at our own software become legacy for one reason or another and so we realize just how far we've come from it.
+Legacy software is a fickle. It *always* feels old, terrible, and you're wondering who was drinking or smoking what when they wrote it. Often times, we get to look at our own software become legacy for one reason or another and so we realize just how far we've come from it. The problem is that it *works* for its purposes right now and it's difficult to move away from that or justify a rewrite.
+
+Imagine a manager's position on a decision like this one. After hearing about the current system's limitations, he or she has several different options. One of them is to ask the developers to write a better system with modern methodologies, platform, and libraries. The plan to make the modern version of the software is a difficult one to follow and we can go over that. After all, you may be tasked with this yourself.
+
+### Starting Over
+
+One of the inevitabilities with legacy software is starting over. There are still companies out there running obscure old versions of hardware and software because they can't justify a rewrite. The investment they made was so large and vast that paying very high salaries to developers that can fix bugs and problems year after year is cheaper than starting over.
+
+However, for most companies, that is not the issue. Some hold out a decade, some two, but it *will* happen.
+
+But what does it mean starting over? It doesn't just mean "rewrite the same exact logic but make it work on X better language", not at all. It's a time for spring cleaning, it's a time for re-evaluation of the features, and time to hypothesize where the application will go in the future.
+
+One of the first things to do when doing a rewrite is analyzing the legacy software. Here are some things to look for:
+
+1. why did the software reach the end of its life? Was it a technological limitation or code limitation?
+2. what are the most used features of the application?
+3. what are some features that are never used?
+4. what were some features that could not be implemented over the years **because** of its limitations?
+5. what parts of the software do most features rely on and how do most features work?
+6. if the underlying platform could do anything you wanted, what would be the ways to improve the software as far as code ande execution goes? Would it benefit from concurrency, asynchronous calls, or lower-level language usage to speed up the execution of the most vital code?
+
+After an analysis is done, it's time to figure out what can be cut out and what the minimum viable product is, or in other words, what's the minimum our new software has to be able to do in order to replay at least a portion of the legacy software.
+
+Many times, the legacy software includes features that were added long time ago when it was still a code baby; however, since then, no one had a reason to remove them, despite them not being used. Some of these extra features can cause slow-downs, or can hamper advancing the application itself because no one really knows if they're used or not.
+
+However, there are features that excel and drive the masses to run the software. These features should be paid extra attention. They should be analyzed for improvements and where the bottlenecks are. And how the next platform can make these features even more usable. These frequently-used features are generally what you'll want to use for your MVP (minimum viable product).
+
+When it's time to gather all these features and set a plan for your new application, there's also time to evaluate future features. This is the kicker, and this is one of the reasons why you're rewriting. Legacy softweare can often feel like a shackle with a chain soldered to a sky-scraper. Well, now you're free.
+
+Ask your management, other developers, and yourself, what are some things you want to add but can't? What are some frequently-requested features that were never fulfilled? What technological limitations does the software hit performance wise and usability-wise? Those questions will help you steer the development to the right technology choices.
+
+The reason why this is important is because you're wanting to push off the time when your new software becomes legacy by as much as possible. Let's look at a sample scenario.
+
+**Our Scenario**
+
+Susan from that new startup has worked there for several years and has overseen the development of more and more features, and witnessed the platform slowly become disorganized and slow to a halt. The management was already aware of a rewrite because of a pivot in certain aspects of the business as well as wanting to restart the product with better features.
+
+Susan correctly identified that the restart and development of certain features was no longer possible because of the platform's lock-in to their programming language, platform, and the application's current limits. After getting the go-ahead, Susan started to work through the legacy software to figure out what to change in the new software.
+
+For instance, several old features like a forum portal, application widgets, and an API for the latest finance information were not used by the users. The API barely got any hits and all of them were internal. The widgets were a bust, and the forum was a ghost town. Nevertheless, all three major parts of the application have been supported and reach out into the core of the app.
+
+Several wishlist features could not be fulfilled because of the application's structure as well. One of them was a better API that could serve data faster and work more comprehensively. As it was, the API dependent on classes and structure that was utilized at the genesis of the app, classes and structures that did not work well and would break at any change.
+
+On the flip-side, there are several features that the users sign up for. The crown jewel of the application is a no-nonsense financial spreadsheet app used for home budgetting. Users have been asking for some group permissions features in order to share their budget with others, temporarily or otherwise. But it's been impossible due to the structure of the User database and the way the user class was handled.
+
+After putting together her list of wishlists and cuts, Susan decided that the API portion of the application will be its own sub-app, running on its own platform. Since it's data-driven, it did not require to be part of the main application. On top of that, it would help keep the API features separate from the crown jewel's features.
+
+She chose to work with NodeJS for the API due to its ability to send out several queries at once without blocking, and allowed very non-nonsense, quick after processing. That would allow for rapid prototyping, quick rewrites, and being able to develop the API as a useful application of its own without polluting the main application. She also designated this platform to launch any other API-driven apps that didn't require the main codebase.
+
+For the main application, Susan decided to go with Ruby because of the way it could handle general math computing required by most of the application but also because of Ruby's agile development that could help keep the application modern. She needed the heavy computing aspect of Ruby in order to facilitate an add-on feature to the spreadsheet app, a general "advice" engine to help improve user's budget that relied on expert advice, calculations derived from the user's own activity, and the patterns instilled by the users at large.
+
+She also realized that to keep up with the requirements of the modern world, she would have to expose a robust API in order to create a front-end application that could increase usability.
+
+Her front-end skills lacked in some areas so she did some of her own research and delegated the rest of it to a front-end expert on the team. He came back suggesting the use of ReactJS, a Javascript framework that was used by Facebook. It not only had strong backing (FB), but it suited the spreadsheet structure of the app which other frameworks could not handle. On top of that, ReactJS had a ruby gem that would allow them to use React's templating on the back-end.
+
+In the end, Susan had to cut some of her ambition down and postpone the development of the NodeJS API but she was able to get started with the Ruby application and slowly replace the legacy system's implementation.
+
+**what it all meant**
+
+Susan was faced with a lot of tough decisions and you will be, too. Sometimes there won't be a clear cut MVP, sometimes managers will push to have old features reinstated believing that someone will magically start using them.
+
+She may also have been faced with running tests to see how users would react to changes and figure out what's missing where and if her idea for an "advice engine" would even be welcome.
+
+That's all fine. Luckily, she wasn't faced with the worst case: not being able to start over.
+
+### Patching the sinking ship
+
+I talked about the manager of the company having two different decisions at hand. One of them was starting over. The other one I will discuss now, patching the sinking ship. It basically means making the best of what the current platform can offer. The reasoning behind it can be numerous, from saving costs, to delaying until a new MVP is created, it could also happen when the cost of a new system is not yet justifieable. It's one of those situations where you can be frustrated about it as a developer, having to support an older system, but as a manager or even a Lead Dev, you may have to make decisions that are good for the company, not necessarily good for the application. There is nothing bad about it but it can be annoying as a developer. Try to see the bigger picture.
+
+Another reason could be that the older product *is* salvageable. 
