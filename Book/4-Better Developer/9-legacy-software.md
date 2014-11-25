@@ -144,4 +144,32 @@ That's all fine. Luckily, she wasn't faced with the worst case: not being able t
 
 I talked about the manager of the company having two different decisions at hand. One of them was starting over. The other one I will discuss now, patching the sinking ship. It basically means making the best of what the current platform can offer. The reasoning behind it can be numerous, from saving costs, to delaying until a new MVP is created, it could also happen when the cost of a new system is not yet justifieable. It's one of those situations where you can be frustrated about it as a developer, having to support an older system, but as a manager or even a Lead Dev, you may have to make decisions that are good for the company, not necessarily good for the application. There is nothing bad about it but it can be annoying as a developer. Try to see the bigger picture.
 
-Another reason could be that the older product *is* salvageable. 
+Another reason could be that the older product *is* salvageable. There are certain things you *can* do to patch up the hole in your software and possibly even refactor, bit-by-bit to bring it up to speed, reintroduce coding standards, overall make the application a joy to use again (or at least make it bareable!).
+
+Here are some things that will help you tighten up the app a bit:
+
+1. Introduce proper testing. Testing will help make sure the application works despite any pocking, and refactoring you do. This makes the process easier because each time you make a change, you'll be able to verify the application working.
+2. Start refactoring smaller portions of the app. This helps you gain some momentum while updating the database.
+3. Make changes to make the app's code more manageable, but don't change the behavior. This is so that you don't have to introduce additional complexity until the refactor is done.
+4. Section off parts of the application to do bigger refactors.
+5. Break up the app into smaller sections. Try to untangle spaghetti code into small parts, write tests to confirm they work, and keep going.
+6. Develop a reusable dev environment so that you can test and retest your code.
+7. Utilize a CI cycle. Meaning that you have an automated code tester and safe deployment strategies.
+
+When it comes to refactors, you'll have to definitely consider if certain classes are redudant, or if they can be reclassified. Abstraction is your best friend as well, especially in this process.
+
+Remember that patching should be an iterative continuous process, not a complete immediate overhaul (then you might as well start from scratch). Employ design patterns to the best of your ability and look up design patterns for your particular language framework in order to find out what people did to make *their* app work long-term. It can be enlightening. For instance, many frameworks offer the use of adapters which help plug into external services. Abstracting out external connections from existing controllers into adapters is just one way you can make your application neater.
+
+Patching up might not be a bad thing because during the process you'll learn a lot about where you went wrong with the initial architecture. It could easily tell you if you've been neglecting the framework's inner features or if you've been too stuck with a framework and forced your code to adhere to it that you sacrificed achitecture that works for *you*. There could be other indicators like absence of critical tests or remnants of the app's prototype from years ago that never go audited. Or it could just be the overuse of a specific pattern that no longer fits the way the application works.
+
+All of them are valid considerations and should be analyzed. You don't have to spend hours pouring over it but be mindful of how you wrote code and where your code is headed today.
+
+But seriously, write tests.
+
+## And everything together
+
+Last lesson I'd like to bestow is that nothing is as cut and dry as what I write about. Technical debt can be difficult to spot and distinguishing between "good" and "bad" debt even more difficult. However, as a developer, you should always be vigilant and balance out the amount of crud you accumulate in your application as a result of faster development or faster application deployment.
+
+As far as the legacy application stuff, be aware that your ultimate solution may consist of full-rewrites in some parts, and patching in others. I personally worked at a company that slowly, one-by-one moved out non-critical application functions into smaller rewritten apps until finally, all that was left was the main "engine" of the app. And even that was on the verge of an overhaul.
+
+Oh, and be kind. The person that wrote the legacy software (if it wasn't you), is probably WAY better by now, and would probably be ashamed of that heap of garbage you're looking at now! :)
