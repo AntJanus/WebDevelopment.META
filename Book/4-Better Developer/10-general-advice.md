@@ -65,3 +65,15 @@ Let me illustrate a day of using a dev environment (a proper one!):
 It's definitely worth investing into especially when onboarding new developers who can simply install vagrant, get a copy of the app, and run it, being able to poke around, create new users, and do anything else on it.
 
 ## Version Control
+
+Version control is THE thing that everyone mentions to newbies and suggest it to any pros that don't use it yet (chastise them  rather). Version control is a system that allows you to "store" version of your code. Imagine that every time you save, a copy of your file is saved in a server. On top of that, you can browse through the history of your file and go back and forth between versions.
+
+Except things are a little more complicated and *much* better. For instance, you don't just version a single file, you keep your entire project. What's cool is that every time you make a change, you can commit that change (so no *autosave* into version control). Committing a change means that you're *sure* you want this change to be part of the official project and its history, collectivelly called a "repository" or "repo" for short. A commit allows you to add a message like "fixed parse error in WorkController.php" or even longer messages to list all of the tasks you've done.
+
+Once you're done, you can "push" your changes to a server and your co-workers can can "pull" your updates to their repository copies. So the history of your project is present not only on your machine, but also on your server, and whoever else copied the repo.
+
+So, you get the "version control" part right? You get to save, create a file history that you can browse. You can reset to an earlier commit or overwrite bad commits. You can even "tag" a specific part of your history with a version number. Such as `v1` and designate that as your official release. You can skip in the history list by those tags.
+
+But there's so much more to version control. Think about those co-workers who can push and pull changes from the repo. The version control history works in terms of "deltas" or a written history of a file based on changes rather than saving an entire file with a copy every time. That means that you can merge your co-workers changes without messing up what you're working on right now.
+
+There are some features to help with that process of colaboration.
