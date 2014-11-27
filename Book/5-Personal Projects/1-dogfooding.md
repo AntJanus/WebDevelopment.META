@@ -1,0 +1,27 @@
+title: Dogfooding
+----
+content:
+
+When working on personal projects, it can be difficult to keep focus. In fact, one of the most common jokes between developers is the fact that we all have a big number of half-finished, non-functioning projects that we all swore to get back to one day but didn't. And you'll be there, too. One day, inspiration will hit and you'll hit the ground running until you're tired at which point you'll leave that piece of ground forever.
+
+The idea behind starting a project strong and keeping it up is that of "momentum". Momentum is the steady advancement of a project. Long-term projects often suffer from keeping up that momentum until they fall into disrepair while many short-term projects suffer from building it up. It's a psychological effect with real-world consequences.
+
+For instance, the longer you stay away from a project, the longer it will take you to get back into it. If you stay away too long, you may need to update dependencies, frameworks, software/hardware, etc. thus keeping you further away from actually accomplishing something. Outside of that, losing momentum can quickly deprioritize a project and may even push into the project graveyard.
+
+It's even more crucial to personal projects because those don't have financial backing or a PM to keep you on your toes. In fact, there is little incentive behind the project to keep it going. There's no reward at the end, nor a pat on the back for getting the job done.
+
+Which is how we come to the concept of dogfooding.
+
+## Build for your needs
+
+Dogfooding, in a simple sense, is the concept of building to satisfy your own needs. Not just learning needs or creativity, but real-life needs that could be solved by an application. The need has to be strong enough to keep yourself working under that motivation.
+
+A great example of this is a snippet library. A snippet library is a library of snippets, or short samples of code, that some developers keep around to use and reuse in various projects. These snippets could be Regex, utility functions (possibly a camelCase to snake\_case converter), and even entire layouts. Snippet libraries have to have clean code that could be used anywhere otherwise it's useless.
+
+If a snippets library contains some non-abstracted garbage and requires other services, and things you really don't actually need to use some function, you'll abandon it quickly.
+
+However, if you manage to write clean code and save it into your snippets, you may find yourself using it more often than not. And the more you use it, the more you'll want to make it useful. Possibly by separating snippets by language, by utility vs specific function, categories, etc. And maybe you want to go back to older projects and try to recover more work because the more you build into your project, the faster you will be at your job.
+
+So look around and see what your needs are. Maybe you need a to-do list that works unlike any other on the market currently. Build it, use it, and use it so much that you'll want to upgrade it and keep working on it. Maybe you want to build a Wordpress theme that will serve as boilerplate. The brilliant thing about that is that the more work you do on your boilerplate, the less you will have to do for your individual projects.
+
+Again, satisfy your needs. Keep using and building the product.

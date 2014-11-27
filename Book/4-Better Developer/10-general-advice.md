@@ -76,4 +76,14 @@ So, you get the "version control" part right? You get to save, create a file his
 
 But there's so much more to version control. Think about those co-workers who can push and pull changes from the repo. The version control history works in terms of "deltas" or a written history of a file based on changes rather than saving an entire file with a copy every time. That means that you can merge your co-workers changes without messing up what you're working on right now.
 
-There are some features to help with that process of colaboration.
+There are some features to help with that process of colaboration. For instance, there are "branches". If you imagine your file history like a large tree that spans upward with a single tree trunk heading the way, the tree trunk would be the "master" branch or the main branch while the others are supporting. Unlike a tree however, a project history can branch out and then come back together.
+
+Developers use branches to develop specific features that they can test out and work out without damaging the project's main history record. This can allow developers to start rewrites, refactors, or development of new features without pollutin the main history, while still allowing that developer to push out changes to the server and allow others to work on the same branch. A branch has its own history and when time comes, you can merge that branch into "master" and the branch's entire history merges into the main history with it.
+
+You can also delete branches or just leave them behind for when you have time.
+
+Not only that but with popular websites like Github (which allows Git management), you can use version control publicly and open source your project. Fellow developers can keep a personal copy of your repository and if they so wish they can issue a "pull request" which is basically a request to pull their changes into your repository. A better way of saying it is a request to merge their branch into yours. Thousands of open source repositories work under this system.
+
+## What else?
+
+Ask fellow developers on what their idea of being a better developer is and see what sounds good to you. Perhaps it's further study into the languages you already know, or learning a new revolutionary framework. Or it could mean getting back to the basics of computer science and exploring algorithms and data structures. All in all, being a better developer is half what you think about yourself and half getting a job done that lasts.
