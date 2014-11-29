@@ -25,3 +25,17 @@ However, if you manage to write clean code and save it into your snippets, you m
 So look around and see what your needs are. Maybe you need a to-do list that works unlike any other on the market currently. Build it, use it, and use it so much that you'll want to upgrade it and keep working on it. Maybe you want to build a Wordpress theme that will serve as boilerplate. The brilliant thing about that is that the more work you do on your boilerplate, the less you will have to do for your individual projects.
 
 Again, satisfy your needs. Keep using and building the product.
+
+## Build with purpose and build deep
+
+To go back to some of what I talked about. It's important to build with a purpose. It's easy to build throwaway projects but not very useful. Long-term projects help us keep up with technology, update and upgrade, and test technology out. For example, let's say you built a random To-do list app. There's no sense in it, there are a million others.
+
+And once you're done, or once you explore the technology you wanted to explore, you'll abandon it, a half-build house. If you actually follow through, you may learn more than just the basic syntax of that technology.
+
+Let's consider the framework AngularJS. Angular's adopters are usually categorized as either enthusiastic beginners or dreadful masters. What that means is that when you start using Angular, you'll feel elated. It's a somewhat complicated framework but it's VERY powerful. It feels like the right solution to every problem. An every-man's hammer.
+
+But when you master it, you'll start to find the ugly parts and realize how dreadful it can be working with it. Of course, there are two sides to every argument but it's a great example as to why you should follow through.
+
+Building a full-scale application or at least finishing one, helps you set up for true iterative work. Iterative work means that when you remember that project and think to yourself, "Oh yeah, that app, I've been wanting to test a new feature X", you can go straight to it and iterate, giving a you deeper overview to the technology itself. If you started a new app just to test that feature X, you would not get this overview. This makes the applications even more self-serving.
+
+Finishing an app is a grand feeling so give that a shot.
