@@ -76,4 +76,20 @@ And so on. Make sure to answer these as they will not only help the questioner b
 
 ### The praiser
 
-Almost as useless as a troll (but easier on the eyes!) is the praiser. That's a person that mindlessly praises any project for possibly no reason. I've seen a lot of new developers do that and they're usually unable to participate in any *real* discussion.
+Almost as useless as a troll (but easier on the eyes!) is the praiser. That's a person that mindlessly praises any project for possibly no reason. I've seen a lot of new developers do that and they're usually unable to participate in any *real* discussion. It can also be the case of someone genuinely encouraging you. However, again, it does not help you with your project other than stroke your ego.
+
+Take the praise, thank them for their help and move on.
+
+## Why even expore yourself to the public?
+
+I've already covered the types of commenters and that should have already revealed *why* you should even seek the comments out. Many developers feel uncomfortable with being exposed to the public. And that's okay; however, if you're open to posting your work on reddit, hackernews, or other social media sites that cater to developers, you should do so, and you should take full advantage of it.
+
+Unlike other fields, development allows us to publicly announce and dissect our projects. There are definitely several other fields where this *could* be done but I'm not sure how effective it would be. I'm sure that architects could share prototype plans with each other, and discuss the merits of moving columns or even rooms from place to place. Engineers could probably do the same, though benefit less. Designers do have a similar public discussion and it's just as crucial to them so at least there's that.
+
+What's great about the public forum about your personal projects is the feedback. Through feedback you can learn a lot such as:
+
+1. who might want to use your work and who might be adverse to it. Perhaps newer developers will be baffled by your open source utility app while more experienced developers will think you're God-sent.
+2. how your app fares on the code. Developers WILL check out your code and architecture. Gaining feedback on either will help you fix issues, gain insights on things you may have missed, and hopefully discern between useful and not useful comments in order to learn how to make your app better, and your skills sharper.
+3. where your app excels and fails feature-wise. You may have one approach to using your app, but others will use it differently. Even if you're writing an article, you'll get the same feedback. It'll help you gauge where your app fails and where it excels and what you can do about your failures or if you should pivot your app's goal.
+
+And much more. Try to write a sample article discussing some technological challenge or breakthrough, or prepare an app to be publicly dissected and try it out!

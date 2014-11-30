@@ -1,0 +1,27 @@
+{
+  "name": "antonins-boilerplates",
+  "version": "0.0.1",
+  "description": "Antonin's boilerplate files to start projects quickly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntJanus/antonins-boilerplates.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "npm",
+    "nodejs",
+    "angular"
+  ],
+  "author": "Antonin Januska @antjanus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntJanus/antonins-boilerplates/issues"
+  },
+  "homepage": "https://github.com/AntJanus/antonins-boilerplates",
+  "dependencies": {
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.4.1"
+  }
+}
