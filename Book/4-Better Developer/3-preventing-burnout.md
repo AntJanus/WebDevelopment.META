@@ -1,4 +1,4 @@
-title: Preventing Burnout
+title: Development Burnouts - Why and How Not To
 ---
 content:
 
