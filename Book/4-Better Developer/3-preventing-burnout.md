@@ -2,7 +2,7 @@ title: Preventing Burnout
 ---
 content:
 
-Burning out is an issue that all developers face. And younger developers are often not aware of. To put it simply, a burnout is a state where one is overly fatigued by continued over-exertion. A burnout, left untreated, can result in terrible consequences.
+Burning out is an issue that all developers face. And younger developers are often not aware of. To put it simply, a burnout is a state where one is overly fatigued by continued over-exertion. A burnout, left untreated, can result in terrible consequences. Think of it as an Athlete training without a break to let their muscles heal.
 
 This doesn't stop from managers pushing, however, nor does it stop developers from continuously working away through a burnout.
 
@@ -12,25 +12,25 @@ The simple definition can stand on its own but let's explore the topic further. 
 
 There are some symptoms that accompany a burnout:
 
-1. continued fatigue. When you start the day the next day, you still feel tired mentally.
+1. continued fatigue. When you start the day the next day, you still feel mentally tired.
 2. inability to focus on a task. You may be trying to program one thing but you can't seem to understand exactly what you're trying to do so you have reread instructions several times.
 3. inability to do simple tasks. Given an easy programming task, you struggle to accomplish it via normal means and end up making a lot of mistakes.
 4. physical symptoms such as muscle tension, headaches, itching/burning eyes.
 5. irritability.
-6. many tasks you're presented with feel either a waste of time and dull or extremely overwhelming
+6. many tasks you're presented with feel either a waste of time and dull or extremely overwhelming on the other hand.
 7. you have a grim outlook on your day.
 
-It can be soul crushing to keep running through a burnout. There are developers that "run on fumes" for years without any kind of reprieve and that can express itself in further health problems, it will kill your happiness, and it will kill your development productivity very quickly to an all-time low. And I'm not being overly dramatic here either. I've worked with developers that nearly quit their careers over burnouts that they thought was general unhappiness with the field. After they were able to reach a normal state of being, they realized they loved what they did and had a renewed sense of energy about them.
+It can be soul crushing to keep running through a burnout. There are developers that "run on fumes" for years without any kind of reprieve and that can express itself in further health problems, it will kill your happiness, and it will kill your development productivity very quickly to an all-time low.
 
-I know for myself that I often reach the point of a burnout but have learned to curb that situation.
+I'm not being overly dramatic here either. I've worked with developers that nearly quit their careers over burnouts that they thought was general unhappiness with the field. After they were able to reach a normal state of being, they realized they loved what they did and had a renewed sense of energy about them.
+
+I know for myself that I often reach the point of a burnout but have learned to curb that situation and I haven't had a real burnout in a while.
 
 ## The Cause
 
 Before I get into remedies and preventions, let's discuss a cause for burnouts. The cause is in its definition, basically overexerting yourself without taking a break to recharge; however, as simple as it sounds, most of us don't internalize it. There are still young developers on forums that seem to think they're invincible. And by young, I mean junior, not age-wise.
 
-There are some common causes that I'd like to explore with you.
-
-Working long hours. Contrary to popular belief, working longer hours does not necessarily get you faster results. In fact, the longer you work, the more likely you are to make mistakes, degrade the quality of your code, and create problems. Even the popular eight hour work day is seemingly not the best approach to work. Sweden recently put seven hour days on trial with much success. However, that may not be an option for you. The important thing is to balance out your day and not work more than your allotted eight unless it's an emergency.
+Working long hours. Contrary to popular belief, working longer hours does not necessarily get you faster results. In fact, the longer you work, the more likely you are to make mistakes, degrade the quality of your code, and create problems. Even the popular eight hour work day is seemingly not the best approach to work. Sweden recently put seven and even six hour days on trial with much success. However, that may not be an option for you. The important thing is to balance out your day and not work more than your allotted eight unless it's an emergency.
 
 This means that, no more weekend work, no more "staying after five" or whenever, and no more working late at night at home just to get a project done on a deadline. But if you do need to work longer hours it should happen rarely and not be a habit. On top of that, it should be followed by a time of less stress and responsibility. Meaning that once you launch that long difficult project, take a break.
 
@@ -60,7 +60,7 @@ But that will only keep things from getting worse. What you'll need to do is sta
 3. Switch to a new project if you can.
 4. Ask for recognition of the work you do.
 
-And honestly, if you encounter severe issues with any of these points, start looking for a new job. You're worth it.
+Honestly, if you encounter severe issues with any of these points, start looking for a new job. You're worth it.
 
 ## Prevention
 
@@ -71,16 +71,14 @@ There are some main criteria that you should adhere to but make sure to tailor e
 - If you have time off, take it throughout the year to replenish your reserves. Vacations are great. Vacations away from electronics are better.
 - While working, make sure to take breaks. If you follow the pomodoro technique, work for 20 minutes, and take a 5 minute break for a stretch. Go for a walk during lunch.
 - Work only during your hours. That means no working through lunch, no getting extra work in at home at night, and no long hours. If you absolutely have to, make sure to follow with a replenishing activity.
-- Switch up projects. Make sure to communicate with your superiors and try to switch up the nature of what you work on.
+- Switch up projects. Make sure to communicate with your superiors and try to switch up the nature of what you work on every once in a while.
 - Outside of work, get a non-computer-related hobby. It's very tempting to go home and code some more but make sure you have other things to do as well. Most high-profile developers do, from wood burning to writing and composing music.
 - When job-hunting, consider the challenge in your future job. Don't pick a job that's too dull nor too chaotic.
 - Keep an open communications channel with your supervisors about work. They should know if you're overworked or underworked or if expectations of you are unclear.
 - Work out. Seriously. I'll talk about dev health later on but exercise is the number 1 way to get rid of stress and tension and to reset your mind away from work.
-- Whenever you finish a big project, do a small celebration for yourself. Include others in on it, and celebrate your teams' successes as well. This goes double if your team doesn't celebrate anything, ever.
+- Whenever you finish a big project, do a small celebration for yourself. Include others in on it if you want, and celebrate your teams' successes as well. This goes double if your team doesn't celebrate anything, ever.
 - When you encounter a problem you can't seem to solve, get away from your desk and go for a walk.
 
 It all boils down to communication about your job and taking breaks from the computer. It sounds simple but most developers can't uphold even 2 of these suggestions in their workplace.
 
-It's unfortunate for them and they WILL argue with you that working 15 hours a day is great for them and how much they love it but a couple of years down the road they'll be stringent advocates of 8-hours-only days.
-
-Make sure that your voice counts.
+It's unfortunate for them and they WILL argue with you that working 15 hours a day is great for them and how much they love it but a couple of years down the road they'll be stringent advocates of 8-hours-only days. If not, just do what works for you and let others do what works for them!
