@@ -8,21 +8,25 @@ I wanted to dispell some of the myths and discuss what they really mean rather t
 
 ## The 10x
 
-The 10x-er is a developer with such great knowledge that they can accomplish the work of 10 other developers of similar stature. It's a completely false idea but it's something media likes to write about. Mainly because we all like super heroes and a 10x engineer is a superhero/myth/legend among developers.
+The 10x-er is a developer with such great knowledge that they can accomplish the work of 10 other developers of similar stature. It's a completely false idea but it's something media likes to write about. Mainly because we all like super heroes and a 10x engineer is a superhero/myth/legend among developers. It's the Ubermensch.
 
 The reason why it's a myth is two-fold. One of them is the fallacy that's often attributed to project managers.
 
 > Nine women can't make a baby in a month.
 
-And the same goes for web developers, a real 10xer can't replace 10 developers. You simply can't assign 400 hours of work for a developer to figure out within a week. It doesn't work that way. To take the myth down a notch, let's think about a great developers. A great developer can save a lot of time with their current knowledge, coding standards, and some ingenuity. These elements should be part of every senior developer's box of tools. However, the perceived difference between a bad developer and a great one can make that great one look like a 10xer. On top of that having a team of developers fosters peer review, brainstorming, support and much more while a single developer can't do that for themselves. So, in short: you can't replace an entire team with a single person.
+And the same goes for web developers, a real 10xer can't replace 10 developers. You simply can't assign 400 hours of work for a developer to figure out within a week. It doesn't work that way. To take the myth down a notch, let's think about a great developers. A great developer can save a lot of time with their current knowledge, coding standards, and some ingenuity. These elements should be part of every senior developer's box of tools. And some of these early-on positive paths can result in saving time overall, or just having a better infrustructure.
+
+However, it's only the *perceived* difference between a bad developer and a great one can make that great one look like a 10xer. On top of that having a team of developers fosters peer review, brainstorming, support and much more while a single developer can't do that for themselves. So, in short: you can't replace an entire team with a single person.
 
 On the flip side, a single developer with the means and ability can write programs that replace 10 people easily, but that's not what the myth means though it's a much better definition.
 
 The second reason the 10xer is a fallacy is associated with why this myth came about in the first place. I recently read a fun discussion about 10xers and how one developer was able to come into a long, drawn-out project that's been going on for several years and within a single month, turn it around, finish it, and make it better. At first glance, this developer could be credited with doing 3 years worth of work in a single month, and doing the work of 15 developers. That's definitely more than a 10x, that's a XXXxer. Truly incredible.
 
-However, again, it's a fallacy. The reason why projects stall or become drawn out are rarely the fault of developers, let alone an entire team. Mismanagement, corporate inefficiencies, and office politics can make a simple project into a nightmare. From scope change, to unresponsive co-workers, other projects getting in the way, and the pace of technology, there are hundreds of potential hurdles to get through. Ones that PMs and managers are usually responsible for handling and even they sometimes can't handle all of it. Such hurdles can stretch a 3-month project into development hell that goes on for years.
+However, again, it's a fallacy. The reason why projects stall or become drawn out are rarely the fault of developers, let alone an entire team (though they *can* be). Mismanagement, corporate inefficiencies, and office politics can make a simple project into a nightmare. From scope change, to unresponsive co-workers, other projects getting in the way, and the pace of technology, there are hundreds of potential hurdles to get through. Ones that PMs and managers are usually responsible for handling and even they sometimes can't handle all of it. Such hurdles can stretch a 3-month project into development hell that goes on for years.
 
 When finally an outsider is hired at a terribly high rate and presented with a specific spec, the game changes. Scope change now requires new contracts, office politics had to have been settled by now, approvals have to be timely or already done by this point. Any delays or mistakes cost real-time additional money (not just fixed budgetted-for salaries). The developer also has a clean slate at this point, no more legacy software to deal with. Suddenly, the project is free of all of these hurdles and can easily be fulfilled. And voila, an outside contractor suddenly accomplishes more than the entire company could together.
+
+This is visible in Startups as well. Ever wonder why startups can get a project off the ground within a short amount of time? This is it. It's not a band of 10xers, it's a band of people that are simply not bound by the rules of their company (that and enthusiaism! :)).
 
 In short: a 10xer is a scapegoat for accomplishments and an utterly simplified situation in which a single developer is made out into a legendary hero that others should aspire to.
 
@@ -32,7 +36,7 @@ There has been a strange rise of people using super-simple text-editors to write
 
 In truth, developers will try to persuade you that THEIR setup is better. It's just something we do. I use VIM, I recommend it, it's a wonderful experience. But I've used Sublime Text as well as many IDEs and they all work well. In fact, the difference in productivity was the setup of these editors, not the editors themselves.
 
-There was recently a discussion about how Eclipse (a popular Java/C++/anything IDE) is slow; however, with some adjustments, it's an incredibly fast and wonderful editor. VIM experienced a rebirth when people realized that about 50 lines of configuration (not a lot, trust me) and some plugins could make the editor extremely powerful. Emacs is the same situation.
+There was recently a discussion about how Eclipse (a popular Java/C++/anything IDE) is slow; however, with some adjustments, it's an incredibly fast and wonderful editor. VIM experienced a rebirth when people realized that about 50 lines of configuration (not a lot, trust me) and some plugins could make the editor extremely powerful *and* user-friendly. Emacs is the same situation.
 
 So it's really up to you to know what works. All I can recommend is that you learn as much about your editor as possible and adjust it to your specific needs. Look up how to customize it, what plugins can help you out, and how to make it as speedy as possible. That will definitely help you in getting bogged down.
 
@@ -42,13 +46,19 @@ But will it make you a better developer? No, just a less frustrated one.
 
 There is no holy grail of languages, in fact, every language serves a specific purpose (or many) and has a niche to fill. You can easily tell that by the number of users that use it for their projects. For instance, both Rubyists and PHP developers like to claim that their language is better while in fact, neither is. They both work a little differently, have a different development ecosystem and thus serve a different purpose. As much as developers love to bicker, in the end, it's all just a matter of preference.
 
-Now, that's not to say that some languages are better at some things over others. It's common knowledge that if you want to write code that runs fast, VERY fast, you write it in C++ because it's one of the fastest languages that's still high-level enough that coding it in is not a struggle. If you want to code a website, however, C++ may be a pain and so you look at the web development languages instead, they do their job well. If you want to write interactive code in the browser, you'll have to stick with Javascript, no matter what you want to do.
+Now, that's not to say that some languages are better at some things over others. It's common knowledge that if you want to write code that runs fast, VERY fast, you write it in C++ because it's one of the fastest languages that's still high-level enough that coding it in is not a (terrible) struggle. If you want to code a website, however, C++ may be a pain and so you look at the web development languages instead, they do their job well. If you want to write interactive code in the browser, you'll have to stick with Javascript, no matter what you want to do.
+
+Otherwise, a lot of the "is it better or not" also depends on your paradigm (so functional programming is *not* fun in PHP), on what you like as far as the syntax goes (like where Python requires indentation), and so on, all very subjective and all very variable.
+
+So anytime you hear someone say that one language is better than another, add a little "for my specific purposes and my preferences" at the end of that statement.
 
 ## You need to know Math
 
-Well, yes, and no. Mostly no. Taking Calculus III at College will not make you a great developer, nor a good one. It's completely beside the point. Will you be dealing with numbers? Yes, but that's just basic high school Algebra. At most, you'll be dealing with trying to figure out how efficient your code is in terms of the big "O" (which I'm not covering) but that's just Algebra II/III-level math and it doesn't come up on a daily basis.
+Well, yes, and no. Mostly no. Taking Calculus III at College will not make you a great developer, nor a good one, I know I've tried. It's completely beside the point. Will you be dealing with numbers? Yes, but that's just basic high school Algebra. At most, you'll be dealing with trying to figure out how efficient your code is in terms of the big "O" but that's just Algebra II/III-level math and it doesn't come up on a daily basis.
 
-So next time someone says, "You need to be really good at math to be a programmer!", slap them in the face (don't.). However, there are fields of programming where math IS important. One of them is game development where you'll have to learn the basics of matrices, physics, and angles. But again, that's just basic physics, some Algebra, and linear Algebra. On top of that, many engines handle this math for you already. And if you DO want to be more mathematical about it, there are a few courses that can get you up to speed within a few weeks.
+So next time someone says, "You need to be really good at math to be a programmer!" or "You're good at math, you'll be a really good programmer!", slap them in the face (don't.). However, there are fields of programming where math IS important.
+
+One of them is game development where you'll have to learn the basics of matrices, physics, and angles. But again, that's just basic physics, some Algebra, and linear Algebra. On top of that, many engines handle this math for you already. And if you DO want to be more mathematical about it, there are a few courses that can get you up to speed within a few weeks.
 
 But that's game development. Most other fields don't require advanced math skills.
 
@@ -56,7 +66,7 @@ But that's game development. Most other fields don't require advanced math skill
 
 That's another no. In fact, there was an interesting discussion on Quora about real-world application of algorithms and one of the developers mentioned how they created an incredibly awesome matching system for users on a social network and after some time and study found that the matching system was, in fact, an algorithm they did not know about. However, these stories are rare.
 
-What's less rare is people intuitively using design patterns and algorithms that they either forgot about and learned a long time ago, or they don't know about at all. Knoweldge of these can be useful but 90% of the time, algorithms do not make or break a good application.
+What's less rare is people intuitively using design patterns and algorithms that they either forgot about and learned a long time ago, or they don't know about at all. Knoweldge of these can be useful but 90% of the time, algorithms do not make or break a good application. So if you can't recall what a heap sort looks like or if you're using a Multiton or Object pool, don't despair! You're not a bad developer.
 
 On a side note, there has been a lot of discussion about how adherence to design patterns can lead to low-quality apps since many of them are misused or, since they're rather abstract, they do not fit the job. Algorithms have been debated for a long time as either completely useless at a higher level (application-level, where you code), or already implemented where they matter (such as in basic functions of the programming language you use).
 
@@ -94,4 +104,3 @@ You're not because the second you think you "master" something, you'll find out 
 And every language is like that. And the world is moving. Once you think you have a handle on one thing, you'll find the next thing to learn, and then you'll have to go back and update your understanding of that one thing because it just got a massive overhaul. Then there are "best practices" (a collection of practices that one should employ for certain programming tasks) which update constantly.
 
 Basically, the learning never stops. You can't stop because if you do, you'll find yourself knowing legacy software that no one uses any longer. It's really not as scary as it sounds but it's something to keep in mind.
-
