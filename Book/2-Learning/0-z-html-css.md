@@ -1,5 +1,7 @@
 title: HTML and CSS
 ----
+flag: done
+----
 content:
 
 First and foremost, you need to learn HTML and CSS. That's a given. At least the basics. You're good to go in under a week to start learning about a programming language, seriously. One week but probably much less. I've met people who can pick it up in less than a day.
