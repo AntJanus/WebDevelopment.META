@@ -16,6 +16,7 @@ All the aspects and facest of webdev get quickly confusing. So I decided to spli
 4. becoming better at what you do
 5. diving into personal projects
 6. the "meta" of programming
-7. tools and their differnces
+7. tools and their differences
 8. health and webdev
+9. appendix and resources
 
