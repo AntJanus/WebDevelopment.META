@@ -2,6 +2,7 @@ var gulp        = require('gulp'),
     concat      = require('gulp-concat'),
     wc          = require('gulp-word-count'),
     markdown    = require('gulp-markdown'),
+    pandoc      = require('gulp-pandoc'),
     compileBook = require('./lib/compileBook')
   ;
 
@@ -42,6 +43,20 @@ gulp.task('create:html', function() {
     }))
     .pipe(concat('allMD.md'))
     .pipe(markdown())
+    .pipe(gulp.dest('./'))
+  ;
+});
+
+gulp.task('create:epub', ['create:markdown'], function() {
+  return gulp.src([
+      'allMD.md'
+    ])
+    .pipe(pandoc({
+      from: 'markdown',
+      to: 'epub',
+      ext: '.md',
+      args: ['--smart']
+    }))
     .pipe(gulp.dest('./'))
   ;
 });

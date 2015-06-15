@@ -21,6 +21,7 @@
   "dependencies": {
     "gulp": "^3.8.10",
     "gulp-markdown": "^1.0.0",
+    "gulp-pandoc": "^0.2.1",
     "gulp-util": "^3.0.5",
     "gulp-word-count": "^0.2.0",
     "lodash": "^3.9.3",
