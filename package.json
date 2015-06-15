@@ -19,7 +19,13 @@
   },
   "homepage": "https://github.com/AntJanus/antonins-boilerplates",
   "dependencies": {
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "gulp-markdown": "^1.0.0",
+    "gulp-util": "^3.0.5",
+    "gulp-word-count": "^0.2.0",
+    "lodash": "^3.9.3",
+    "popstar-file-reader": "^1.0.2",
+    "through2": "^2.0.0"
   },
   "devDependencies": {
     "gulp-concat": "^2.4.1"

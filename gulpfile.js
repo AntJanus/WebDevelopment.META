@@ -1,6 +1,8 @@
-var gulp    = require('gulp'),
-    concat  = require('gulp-concat'),
-    wc      = require('gulp-word-count')
+var gulp        = require('gulp'),
+    concat      = require('gulp-concat'),
+    wc          = require('gulp-word-count'),
+    markdown    = require('gulp-markdown'),
+    compileBook = require('./lib/compileBook')
   ;
 
 gulp.task('addAll', function() {
@@ -17,3 +19,29 @@ gulp.task('count', function() {
   ;
 });
 
+gulp.task('create:markdown', function() {
+  return gulp.src([
+      'Book/**/**/*.md',
+      '!Book/*.md'
+    ])
+    .pipe(compileBook({
+      file: 'all.md'
+    }))
+    .pipe(concat('allMD.md'))
+    .pipe(gulp.dest('./'))
+  ;
+});
+
+gulp.task('create:html', function() {
+  return gulp.src([
+      'Book/**/**/*.md',
+      '!Book/*.md'
+    ])
+    .pipe(compileBook({
+      file: 'all.md'
+    }))
+    .pipe(concat('allMD.md'))
+    .pipe(markdown())
+    .pipe(gulp.dest('./'))
+  ;
+});
