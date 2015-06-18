@@ -1,4 +1,6 @@
-title: Knowledge Required
+title: Required Knowledge
+----
+flag: done
 ----
 content:
 
@@ -37,7 +39,7 @@ While the development field is quickly becoming a field full of specialists, it'
 
 Despite the great advances in Javascript and keeping all of application logic in the browser, server-side programming is as important as ever. Perhaps not as much for templating but for other reasons.
 
-So what does server-side programming entail? In short, anything to do with interacting with, well, a server. A server usually houses all of an applications data. The server-side of an application usually holds the more complex logic, and programming that's not safe to be exposed, like handling logins, security, and other elements.
+So what does server-side programming entail? In short, anything to do with interacting with, well, a server. A server usually houses all of an application's data. The server-side of an application usually holds the more complex logic, and programming that's not safe to be exposed, like handling logins, security, and other elements.
 
 SPAs today depend on the server-side application to store, retrieve, and update data as well as provide the front-end with necessary files that it needs. It has to be speedy, and able to handle a large number of users at once. The front-end, luckily, doesn't have such responsibilities.
 
@@ -45,7 +47,7 @@ There are several server-side languages that are very popular today and we'll go
 
 ### HTML/CSS
 
-The completely basic components of the web are HTML and CSS. Whether there is a server-side programming language involved, or Javascript dictating behavior in the browser, HTML and CSS is always present. It is possible to build without CSS but it is highly uncommon (read: 99% of the web uses CSS).
+The completely basic components of the web are HTML and CSS. Whether there is a server-side programming language involved, or Javascript dictating behavior in the browser, HTML and CSS is always present. It is possible to build without CSS but it is highly uncommon (read: 100% of the modern web uses CSS).
 
 The knowledge of these two components is crucial; however, your expertise may range depending on your position. A Javascript developer will be intimately knowledgeable of HTML but may not know much more than basic CSS. A back-end (server-side) developer may know only the basics of either.
 
@@ -53,19 +55,19 @@ The knowledge of these two components is crucial; however, your expertise may ra
 
 Javascript became crucial to web development only in the recent years and thus many developers still struggle with the concept of javascript programming. It's difficult to grasp at first, it's unlike server-side programming and it works in real-time, there's no "refresh" so to speak.
 
-However, it is the bread and butter of a front-end developer and it is THE language to facilitate some kind of interaction for the user, right there on the page. Whether it's a popup, a chat window and conversation, or what drives a webGl game.
+However, it is the bread and butter of a front-end developer and it is THE language to facilitate some kind of interaction for the user, right there on the page. Whether it's a popup, a chat window and conversation, or what drives web gaming.
 
 ### Project Management
 
-The art of PM is a sacred one, in that few understand it, and even fewer exercise it. It's most apparent when working as a freelance where project management often involves prodding a client for information and materials necessary to complete the project and subsequently adjusting deadlines.
+The art of PM is a sacred one, in that few understand, and even fewer exercise it. It's most apparent when working as a freelancer where project management often involves prodding a client for information and materials necessary to complete the project and subsequently adjusting deadlines.
 
 And while you may work somewhere where a project manager does the initial sifting of assignments, you will always be in control of the few projects you have. What takes priority? How long will it take? How long will that hiccup push the deadline? These are all important questions. PM encompasses everything from time estimation to communication with others and synchronizing efforts.
 
 ### Learning
 
-As I've said, Learning is both a plague and a gift. If you stop learning, you'll quickly become obsolete. Many jQuery developers are realizing that now. For the un-enlightened, jQuery is one of the most popular Javascript libraries on the internet. Chances are, you've used several websites with jQuery on it just today, and probably in the past two hours. The problem is that the web is evolving and the methodology that is so inheret to working with jQuery is no long acceptable.
+As I've said, Learning is both a plague and a gift. If you stop learning, you'll quickly become obsolete. Many jQuery developers are realizing that now. For the un-enlightened, jQuery is one of the most popular Javascript libraries on the internet. Chances are, you've used several websites with jQuery on it just today, and probably in the past two hours. The problem is that the web is evolving and the methodology that is so inheret to working with jQuery is no longer acceptable for full-sized apps.
 
-If you don't learn the new advanced methodologies, you'll fall off. The positive is that there is always room for improvement, and new niches to escape into. Brand new frameworks tend to spring up in hundreds but only a few survive and those that do may have wide adoption but a small number of developers that are knowledgeable. Thus it's easy for people to become master from novices.
+If you don't learn the new advanced methodologies, you'll fall off. The positive is that there is always room for improvement, and new niches to escape into. Brand new frameworks tend to spring up in hundreds but only a few survive and those that do may have wide adoption but a small number of developers that are knowledgeable. Thus it's easy for people to become master from being a novice.
 
 Just remember that half your job may depend on you learning a new framework that will ultimately save you from hundreds of hours of pain with an old framework.
 
@@ -81,7 +83,7 @@ Being able to respond and correctly communicate needs is crucial to your career.
 
 Also, just think of all the open source projects out there, they're littered with heated discussions over the most minute changes and updates!
 
-As a word of warning, as a developer, you will have to defend your work and your decisions in front of many people. Supervisors often have a mentality of "getting it done no matter the consequences" which can lead to technical debt, system slow downs, and possibly entire application crashes. Being able to hold your ground or at least have a supervisor sign off on personal responsibility will be an important aspect of your job.
+As a word of warning, as a developer, you will have to defend your work and your decisions in front of many people. Supervisors often have a mentality of "getting it done no matter the consequences" which can lead to technical debt, system slow downs, and possibly entire application crashes (or application bankruptcy). Being able to hold your ground or at least have a supervisor sign off on personal responsibility will be an important aspect of your job.
 
 ###  Ability to assess program or spec
 
