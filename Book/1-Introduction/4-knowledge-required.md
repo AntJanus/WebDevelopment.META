@@ -6,13 +6,14 @@ Some time ago, I gave a talk on "how to be a developer", it was my precursor to 
 
 One of the hardest concept to get across was that **development does not equal coding**. A web developer is more than just a "code monkey". If you're not familiar with the term, it's a metaphor to describe how developers used to be treated 20 or so years ago when a developer was just that, a code monkey. Someone incapable of doing anything other than translating managerial specs into code.
 
-Today, a developer is much more. This is very visible among startups where developers often have to take over other roles, and become the senior staff at the company. On top of that, many startups are founded by developers or former developers that became enterpreneurs.
+Today, a developer is much more. This is very visible among startups where developers often have to take over other roles, and become the entire senior staff at the company. On top of that, many startups are founded by developers or former developers that became enterpreneurs.
 
 So what does a developer need to know? Depending on the job and level (junior, mid, senior), there are different requiriments but there are some common ones:
 
-1. at least one server-side language
-2. html/css
-3. javascript
+1. a server-side language
+2. HTML
+3. CSS
+4. javascript
 
 And that's just on the code side. As a developer you should be aware of:
 
