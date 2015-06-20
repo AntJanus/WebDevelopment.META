@@ -4,13 +4,13 @@ content:
 
 I realize I'm going at break-neck pace here but let's dive into the first programming language and what to learn. Given that the basics are done (HTML/CSS), this is the next logical step. Many don't take it and prefer to stay on the front-end but I believe that any successful developer should know the basics of at least one server-side programming language or at least Javascript to work on the front-end.
 
-The beauty of programming is that once you learn one language, it's easy to pick up more. It's not like actual linguistics. You're still writing English just in a different manner. That's the key. Instead of using the word `var` to specify a variable (in Javascript), you may have to use `$` prefix (in PHP). But an array is an array (a list of other variables), and a string is always a string (string is a collection of characters, so you could say it's any lenght of a "text"). Basics are the same.
+The beauty of programming is that once you learn one language, it's easy to pick up more. It's not like actual linguistics. You're still writing English just in a different manner. That's the key. Instead of using the word `var` to specify a variable (in Javascript), you may have to use `$` prefix (in PHP). But an array is an array (a list of other variables), and a string is always a string (string is a collection of characters, so you could say it's any length of a "text"). Basics are the same.
 
-This is why Computer Science degrees start with the C programming language. It's where they teach about Strings, and Integers. Since many languages of today derive from it and most of the world runs on C++ (which, at the basic level, will look similar), it's easier to jump from it into whatever field you choose to. It's definitely much more useful to learn C and C++ if you're going into a field outside of web development.
+This is why Computer Science degrees start with the C programming language. It's where they teach about Strings, Integers, and other data types. Since many languages of today derive from it and most of the world runs on C++ (which, at the basic level, will look similar), it's easier to jump from it into whatever field you choose to. It's definitely much more useful to learn C and C++ if you're going into a field outside of web development.
 
 However, the nuances of various languages can provide stark differences in implementation and thus in learning it.
 
-I wanted to give a rundown of the most popular started languages of today, their pros and cons, and how they in terms of difficulty learning it. On top of that, it's a pretty good idea to know how the job market is for each. It's all up to you.
+I wanted to give a rundown of the most popular starter web development languages of today, their pros and cons, and how they in terms of difficulty learning it. On top of that, it's a pretty good idea to know how the job market is for each. It's all up to you.
 
 Luckily, whatever decision you make isn't life changing, you'll eventually get to a point where you will tackle the task of learning a secondary language. Not only that but overall, each language I'll present you will prepare you well for the world out there, no matter which choice you make. Try not to make the option paralyze you! Just pick one and go with it!
 
@@ -24,7 +24,7 @@ PHP is how I got started out and I would say that I very much enjoy the language
 
 PHP syntax is superbly simple. The cool thing with PHP is that you can mix it with HTML like so:
 
-````
+```php
 <?php
     $title = "My page title";
 ?>
@@ -33,11 +33,11 @@ PHP syntax is superbly simple. The cool thing with PHP is that you can mix it wi
         <title><?php echo $title; ?></title>
     </head>
 </html>
-````
+```
 
 The `<?php ?>` tags denote the use of PHP. And while it's awesome that you *can* use it along with HTML, most modern applications use it in an Object Oriented way with a dedicated templating engine. Sounds complicated? It's not really that bad. A more complicated example can show you how advanced PHP looks like:
 
-````
+```php
 <?php
 namespace Illuminate\Container;
 
@@ -61,7 +61,7 @@ class Container implements ArrayAccess {
         return $reflector->newInstanceArgs($instances);
     }
 }
-````
+```
 
 Taken and simplified from [Laravel's container class file](https://github.com/laravel/framework/blob/4.2/src/Illuminate/Container/Container.php). No, it doesn't work but it showcases some ideas behind PHP OOP.
 
@@ -71,7 +71,7 @@ Learning PHP is very simple and because of its ability to run alongside HTML (al
 
 On top of that, several major frameworks such as Symfony and Laravel make it a contender for large applications and small apps alike. In fact, it supports traditional Object Oriented programming and has a full class system with all kinds of cool stuff.
 
-It takes a week to from knowing nothing to building your own first rudimentary blog.
+It takes a week to from knowing nothing to building your own first rudimentary blog. It won't be very OOP but it'll work.
 
 ### Frameworks and tools
 
@@ -79,7 +79,7 @@ PHP has grown significantly more modern in the past several years. Some of the m
 
 PHP also has its own package manager (a script that allows for better importing of libraries) called Composer.
 
-As a sidenote, Wordpress, the largest blogging platform and CMS, runs on PHP and PHP is a requirement to work on the templates.
+As a sidenote, Wordpress, the largest blogging platform and CMS, runs on PHP and PHP is a requirement to work on the templates. And did I mention Facebook runs on PHP and actively makes the language better?
 
 ### Jobs
 
@@ -96,15 +96,15 @@ Ruby vs PHP is a much discussed topic. PHP developers generally don't like Ruby 
 ### Syntax
 Ruby doesn't work like PHP, it can't just be mixed with HTML. Ruby has its own "server" which runs all of Ruby code. Instead of simply opening a `.rb` page using a server, a Ruby server has to point to a file and opens only that file (and any imported/included files, which is how the entire thing works basically).
 
-The problem with Ruby is that there's no easy way to iteratively get better. Here's an example of a "Hello World":
+Here's an example of a "Hello World":
 
-````
+```ruby
 puts "Hello World";
-````
+```
 
 Once you get the basics, it's time to get into Sinatra or Rails (Ruby frameworks) and you're going straight into Object Oriented Programming.
 
-````
+```ruby
 require 'fileutils'
 require 'active_support/core_ext/hash/keys'
 require 'rails/engine'
@@ -121,7 +121,7 @@ module Rails
         end
     end
 end
-````
+```
 
 Taken from the [Rails repository](https://github.com/rails/rails/blob/master/railties/lib/rails/application.rb) and simplified to show syntax.
 
@@ -135,9 +135,9 @@ So as far as the learning curve goes, I'd say it starts out steep but then it ge
 
 ### Frameworks and Tools
 
-There are a number of tools that Bundler which is a package manager, there is RVM/RBEnv which allows Ruby developers to run several different Ruby versions at once, depending on which project they're on.
+There are a number of tools that ruby is associated with.  Bundler which is a package manager, there is RVM/RBEnv which allows Ruby developers to run several different Ruby versions at once, depending on which project they're on.
 
-The two big names in Ruby is Rails (which short Ruby into popularity) and Sinatra (another framework). There's also Rake which allows Ruby developers to run various tasks from the command line (like making database changes, and running test suites).
+The two big names in Ruby is Rails (which shot Ruby into popularity) and Sinatra (another framework). There's also Rake which allows Ruby developers to run various tasks from the command line (like making database changes, and running test suites).
 
 ### Jobs
 
@@ -155,7 +155,9 @@ C\# is an interesting language choice in that, unlike the others, it's not known
 
 C\# is very reminiscent of C++ and Java in that it's an Object Oriented langauge by default and the way it works is similar to the two in terms of syntax. Strangely enough, C\# allow learning it the same way you learn PHP only because of some recent strides by Microsoft to make things much easier.
 
-````
+Below is an example of C\# templating using the Razor engine (it involves mixing HTML and C\#).
+
+```csharp
 @{
     var title = "My page title";
 }
@@ -165,11 +167,11 @@ C\# is very reminiscent of C++ and Java in that it's an Object Oriented langauge
         <title>@title</title>
     </head>
 </html>
-````
+```
 
 ASP.NET does not operate like PHP despite how it looks. Most of the regular code must be created through an object oriented manner like so:
 
-````
+```csharp
 using System;
 using System.IO;
 using System.Text;
@@ -191,21 +193,23 @@ namespace Microsoft.AspNet.Mvc.Razor
         }
     }
 }
-````
+```
 
 Taken and simplified from [Asp.Net MVC](https://github.com/aspnet/Mvc/blob/dev/src/Microsoft.AspNet.Mvc.Razor/RazorTextWriter.cs).
 
 ### Learning It
 
-C# and ASP.NET can be interesting in terms of learning. On the one hand, you can modify websites within just a few minutes, on the other, the Object Oriented programming can feel daunting. On top of that, you're required to use a Windows machine and a specific toolset.
+C# and ASP.NET can be interesting in terms of learning. On the one hand, you can modify websites within just a few minutes, on the other, the Object Oriented programming can feel daunting. On top of that, you're required to use a Windows machine and a specific toolset. (though there is a lot of effort to change that).
 
 However, given enough time, and learning OOP, you'll find yourself working with a robust framework.
 
-There's also the alternative of using a non OOP framework meant for beginners and in that case, it really is just like PHP.
+There's also the alternative of using a non OOP framework meant for beginners and in that case, it really is just like PHP. In case you're interested, check out C\# and ASP.NET Web Pages.
 
 ### Frameworks and tools
 
-So I mentioned an MS-only toolset. And it's true. You'll be using Visual Studio, an IDE that works with C# and ASP.NET, to make websites. One of the top frameworks for C# web development is ASP.NET MVC, the object oriented version of ASP.NET, and there's also ASP.NET WebPages, the non-OOP version of ASP.NET which allows users to writer simpler applications and websites.
+So I mentioned an MS-only toolset. And it's true. You'll be using Visual Studio, an IDE that works with C# and ASP.NET, to make websites. One of the top frameworks for C\# web development is ASP.NET MVC, the object oriented version of ASP.NET, and there's also ASP.NET WebPages, the non-OOP version of ASP.NET which allows users to writer simpler applications and websites.
+
+The Windows ecosystem is ripe with all kinds of tools. One of the first you'll encounter is called NuGet, a package manager for all things C\#.
 
 ### Jobs
 
@@ -213,7 +217,7 @@ ASP.NET is notorious for being an enterprise-level framework. In short, big comp
 
 Another interesting point is that startups are not as interested in C# as other languages. The only tech company name you can associate with .NET (other than Microsoft) is StackOverflow. This means that the average pay for a .NET developer is significantly higher than any other language out there.
 
-As a sidenote, C# and C# conventions easily translate into App development, Game development, and other types of development unlike Ruby or PHP which are stuck being server-side.
+As a sidenote, C# and C# conventions easily translate into App development, Game development, and other types of development unlike Ruby or PHP which are stuck being server-side. This may account for the slightly lower average salary (the average includes multiple industries).
 
 Average salary: $92,000/year
 
