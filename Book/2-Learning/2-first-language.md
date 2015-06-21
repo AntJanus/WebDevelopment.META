@@ -1,5 +1,7 @@
 title: First Language
 ----
+flag: review
+----
 content:
 
 I realize I'm going at break-neck pace here but let's dive into the first programming language and what to learn. Given that the basics are done (HTML/CSS), this is the next logical step. Many don't take it and prefer to stay on the front-end but I believe that any successful developer should know the basics of at least one server-side programming language or at least Javascript to work on the front-end.
