@@ -230,7 +230,7 @@ This is an interesting addition to the list. For one, it's a front-end programmi
 ### Syntax
 Depending on which side you go to, typical Javascript will look different. Let's first consider the typical front-end usage:
 
-````
+```js
 <html>
     <head>
     </head>
@@ -242,22 +242,22 @@ Depending on which side you go to, typical Javascript will look different. Let's
         </script>
     </body>
 </html>
-````
+```
 
 Javascript on the front-end can be very confusing but once you get the hang of it, it makes sense, you're just augmenting what the user sees. In this case, the JS will change out the inner text of the paragraph to be "hello world". Here's JS on the back end:
 
-````
+```js
 var http = require('http');
 
 var server = http.createServer(function(req, res) {
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end('Hello world');
 });
-````
+```
 
 A little different. NodeJS-land is as if a completely new Javascript but luckily, the two implementation (server-side, browser) have started to share many libraries.
 
-On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript response. Javascript tells the browser, "If a user clicks on this button, run this code".
+On the front-end, JS works in an "evented" manner. Basically, do something, and Javascript responds. Javascript tells the browser, "If a user clicks on this button, run this code".
 
 ### Learning It
 
@@ -267,7 +267,7 @@ As far as difficulty on the Node side, most call it incomprehensible at first. E
 
 ### Frameworks and Tools
 
-Javascript is known for its wealth of tools and helpful libraries. One of the most important today is Bower which is a package manager for javascript frameworks. There is also Gulp and Grunt which are Node projects that have become a streamlined part of a front-end developers job.
+Javascript is known for its wealth of tools and helpful libraries. One of the most important today is Bower which is a package manager for javascript libraries. There is also Gulp and Grunt which are Node projects that have become a streamlined part of a front-end developers job.
 
 Outside of that, a couple of interesting frameworks to mention are: AngularJS, the jQuery library, and Express, a Node library. Angular is a front-end MVC framework, trying to bring what's on the back-end into the front-end. jQuery is a library that makes front-end interactions a breeze and Express makes back-end Node setup much simpler than doing everything manually.
 
@@ -283,7 +283,34 @@ Lastly, there is Python. Python has been around for a while and it has MANY diff
 
 ### Syntax
 
-Python
+Python syntax is somewhat similar to Ruby. It uses whitespace to structure code so unlike PHP or Javascript, whitespace matters.
+
+```python
+parents, babies = (1, 1)
+
+while babies < 100:
+    print 'This generation has {0} babies'.format(babies)
+    parents, babies = (babies, parents + babies)
+```
+
+Check out the [SimplePrograms](https://wiki.python.org/moin/SimplePrograms) page on Python's wiki. It contains this and other examples. As always, here's the more complicated example:
+
+```python
+from django.utils.http import http_date, parse_http_date_safe
+
+class ConditionalGetMiddleWare(object):
+    def process_response(self, request, response):
+        response['Date'] = http_date();
+
+        if 200 <= response.status_code < 300 and response.has_header('ETAG':
+            if_none_match = request.META.get('HTTP_IF_NONE_MATCH')
+
+            response.status_code = 304
+
+        return response
+```
+
+A sample code taken from [Django's http middleware](https://github.com/django/django/blob/master/django/middleware/http.py). Note that
 
 
 ### Learning It
@@ -294,7 +321,7 @@ Python is among the few languages that are used to teach programming from the ge
 For web development, the default standard for Python is Django, an MVC framework that drives most of the major webdev python projects.
 
 ### Jobs
-The job market for Python is varied. It's definitely not a "hot" language but it's neither a dead one. Python is used pretty much everywhere but only a few shops choose Python as the way to go.
+The job market for Python is varied. It's definitely not a "hot" language but it's neither a dead one. Python is used pretty much everywhere but only a few webdev shops choose Python as the way to go.
 
 Average salary: $102,000/year
 
