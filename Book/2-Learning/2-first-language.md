@@ -318,7 +318,7 @@ A sample code taken from [Django's http middleware](https://github.com/django/dj
 Python is among the few languages that are used to teach programming from the get-go, and it's one of the most useful ones in that manner. Unlike C++ and C, Python doesn't have to be "class based" or object oriented, python is just..python. It can be complicated, and it can be simple. Getting started with Python is a breeze.
 
 ### Frameworks and Tools
-For web development, the default standard for Python is Django, an MVC framework that drives most of the major webdev python projects.
+For web development, the default standard for Python is Django, an MVC framework that drives most of the major webdev python projects. Python also has its own environment settings (usinv virtualenv) which allows you to use various Python environments for various objects. `Pip` is the python package manager of choice.
 
 ### Jobs
 The job market for Python is varied. It's definitely not a "hot" language but it's neither a dead one. Python is used pretty much everywhere but only a few webdev shops choose Python as the way to go.
@@ -328,3 +328,4 @@ Average salary: $102,000/year
 ## So which one?
 
 It's a difficult question and a number of developers do argue about it; however, in the end it's up to you and your comforts. Look over the syntax, checkout a few tutorials and see what makes sense for your own personal method of learning.
+
