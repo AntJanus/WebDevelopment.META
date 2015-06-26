@@ -1,5 +1,7 @@
 title: Where to get started
 ----
+flag: done
+----
 content:
 
 The first step to learning something is to learn about the different avenues of actually starting. Web development is very much the same and as sad as it is, most new web developers have no idea how to approach this, and what to recommend others.
