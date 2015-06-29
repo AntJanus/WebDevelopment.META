@@ -6,7 +6,7 @@ content:
 
 First and foremost, you need to learn HTML and CSS. That's a given. At least the basics. You're good to go in under a week to start learning about a programming language, seriously. One week but probably much less. I've met people who can pick it up in less than a day.
 
-##HTML
+### HTML
 
 Here's what HTML looks like:
 
@@ -54,7 +54,7 @@ As you can see there are also tags that require to be wrapped in something else 
 
 Don't worry if that didn't click with you. Just look up "getting started with HTML" in a search engine or wait a couple of chapters for my listings of useful courses!
 
-##CSS
+### CSS
 
 Next up is CSS. Change the previous HTML bit where it says `link` to this:
 

@@ -20,13 +20,13 @@ The order of learning web development topics is very much discussed. I'll presen
 
 It sounds straightforward and that's because it is, at least in the beginning.
 
-## College vs Online Courses
+### College vs Online Courses
 
 First and foremost, I'm not a big fan of college; however, there are many times that I reference college material and even take online college courses to fill the gaps in my knowledge. As well, I hear developers argue back and forth on this topic tirelessly. The arguing should be something you get used to, it's part of the web development world.
 
 On the one hand, college education can provide a wide breadth of knowledge, and many opportunities to test your skills and have your skills critiqued. On the other, online courses can throw you right into the field and have you gaining real hands-on experience right away.
 
-### College
+#### College
 
 After conducting a few personal surveys, I got the following answer as to why a web developer should go to college first:
 
@@ -55,7 +55,7 @@ There are several problems with attending college, however, and they cannot be b
 
 So, as always, there's a decision to be made. I can tell you from personal experience that most employers value college as "two years worth of work experience" once you have at least one year of actual work experience. At least there's that.
 
-### Self-taught
+#### Self-taught
 
 Being self-taught has become a symbol of a web developer because even when you make your way out of college, additional topics to learn will be your own responsibility, not some course, certification, or additional degrees. However, we're not talking about the distant future, we're talking about today.
 
@@ -82,7 +82,7 @@ But as always, there are some downsides to being a self-taught developer:
 
 As before, I would like to warn you that some employers require degrees but most tech companies do not. And some that do will let you slide by if you have about 2 years worth of working experience.
 
-## The Choice is yours
+### The Choice is yours
 
 As always, the choice is yours. There is no "better way" despite what people may tell you. What I do recommend is reading through the rest of this book and learning about what it takes to be a web developer and what it takes to be a good web developer. At least that will prepare you better for your decision.
 

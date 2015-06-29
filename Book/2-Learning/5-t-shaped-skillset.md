@@ -6,7 +6,7 @@ I have one last lesson to teach about learning web development. And that is the 
 
 Basically, the idea is this. On the one hand, there is a group of individuals who are "jack of all trades" which is often accompanied by the second of the saying, "master of none". Let's dissect this group first.
 
-## Jack of all trades
+### Jack of all trades
 
 First, let's identify what this means. It's a term encompassing a wide-range of developers that pride themselves on knowing A LOT. They can join a conversation on jQuery just as well as they can on Ansible (a DevOps tool). And when put to skill, they can identify problems in programs, possibly even fix them. But they are unable to solve the more difficult problems, and unable to build applications that require an in-depth skillset in one specific tool, framework, or language.
 
@@ -22,7 +22,7 @@ The problem is that Full-stack developers are necessary and have their own place
 
 To summarize, there ARE jack of all trades and have entire stereotypes based around them. But this simple idea also includes developers that do have a crucial place in the web development community.
 
-## Master of One
+### Master of One
 
 Master of One is a fallacy and just as ignorant as "jack of all trades". The idea behind a Master of One is that a developer has a sole focus, a niche they are fully aware of and fully knowledgeable of. They pick a topic and they know it through and through and thus are able to make community-wide weighted opinions and can spearhead a project, masterfully balancing it and creating art.
 
@@ -39,7 +39,7 @@ The problem with these people is that they do not understand anything outside of
 
 It's like an English person and a Russian person trying to argue over how grammar should work. Both are right but the solution is always wrong.
 
-## The "T" Shape
+### The "T" Shape
 
 The "T" shape comes from the idea of merging the two concepts. Having knoweldge of a wide variety of topics but specializing in a few. So a back-end developer that knows HTML/CSS and also knows something about server so that they can communicate and work with a variety of people.
 
@@ -55,7 +55,7 @@ So what does a "T" shaped person do?
 
 This means that you can bring-in the "T" shaped person and have them work alongside other developers of different paradigms and have everyone get along well and make decisions together.
 
-## Then there is the "^" shape
+### Then there is the "^" shape
 
 A monicer that I came up with, the arrow shape is a person who is neither horizontal (ie. jack of all trades) or vertical (ie. master of one) nor a T-shape person (horizontal + vertical) but rather a gradient or curve of skillsets.
 
@@ -80,7 +80,7 @@ Imagine trying to figure out how to speed up the system. An arrow person would b
 
 You can even tell where that arrow is headed and most likely, the arrow person will implement a little of all of those. Use better caching (storing data output from a program to reuse it), figure out bottlenecks on the back-end and combine SQL statements, and request the slower/additional data *after* the initial data is sent on the front-end.
 
-## Yet most developers
+### Yet most developers
 
 If most developers were to explain their skillset it would most likely resemble soft goo squished between their hands, you never know where the excess of their skill will be, where there will be a gap and where they will be simply "mediocre". It's great to find people, however, who can learn quickly and who can form somewhat of that arrow shape in a workplace based on the needs of the job. And that's honestly how skills develop. At a workplace, when they're needed, and this creates that uneven landscape.
 

@@ -22,7 +22,7 @@ The curriculum is structured to throw you right in and get stuff done as quickly
 
 * There is a limited number of courses. Some of the other options have a much wider selection of courses.
 
-## TutsPlus Premium
+### TutsPlus Premium
 
 [TutsPlus](http://tutsplus.com/) is a blog with a variety of tutorials on a variety of topics. They offer a premium feature which offers various courses as well. I haven't used their premium offering before; however, I have checked out some of their free courses and they operate on a similar basis as Team Treehouse, albeit less driven toward a single goal. They have a variety of topics that focus on specific technologies.
 
@@ -38,7 +38,7 @@ I think that they are a great SECOND step to learning rather than first since th
 * Courses feel incomplete sometimes. They publish often, they publish a lot but often, they're incomplete.
 * There is no clear path to learn everything. You'll have to do your own research on what to learn.
 
-## Udemy
+### Udemy
 
 [Udemy](http://antjanus.com/out/book/udemy) is a little bit of a different beast as far as learning. Udemy is a marketplace of courses by different publishers rather than by a single one. You can pick and choose courses and, the best thing is, some courses are free.
 
@@ -55,7 +55,7 @@ This creates an interesting situation where you can find some of the top develop
 * Per-course payment can be a little steep at first.
 * The wealth of courses can be confusing at first.
 
-## Lynda
+### Lynda
 
 [Lynda](http://antjanus.com/out/book/lynda) is one of the older course providers out there and because of that it has a large wealth of courses both new and older. Among them are instructions by language and instructions by program. The advantage that Lynda has is that each language course has a beginner and intermediate course, meaning that whichever first language you'd like do to with, Lynda will have a course to supplement it.
 
@@ -72,23 +72,23 @@ This creates an interesting situation where you can find some of the top develop
 
 **Note:** While I was writing this book, LinkedIn bought Lynda so expect an influx of very skills-particular courses. On top of that, I wouldn't be surprised to see Lynda certifications that link to your LinkedIn.
 
-## Free Alternatives
+### Free Alternatives
 
 Of course, paid courses aren't the only way to get in; however, I've found most of the options above to be more than satisfactory for personal learning. And at $20-$30/month it's no large expenditure. So if you'd like to take on something free first and make sure this is what you want to do, here are some of the options.
 
-### Codecademy
+#### Codecademy
 
 [Codecademy](http://www.codecademy.com/learn) (no, not "CodeAcademy") is a free course-learning platform that teaches one to code. It has several languages to learn as well: Python, Ruby, and PHP, even Javascript. So it's definitely a good place to look at. They even have a step-by-step making your first website.
 
 Their Ruby course has been around for a while and has been met with great results. The jQuery one as well. I see people posting on /r/learnprogramming straight from CodeAcademy all the time.
 
-### Coursera
+#### Coursera
 
 [Coursera](https://www.coursera.org) is a special case since it is a hub for free College courses offered by accredited colleges. They do not provide credit but some do provide "certificates of completion". This is a double-edged sword. You get the advantage of college-style courses; however, you get the speed of college-style courses so if you're not comfortable with that style of learning, coursera may not be for you.
 
 On top of that, their courses vary, expire, and range in subject coverage. There is no "beginner web development" course but there may be a course on algorithms and design patterns worth checking out.
 
-## Which one?
+### Which one?
 
 I can only tell you my personal experience for what that's worth and where I would have correct myself:
 

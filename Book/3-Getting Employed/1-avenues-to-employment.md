@@ -18,7 +18,7 @@ Freelance is similar to contract in the money aspect but rather than working for
 
 At first glance, the first option seems the best but it may not be for you. I'll dig into that further in a later chapter.
 
-## Where to look for a job then?
+### Where to look for a job then?
 
 There are countless ways to get a job. Anywhere from running into a senior developer at a bar to sending hundreds of resumes to any and all companies out there. However, both of those are inefficient. The chances of running into a software engineer that is currently hiring for someone with your skillset at a bar and being able to take advantage of it are miniscule. Similarly, Resume spamming will get you nowhere.
 
@@ -35,13 +35,13 @@ All of these so far are "seeker" methods, there are other more passive methods:
 3. Writing articles and blog posts on the topic of the job you're looking for and making sure your website includes hiring information.
 4. Responding to recruiter spam.
 
-These are more akin to the "passive" methods.
-
 ### The Seeker Methods
 
 The seeker methods are basically different ways of pushing your resume into people's hands. I found that all three aforementioned methods are effective though every developer will tell you their horror stories and their success stories with each.
 
-**Direct contact** Directly contacting a company has a bounty of benefits. One of them is that you're dealing directly with the company and no third party is invovled. Even with job postings, you're more likely to get in touch with a recruiting company rather than the employer themselves.
+#### Direct Contact
+
+Directly contacting a company has a bounty of benefits. One of them is that you're dealing directly with the company and no third party is invovled. Even with job postings, you're more likely to get in touch with a recruiting company rather than the employer themselves.
 
 This is great because you can easily demonstrate your skills and use your social skills to get a foot in the door. On top of that, discussions about salary, about job environment, and about job duties will be more open. You're welcome to ask questions and receive responses right away. In this manner, it's also easier to figure out if you're the wrong fit or the company is the wrong fit for you.
 
