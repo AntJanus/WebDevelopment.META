@@ -1,8 +1,10 @@
 title: Avenues to Employment
 ---
+flag: review
+---
 content:
 
-There are many types of jobs and many different ways to get them. As you get better and progress through your career, more avenues on both sides will open up. Before I get into the *how*, let's talk about what kind of jobs there are:
+There are many types of jobs out there and many different ways to get them. As you get better and progress through your career, more avenues on both sides will open up. Before I get into the *how*, let's talk about what kind of jobs there are:
 
 1. Salary
 2. Contract
@@ -18,7 +20,7 @@ Freelance is similar to contract in the money aspect but rather than working for
 
 At first glance, the first option seems the best but it may not be for you. I'll dig into that further in a later chapter.
 
-### Where to look for a job then?
+###Where to look for a job then?
 
 There are countless ways to get a job. Anywhere from running into a senior developer at a bar to sending hundreds of resumes to any and all companies out there. However, both of those are inefficient. The chances of running into a software engineer that is currently hiring for someone with your skillset at a bar and being able to take advantage of it are miniscule. Similarly, Resume spamming will get you nowhere.
 
@@ -35,11 +37,11 @@ All of these so far are "seeker" methods, there are other more passive methods:
 3. Writing articles and blog posts on the topic of the job you're looking for and making sure your website includes hiring information.
 4. Responding to recruiter spam.
 
-### The Seeker Methods
+###The Seeker Methods
 
 The seeker methods are basically different ways of pushing your resume into people's hands. I found that all three aforementioned methods are effective though every developer will tell you their horror stories and their success stories with each.
 
-#### Direct Contact
+####Direct Contact
 
 Directly contacting a company has a bounty of benefits. One of them is that you're dealing directly with the company and no third party is invovled. Even with job postings, you're more likely to get in touch with a recruiting company rather than the employer themselves.
 
@@ -47,17 +49,23 @@ This is great because you can easily demonstrate your skills and use your social
 
 Interestingly, direct contact positions are usually "passive employment", meaning that you'll most likely be competing against a small number of other developers since the company is most likely not aggresively trying to find someone.
 
-There are SOME detractors, such as job listings being out of date, difficulty of finding companies that are hiring (this is VERY important to know), and most of all, it's the passivity may translate to casual interest in hiring you, this means that you may not get immediate responses or timely progression through the hiring process.
+There are *some* detractors, such as job listings being out of date, difficulty of finding companies that are hiring (this is *very* important to know), and most of all, it's the passivity may translate to casual interest in hiring you, this means that you may not get immediate responses or timely progression through the hiring process.
 
-**Job posting sites** Job posting sites such as Monster.com, Indeed, and LinkedIn are great sites in terms of finding a job because they offer a great variety of jobs that will appeal to a number of your skills. If you're on the fence about going into UI development or just plain Javascript development, you can find jobs for both and understand your prospects for both.
+####Job posting sites
 
-It's also a great way to apply to many different companies and wait for feedback. Simply put: this is the easiest way to find a job. The positive part about this process is that if a company posts on one of these sites, it's almost guaranteed they want to fill that position ASAP. The problem is, there are a great many developers applying for jobs precisely this way, that means a lot of competition. On top of that, the top roles are hidden from you or immediately fulfilled.
+Job posting sites such as Monster.com, Indeed, and LinkedIn are great sites in terms of finding a job because they offer a great variety of jobs that will appeal to a number of your skills. If you're on the fence about going into UI development or just plain Javascript development, you can find jobs for both and understand your prospects for both.
+
+It's also a great way to apply to many different companies and wait for feedback. Simply put: this is the easiest way to apply for a job. The positive part about this process is that if a company posts on one of these sites, it's almost guaranteed they want to fill that position ASAP. The problem is, there are a great many developers applying for jobs precisely this way, that means a lot of competition. On top of that, the top roles are hidden from you or immediately fulfilled.
 
 Another issue is that many of these postings may be recruiter sponsored, meaning that a company hired a recruiting company and that company posted as the original prospective employer. This means that when you think you're talking to a representative of the employer, you're actually talking to a third party that may have its own intentions.
 
 I definitely recommend this method as a backup for other methods, or as a way to find your first job.
 
-**Contacting recruiters** Some job posting sites are actually sites made by recruiting companies. Or you may get in touch with a recruiter and talk to them about your opportunities. Due to the lucrative nature of the tech field, there is no shortage of willing recruiters.
+Note that your chances of finding a solid position may increase if you use developer-centric job sites instead of generic ones. Check the resources in the back for a list. If you're too lazy, there's a decent Git repository that's constantly updated and has a great list of [job boards](https://github.com/lukasz-madon/awesome-remote-job/#job-boards).
+
+####Contacting recruiters
+
+Some job posting sites are actually sites made by recruiting companies. Or you may get in touch with a recruiter and talk to them about your opportunities. Due to the lucrative nature of the tech field, there is no shortage of willing recruiters.
 
 The cool thing about recruiters is that they often know about "hidden" positions, these are job postings that companies don't necessarily advertise anywhere but there is an unspoken internal need for these positions. For instance, a Lead Developer position may not be posted on Monster.com but the hiring manager at company X may mention to a recruiter that they "should really get someone for this position".
 
@@ -71,7 +79,7 @@ Dealing with recruiters is difficult so I will definitely talk about them a lot 
 
 The passive method is the equivalent of Inbound marketing vs Cold calling. Passive methods are meant to employ you by people that are really looking for someone like you. This eliminates the cruft of getting no responses on a resume or trying to get your foot into a company that doesn't want you.
 
-**Meetups**
+####Meetups
 
 This one is a little new and does not apply to many other fields. Tech meetups are a pool of the best developers meeting together to exchange information. More often than not, these developers know of open positions. Recruiters also attend these meetings to find candidates.
 
@@ -79,7 +87,7 @@ At the meetup I go to, the presenters routinely mention that their employer is h
 
 The advantage is that really good developers attend these meetups and usually good developers will work for good companies. Also, if they recommend you for getting hired, that's almost an instant hire.
 
-**Looking for a job flag**
+####"Looking for a job" flag
 
 This is a little bit of a given but when you're looking for a job, make sure that your Github or LinkedIn has a flag that says "looking for work". This is great for prospective recruiters, hiring managers, and even fellow contacts to know you're looking and to contact you. If you don't have a LinkedIn, make one now and add everyone you know or that can be beneficial to your connection list.
 

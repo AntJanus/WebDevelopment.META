@@ -14,7 +14,7 @@ I'll also mention a few helpful sites.
 
 ####Site List
 
-- HabitRPG - HabitRPG is gamified habit-learning website. It'll help you get into the habit of learning and coding for your site. There are many support groups there.
+- [HabitRPG](http://habitrpg.com) - HabitRPG is gamified habit-learning website. It'll help you get into the habit of learning and coding for your site. There are many support groups there.
 
 ###Getting Employed
 
@@ -24,6 +24,11 @@ I'll also mention a few helpful sites.
 
 - [Salary.com](http://salary.com) - a site where you can go to estimate the average pay for someone with your skillset. Take it with a grain of salt and treat it as a soft estimate.
 - [Glassdoor](http://glassdoor.com) - similar site to salary.com but offers salary information in specific companies based on user submissions. Great way to gauge room to grow and what you should ask for.
+- [StackOverflow Careers](http://careers.stackoverflow.com/) - a job listing site with quality job postings
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job/) - a constantly updated Git repository with a list of resources for those that want to work remotely. It also has a decent list of job boards.
+- [Reddit developer hiring threads](https://www.reddit.com/r/webdev/search?q=hiring+thread&restrict_sr=on&sort=relevance&t=all) - Reddit community sourced job-postings.
+- [Github jobs](https://jobs.github.com/) - Job board by Github.
+- [Tech.Pro](http://tech.pro/jobs) - Job board at a developer community.
 
 ###Better Developer
 
