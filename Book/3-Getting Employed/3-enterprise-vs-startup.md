@@ -1,18 +1,20 @@
 title: Enterprise vs Startup
 ----
+flag: review
+----
 content:
 
 Before I get into the nitty gritty of getting your resume right, I wanted to tackle some of the biggest difference between work environments. One of the biggest rifts in the industry is the difference between an Enterprise environment, such as corporations, and a Startup environment. They are almost fundamentally opposite with one group citing, "Break things, move fast" while the other focuses on small iterative updates.
 
 The difference is far reaching, not only in salary expectations, but also in work environment, technology use, expectation of employment length, and much much more. It's so starkly different, in fact, that people often prefer to work in one or the other rather than mixing it up.
 
-##Enterprise
+###Enterprise
 
 Enterprise is a word that usually means "really big company". There are certain stereotypes applied to this type of company: strict dress codes, mean managers, a certain level of dysfunction, cubicles, and much more. And while some of those may apply still today, they are not as prevalent and there are other factors to consider.
 
 Let's first discuss the technology.
 
-### Tech
+####Tech
 
 There are certain languages and types of technology that permeate the enterprise industry so much that the languages' abilities have become indistinguishable from enterprise itself. A good example is Java. Java is the more Enterprise-y language out there though why can be difficult to explain. ASP.NET and Microsoft technologies are also seen as the "enterprise solution" rather than anything else.
 
@@ -28,8 +30,7 @@ However, many companies today are switching as open source alternatives grow qui
 
 Enterprise coding usually involves rigorous long-standing processes for code approval which can be difficult to swallow. With a persistent enough senior staff, code can get stuck in the approval process for a long time and may require several revisions just so that it fits the rest of the codebase as closely as possible. This can be draining.
 
-
-### Work environment
+####Work environment
 
 Corporate work environment is less laid back and you probably won't find a beer fridge but what you will find is a more professional environment. This means that hours are more likely to be fixed and the same as everyone else's but that also means that overtime is less likely to happen. Many companies have specific regulations against it actually. There's also less chance of open harassment, better way to deal with difficult internal situations through HR, and most of all, you'll get benefits.
 
@@ -37,22 +38,23 @@ The best part of working enterprise is that you get what you sign up for. You go
 
 Outside of that, dresscodes are usually a given, and no crazy changes happen instantly. There's always a certain flow with work and getting anything done, whether it's a good flow or a bad one. And finally, there *is* a higher chance of working in a cubicle but most companies are starting to transition to an open space floor plan, whether you like it or not.
 
-### Pay and benefits
+####Pay and benefits
 
-Suffice to say, enterprise work has its benefits. One of them is pay. Pay, of course, is malleable but if you live outside of the Bay area (California/Sillicon Valley), chances are that startups in your area won't be funded with several million dollars to spend. Luckily, Enterprise software engineers can earn good cache and even transition into management along the route. The cool thing about enterprise is that there's a higher chance of "moving up" in that department.
+Suffice to say, enterprise work has its benefits. One of them is pay. Pay, of course, is malleable but if you live outside of the Bay area (California/Sillicon Valley), chances are that startups in your area won't be funded with several million dollars to spend. Luckily, Enterprise software engineers can earn good cash and even transition into management along the route. The cool thing about enterprise is that there's a higher chance of "moving up" in that department.
 
 But back to money. Enterprise is known to be a better employer in terms of money. On top of that, they already have a payroll in place and a way to deal with taxes so that already eases any possible trouble. And then, you get benefits.
 
-Now, it may not mean much at first but having fully-paid healthcare can be a big deal. A 401K can also not seem much but when you start thinking about retirement or even using your 401K to buy your first house, that can be a game changer.
+Now, it may not mean much at first but having fully-paid healthcare can be a big deal (especially now that it's legally mandated). A 401K can also not seem much but when you start thinking about retirement or even using your 401K to buy your first house, that can be a game changer.
+
+There's usually more time off available as well.
 
 Again, though, in my experience, overall, enterprise pays higher wages for senior developers than startups. However, and note this, they may not be as gracious toward junior-level employees so look out for that.
 
-
-## Startups
+###Startups
 
 A startup is usually a small company with 10 or less employees (though it can become larger as it matures). It may or may not be funded by an outside entity and it usually has one or more founders that will work alongside you. Unlike enterprise, startups have just entered the game which can be a positive or a negative.
 
-### Tech
+####Tech
 
 Startups are notorious for picking up the latest cutting edge technology. Mainly because that can be its edge over established competitors. A good example of that is old e-commerce websites that still require constant refreshing, several steps to complete a purchase, and slow response times while a startup trying to inch in on the field may feature a bolstering User Interface built on top of the latest javascript technology with a fast back-end to make sure every step of the way is as quick and seamless as possible.
 
@@ -64,7 +66,7 @@ Something else that is important to mention is that Startups rarely ever follow 
 
 One more important thing to say about technology is that a startup can be a wonderful place of learning. Because of the small group size, you may be required to take on responsibilities out of your comfort zone whilst building that "arrow" shape of a skillset. On top of that, working with cutting edge technology helps you see how that technology forms, how its bugs come up and even resolving them.
 
-On top of that, being one of the first few employees can shoot you into high-standing positions (like a CTO or Lead Developer); however, joining a startup too late will get you stuck.
+Being one of the first few employees can shoot you into high-standing positions (like a CTO or Lead Developer); however, joining a startup too late will get you stuck.
 
 ### Work environment
 

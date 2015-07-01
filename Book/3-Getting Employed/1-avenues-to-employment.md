@@ -1,6 +1,6 @@
 title: Avenues to Employment
 ---
-flag: review
+flag: done
 ---
 content:
 
@@ -91,11 +91,11 @@ The advantage is that really good developers attend these meetups and usually go
 
 This is a little bit of a given but when you're looking for a job, make sure that your Github or LinkedIn has a flag that says "looking for work". This is great for prospective recruiters, hiring managers, and even fellow contacts to know you're looking and to contact you. If you don't have a LinkedIn, make one now and add everyone you know or that can be beneficial to your connection list.
 
-As far as Github, Github is like the social media/portfolio for developers but it's also a project maangement tool, and a development tool. It houses open source projects which can be used to showcase your work. In that way, they're also a demonstration of your skill.
+As far as Github, Github is like the social media/portfolio for developers but it's also a project management tool, and a development tool. It houses open source projects which can be used to showcase your work. In that way, they're also a demonstration of your skill.
 
 Having useful open source projects, or popular open source projects, can help find jobs. On top of that, it's the first place fellow developers will check out when they want to find something out about you.
 
-**Writing articles**
+####Writing articles
 
 This one is a bit unorthodox and when I gave a talk about developer employment, I got some weird looks and later on was asked, "how can you even force yourself to do it?" and the thing is, I don't, I love it. Writing articles is by far my most interesting method of getting a good job. There have been numerous instances where I was able to seal the deal because my would-be bosses have read my work and actually learned from it.
 
@@ -105,6 +105,6 @@ Along with this there are other methods. People advertise jobs on Reddit, and I'
 
 ### It's a combination of everything
 
-Everyone swears by something different. I personally have had bad experiences with recruiters so I avoid them like the plague but I've also have bad experiences working directly with companies. I've heard of others that had a flipped situation and could not have gotten that awesome gig without one. And the list goes on. Things aren't simple and straightfoward.
+Everyone swears by something different. I personally have had bad experiences with recruiters so I avoid them like the plague but I've also have bad experiences working directly with companies. I've heard of others that had a flipped situation and could not have gotten that awesome gig without their recruiter. And the list goes on. Things aren't simple and straightfoward.
 
 However, one thing I would definitely recommend is using Reddit or other social media to ask for help in decision making. You'll quickly find others who have been in similar situations that can help you out. Make sure you use a throwaway account. I've personally gone there to discuss job prospects of being a CTO, of becoming partners with someone, the stressors of Freelancing, and so on. There is a great deal of helpful people on there.
