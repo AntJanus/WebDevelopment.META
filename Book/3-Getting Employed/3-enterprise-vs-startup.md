@@ -1,6 +1,6 @@
 title: Enterprise vs Startup
 ----
-flag: review
+flag: done
 ----
 content:
 
@@ -82,7 +82,9 @@ However, expect a friendlier atmosphere and expect your co-workers to ask you to
 
 Startups are notorious for not knowing what they're doing with payroll and taxes. Some opt out of dealing with it and hire you as a contractor, stripping you of any healthcare benefits or otherwise while others may botch the process entirely and delay your payments. Healthcare and 401K are usually non-existent in the startup world; however, those benefits are replaced with the more esoteric ones that I've mentioned: free beer and entertainment.
 
-As far as pay goes, startups range wildly. Heavily invested startups can offer above-market price while boostrapped (read: self-funded) startups may be more cautious with their money and hire under market value. Startups, however, are great for junior developers as they rarely require much background and pay well for the experience. An enterprise company may turn down a junior developer due to inexperience while a startup may hire them for having experience. It seems a little strange at first but it makes sense in the long run: startups are able to hire cheaply (by hiring rising junior developers) and hire developers that are eager to spend all of their time learning cutting edge new technology while enterprise wants to hire long-term reliable developers that are willing to stick with a Legacy (read as "old") system for a long while.
+As far as pay goes, startups range wildly. Heavily invested startups can offer above-market price while boostrapped (read: self-funded) startups may be more cautious with their money and hire on or under market value. Startups, however, are great for junior developers as they rarely require much background and pay well for the experience. An enterprise company may turn down a junior developer due to inexperience while a startup may hire them for having experience. It seems a little strange at first but it makes sense in the long run: startups are able to hire cheaply (by hiring rising junior developers) and hire developers that are eager to spend all of their time learning cutting edge new technology while enterprise wants to hire long-term reliable developers that are willing to stick with a Legacy (read as "old") system for a long while.
+
+Don't take this as an indicator that Startups have no senior developers. Tech startups especially are full of senior engineers; however, they're a great opportunity for junior developers.
 
 ##So which one?
 
@@ -90,4 +92,4 @@ To be honest, I would pick neither. Startup culture has some great benefits but 
 
 The best bet, in my opinion, is catching a startup that has just gotten into a good track and no longer needs outside funding. Those startups are usually sufficiently large to have everything figured out as far as payments and HR, and even benefits while still retaining some of its "relaxed" atmosphere. It's a hell to go through if you started before the reorganization but if you get hired during or right after, it can be a rewarding mix of enterprise and startup.
 
-The other best bet is quite the opposite, an enterprise-sized company trying to either create a silo (a startup within the company), open a new software department to create a new system ratehr than support legacy, or one that has just purchased a startup and wants to expand it as a new department/wing/etc.
+The other best bet is quite the opposite, an enterprise-sized company trying to either create a silo (a startup within the company), opens a new software department to create a new system rather than support legacy, or one that has just purchased a startup and wants to expand it as a new department/wing/etc.
