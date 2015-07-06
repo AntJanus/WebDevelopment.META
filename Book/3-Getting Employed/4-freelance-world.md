@@ -1,6 +1,6 @@
 title: Freelancing and Contract
 ----
-flag: review
+flag: done
 ---
 content:
 
@@ -59,7 +59,7 @@ The basic thing I can tell you is reading through a contract and never trust it 
 
 ###Freelancing
 
-Let's talk about freelancing. Freelancing can be wonderful but usually requires a solid base of clients in order to be an enjoyable venture. And just like finding a job, there are certain strategies to obtaining and retaining customers. There's also the issue of "how much to charge" which no one can quite agree on, and finally, it's important to understand all of your responsibilities. And interestingly, remember that web development can be more than just that in clients' eyes.
+Let's talk about freelancing. Freelancing can be wonderful but usually requires a solid base of clients in order to be an enjoyable venture. And just like finding a job, there are certain strategies to obtaining and retaining customers. There's also the issue of "how much to charge" which no one can quite agree on, and finally, it's important to understand all of your responsibilities. Remember that web development can be more than just that in clients' eyes.
 
 ####Getting Clients
 
@@ -69,9 +69,9 @@ The second place depends on you. I personally found freelance work by writing ar
 
 Another place is Craigslist. Believe it or not, many smaller business depend on craigslist as a means of getting work done. And even larger businesses do. Check it out, their services or web work section and see if there is anyone looking for work done. Be wary of people that have the "next Facebook!" idea or people that offer a percentage of future profit as a payment. Outside of that, make sure you can get these clients to sign contracts, even if they claim to not "do things this way". A lost client is better than a non-paying client that costs you several thousand dollars worth of work.
 
-There are plenty of other communities where people post projects and you can try to get in contact with the client and discuss it. Reddit is a good place. However, there are plenty of communities that just don't work well. There are many sites that are meant for developers such as ODesk and Freelancer but from my personal experience and the experiences that I've heard about it from many other developers, it's a pitfall of failure because of low-paying projects, high competition that underbids everyone, and sketchy client behavior.
+There are plenty of other communities where people post projects and you can try to get in contact with the client and discuss it. Reddit is a good place. However, there are plenty of communities that just don't work well. There are many sites that are meant for developers such as ODesk and Freelancer but from my personal experience and the experiences that I've heard about from many other developers, it's a pitfall of failure because of low-paying projects, high competition that underbids everyone, and sketchy client behavior.
 
-Outside of that, there's always "cold emailing", or emailing business that look like they need a new website; though, I've never had any success with that particular one.
+Outside of that, there's always "cold emailing", or emailing business that look like they need a new website.
 
 ####How much to charge
 
@@ -81,7 +81,7 @@ This one ranges wildly from $20/hour to $150/hour depending on the type of the w
 2. Add extra money for days off and holidays. Most companies have about 6-9 holidays a year plus 10-15 days off a year
 3. Add expenses that will come out of your pocket. You'll need a computer, accounting software, billing, invoicing, web development software, probably some subscriptions, etc.
 4. Savings for the time that you won't be able to find a project.
-5. Expenses to find a client
+5. Expenses to find a client.
 6. And money to take into account when business speeds up or slows down.
 
 This is why some companies and some individuals can reach very high rates. Some developers charge at least $10K per project, and each project can last anywhere from two weeks to a month.
@@ -104,7 +104,7 @@ Freelancing is the epitome of the "jack of all trades" so let's go over some thi
 
 1. Design - Every freelance web developer I know has at least basics of design. This means that they can create a polished UI for a client's needs; however, it doesn't mean that you should have to be a UI design expert that can build the next generation communication web application for a watch.
 2. Development - This one is a given but it also means front-end as well as back-end. There will be clients that will need one or the other, but some will want both, not knowing there is a difference! :) Make sure you know enough of both to build a solid website
-3. SEO - or Search Engine Optimization is the black magic of making a website "pop" in the ranking of a search engine (basically, google). This is an effort worth an entire agency over the course of many months or even years so you can't possibly do this alone unless it's the only thing to do. You'll need to inform your client of that; however, there are things you *can* do as a developer: have clean markup, present all of your contents so that it's search engine legible, use the proper SEO tags (like using the correct `h1` for headings), and generate a sitemap without any dead pages (get rid of dead pages too). These few things won't put your client on the map but when they do approach an SEO company, the company won't have to make an extensive list of things that need to change on the back-end, development side.
+3. SEO - or Search Engine Optimization is the black magic of making a website "pop" in the ranking of a search engine (basically, google). This is an effort worth an entire agency over the course of many months or even years so you can't possibly do this alone unless it's the only thing to do. You'll need to inform your client of that; however, there are things you *can* do as a developer: have clean markup, present all of your contents so that it's search engine legible, use the proper SEO tags (like using the correct `h1` for headings), and generate a sitemap without any dead pages (get rid of dead pages, too). These few things won't put your client on the map but when they do approach an SEO company, the company won't have to make an extensive list of things that need to change on the back-end, development side.
 4. IT/Hosting - many clients maybe unfamiliar with the concept of "hosting" a website. You may be called on to recommend a hosting company and to even setup your final product there. Make sure you familiarize yourself with website migrations, hosting, and linux for this task.
 5. Error/Support - You may be thinking that once you're done with a site, you hand it off and don't have to think about it again but client's may not see things the same way. Every developer will create bugs that's why it's easier to say that clients pay you for time to build a website, not for the actual final product. Make sure you know how to debug, fix, and support your product.
 
@@ -136,4 +136,4 @@ All kinds of things but one thing I can recommend for everyone is trying out Fre
 
 If you have an adventuruous spirit, freelancing is definitely a great journey and it can be a great way to build a startup.
 
-As far as contracting goes, I recommend it for the jittery but it's not something you should or need to experience. It's just another way of doing things.
+As far as contracting goes, I recommend it for the jittery but it's not something you have to or need to experience. It's just another way of doing things.

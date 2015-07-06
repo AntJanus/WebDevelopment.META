@@ -1,5 +1,7 @@
 title: Resumes
 ----
+flag: review
+---
 content:
 
 Resumes are a wonderful way to showcase who you are, what you are capable of, and what you have been up to. Some see Resumes as obsolete and believe that portfolios or Github are the way to go, yet others find both obsolete and believe in pure interview or co-coding practices. But those are, again, argued for and against.
