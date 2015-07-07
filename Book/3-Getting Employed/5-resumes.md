@@ -1,6 +1,6 @@
 title: Resumes
 ----
-flag: review
+flag: done
 ---
 content:
 
@@ -8,13 +8,13 @@ Resumes are a wonderful way to showcase who you are, what you are capable of, an
 
 I hope the last several chapters have shown this never-ending argumentative nature of the tech sector.
 
-However, Resumes still hold place. I have not yet seen a job, high-profile or low-profile, that did not require *some* kind of a resume. It's not a formality either, it's a great way to present a summary of you.
+However, Resumes still hold a place in the industry. I have not yet seen a job, high-profile or low-profile, that did not require *some* kind of a resume. It's not a formality either, it's a great way to present a summary of you.
 
 But Resumes can be tricky. They can range from informative to overwhelming, and from useless to even worse. The main goal is to make a resume as clear as possible without being too long.
 
 The saying goes that a "recruiter never looks past the first page".
 
-## The Basics
+### The Basics
 
 This may be way too basic for most of you but it's worth mentioning some tips on Resume basics:
 
@@ -27,13 +27,13 @@ This may be way too basic for most of you but it's worth mentioning some tips on
 
 Once you have the basics down, time to move onto your work history.
 
-## Work History
+###Work History
 
 Work history is a great example of how Resumes are useful. No, it doesn't matter if you worked for a major company or a minor one. And no, this isn't about name dropping. A resume is a good way to show what you've been working on and what work setting you've been a part of.
 
 But it's not as simple as writing down the company you worked for and how long. Let's dissect the important parts.
 
-### Order and what to not include
+####Order and what to not include
 
 First, let's discuss the order of your jobs. It makes sense to put the most recent one on top such as your current position. If you're working two or several jobs as is normal for people that freelance on the side, put the full-time job on top and follow it with notes about your freelancing.
 
@@ -43,9 +43,9 @@ As far as what not to include, make sure to avoid jobs like being a cashier or a
 
 If you're looking for your first full-time job, this is why you should have some freelance work under your belt, able to discuss past projects.
 
-### Include brief description and technology
+####Include brief description and technology
 
-One of the more important aspects of a resume is its searchability and its informativeness on your abilities regarding specific technology. First, let's take on searchability.
+One of the more important aspects of a resume is its searchability and its informativeness on your abilities regarding specific technology.
 
 Whenever your resume is submitted to a recruiter, it's usually added to a larger database of resumes. The same goes for linkedIn, Monster.com, and other sites where your resume becomes an inherent part of the system.
 
@@ -59,7 +59,7 @@ at the end of it. My resume looks a bit different, however.
 
 With every job you put in your resume, there's the title and dates, sure, but there should also be a description. A description should be succinct and truly explain what you do. Here's an example of one of my descriptions:
 
-> Developed tools for lead generator and monetizations platforms as well as high-availability APIs to power front-end applications.
+> Developed tools for lead generation and monetization platforms as well as high-availability APIs to power front-end applications.
 
 What's important in the description is that it already tells you some stuff I've worked with implicitly and explicitly:
 
@@ -73,31 +73,35 @@ What's important in the description is that it already tells you some stuff I've
 
 The list goes on but it's a well structured description. After that I'd post a list of the tech I used.
 
-### Projects
+###Projects
 
 You can also write down a list of projects in your resume under each job, keep it as short as possible. It's also another great way to write down what technology you used. Here's my full example from my resume:
 
-````
+```
 Developed tools for lead generator and monetizations platforms as well as high-availability APIs to power front-end applications.
 
 Projects:
 
-* Main monetization platform - php/symfony + Mysql -  feature additions, unit testing, maintenance
+* Main monetization platform - PHP/symfony + Mysql -  feature additions, unit testing, maintenance
 * External Data API Tool - Ruby on Rails platform - DevOps, system audit, performance audit
 * Internal Data API Platform - NodeJS + Mysql - back-end architecture, importing scripts, scaling, caching and performance strategies, DevOps, and front-end prototypes
 * General prototyping - General front-end prototypes for internal and external APIs with AngularJS
-````
+```
 
 A good resume can make you stand out.
 
-## Open Source
+#### Open Source
 
 Sometimes the most important projects you'll be working on won't fit into a job category. Such as work on open source projects, personal projects, and similar. You're welcome to include those after Work History. They're a little like a cherry on top of what you've done.
 
 Make sure you state your involvement and the technology, again, that you've worked with.
 
-## Links
+#### Links
 
 Link to your Github or other portfolio websites, preferably at the top of your resume. This will ensure that the prospective employer, after being screened by a recruiter, can find out more about you. You may include links for your blog, LinkedIn, Github, and just about anything else.
 
 In fact, I even include my Twitter and many prospective employers find that useful, especially startups. Enterprise-level companies, not so much.
+
+###A good resume
+
+A good resume can get you through the door at some companies. They're also what an interviewer will be looking at when they talk to you. Make sure to invest some time into what your resume looks like and keep it updated over the years.

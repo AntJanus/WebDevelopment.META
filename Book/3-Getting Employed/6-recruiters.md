@@ -1,8 +1,10 @@
 title: Recruiters
 ----
+flag: review
+----
 content:
 
-Because of the complicated nature of recruiters, they warrant their own chapter. Recruiters are the middlemen (or middlewomen) that act as liasons between a company and a prospective candidate. They try to make a deal between the two parties and get paid upon employment (or within 90 days after employment, the terms vary).
+Because of the complicated nature of recruiters, they warrant their own chapter. Recruiters are the middlemen (and middlewomen) that act as liasons between a company and a prospective candidate. They try to make a deal between the two parties and get paid upon employment (or within 90 days after employment, the terms vary).
 
 However, dealing with recruiters is a tad more complicated than dealing with an employer since they're a 3rd party which has its own interests.
 
@@ -65,4 +67,4 @@ At first glance, this doesn't make sense since there is no reason to try to dece
 
 ## Should you do it?
 
-That's up to you, as everything else. First hand experience is definitely the best way to learn. Hearing what others say on the topic is also useful; however, everyone will give you their opinion. I'm 100% sure that several developers will roll their eyes at reading my "cons" list but that's fine, they have their experiences. And you will have yours. 
+That's up to you, as everything else. First hand experience is definitely the best way to learn. Hearing what others say on the topic is also useful; however, everyone will give you their opinion. I'm 100% sure that several developers will roll their eyes at reading my "cons" list but that's fine, they have their experiences. And you will have yours.
