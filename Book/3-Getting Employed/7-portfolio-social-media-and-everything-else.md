@@ -1,5 +1,7 @@
 title: Social media, blogging, portfolio, and everything else
 -----
+flag: review
+----
 content:
 
 Lastly, as far as employment goes, I wanted to discuss social media and the like. Mainly as a resource for getting a job and long-term healthy employment. There's also portfolio making which is a necessary addition to a resume.
@@ -11,7 +13,7 @@ A portfolio is traditionally an organized presentation of one's work and work ac
 For a successful portfolio, you need to make sure of a few things:
 
 1. Include ONLY your best work. Nothing mediocre. Keep the number of pieces small enough to be easily digestible but large enough to show your best.
-2. Try to include varied pieces. Showing five of your web designs where each is in the less style is less helpful than one web design combined with back-end work and an app you created.
+2. Try to include varied pieces. Showing five of your web designs where each is done in an identical style is less helpful than one web design combined with back-end work and an app you created.
 3. It's fine to do work directly for the portfolio. One such case for designers is "unsolicited redesign", or a design concept of an existing product/app/website that was not commissioned by that entity.
 4. Use work that you're only approved to use. Don't try to use work that you are not allowed to disclose.
 5. Make your portfolio online-accessible. Better yet, make your website a way to show off your best stuff.
@@ -30,11 +32,11 @@ Social media, strangely enough, is a great way to socialize with other developer
 
 It's difficult to describe the benefits other than just the community and a place to disemminate your blog articles and showcase your work. Both of which may lead to potential employment. Outside of that though, you may find some cool stuff like other people's work that may inspire you, various cool apps and libraries you might want to use, discussions on the job of a web developer and so much more. The community can quickly become a huge part of who you are and what you do.
 
-If you have a question, feel free to ask and hopefully get good responses. There are several communities specifically geared toward CS careers (computer science) which can help you with your resume, with where to look and everything else.
+If you have a question, feel free to ask and hopefully, you'll get good responses. There are several communities specifically geared toward CS careers (computer science) which can help you with your resume, with where to look and everything else.
 
 One last thing, a potential employer may look through your twitter history. This can be a good and a bad thing. I've had an employer go through my reddit history out of curiosity and that fostered an instant connection between him and I since I did the same with his account.
 
-It's, however, not a necessity. I've had a person attend my talk where I discussed how social media helped me land a job. Well, in fact, I worked with a co-worker who was hired on the basis of a twitter conversation. And she asked me how to go about being active on twitter and making a "personal" brand as a web developer when she doesn't really like it. I answered her as honestly as I could: You don't *have* to do it.It may not even pay off for most people.
+It's, however, not a necessity. I've had a person attend my talk where I discussed how social media helped me land a job. Well, in fact, I worked with a co-worker who was hired on the basis of a twitter conversation. At the talk, a design student asked me how to go about being active on twitter and making a "personal" brand as a web developer when she doesn't really like it. I answered her as honestly as I could: You don't *have* to do it.It may not even pay off for most people.
 
 ## Blogging and blogs
 
@@ -42,7 +44,7 @@ A great way to spruce up your website is by adding a blog to it. There are sever
 
 Now, I don't recommend this as a strategy for getting a job but there are lots of rewarding reasons for writing a blog:
 
-1. writing tutorial blogs helps you internalize and learn. It's the same concept as teaching a subject helps you learn about it more in-depth because you're forced to explain the topic in terms that a beginner could understand.
+1. writing tutorial blogs helps you internalize and learn. It's the same concept as where teaching a subject helps you learn about it more in-depth because you're forced to explain the topic in terms that a beginner could understand.
 2. writing opinion pieces on tech can gather you a good discussion on the topic and thus enables you to challenge your ideas and possibly get validation.
 3. it gives you a great chronological "developer's diary" of what you thought, what you struggled with, and how you overcame those challenges.
 4. if you're smart with monetization, your writing could pay off somewhat (nothing worth switching to full-time).
