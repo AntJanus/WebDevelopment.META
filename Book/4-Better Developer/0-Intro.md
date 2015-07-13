@@ -1,5 +1,7 @@
 title: Intro
 ----
+flag: done
+----
 content:
 
 It's easy to be a good developer. You get your job done, your code works, it passes tests (if you have any). And you find yourself happy where you're at. Good for you, you've just achieved career satisfaction. Something many people are not able to do.
@@ -8,7 +10,7 @@ But contrary to popular belief, it's easy to be a "good developer" but difficult
 
 I have a whole load to say about this topic so there's an entire section on this.
 
-Who is this section for:
+Who this section is for:
 
 1. a developer that wants to become better.
 2. a better developer seeking validation.

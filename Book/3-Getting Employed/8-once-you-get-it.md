@@ -1,5 +1,7 @@
 title: Once you get it
 ----
+flag: done
+----
 content:
 
 I talked a lot about getting a job but not much about what to do once you get it. Your first job, or whichever actually, should always be a learning opportunity. You should never walk out of a job thinking that you're at the same place you were before you got there. Take from that what you will.

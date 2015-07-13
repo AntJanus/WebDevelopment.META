@@ -1,6 +1,6 @@
 title: Social media, blogging, portfolio, and everything else
 -----
-flag: review
+flag: done
 ----
 content:
 
