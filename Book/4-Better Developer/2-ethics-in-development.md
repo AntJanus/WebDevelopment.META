@@ -1,5 +1,7 @@
 title: Ethics in Development
 ----
+flag: review
+----
 content:
 
 When you first enter the web development field, it will be tempting to "get what you can" and screw anything and everything in the way but somewhere along the way, you're going to be concerned with more than just pay and technology.
