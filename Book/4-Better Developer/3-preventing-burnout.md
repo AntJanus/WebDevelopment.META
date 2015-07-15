@@ -1,5 +1,7 @@
 title: Development Burnouts - Why and How Not To
 ---
+flag: review
+---
 content:
 
 Burning out is an issue that all developers face. And younger developers are often not aware of. To put it simply, a burnout is a state where one is overly fatigued by continued over-exertion. A burnout, left untreated, can result in terrible consequences. Think of it as an Athlete training without a break to let their muscles heal.
