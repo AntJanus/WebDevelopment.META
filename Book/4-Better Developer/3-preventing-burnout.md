@@ -4,11 +4,11 @@ flag: review
 ---
 content:
 
-Burning out is an issue that all developers face. And younger developers are often not aware of. To put it simply, a burnout is a state where one is overly fatigued by continued over-exertion. A burnout, left untreated, can result in terrible consequences. Think of it as an Athlete training without a break to let their muscles heal.
+Burning out is an issue that all developers face and younger developers are often not aware of. To put it simply, a burnout is a state where one is overly fatigued by continued over-exertion. A burnout, left untreated, can result in terrible consequences. Think of it as an Athlete training without a break to let their muscles heal.
 
 This doesn't stop from managers pushing, however, nor does it stop developers from continuously working away through a burnout.
 
-## What is it?
+### What is it?
 
 The simple definition can stand on its own but let's explore the topic further. Where does it come from? How long does it last? Well, every developer has their own amount of resistance to a burnout but everyone is susceptible to it even those that don't think they do.
 
@@ -28,7 +28,7 @@ I'm not being overly dramatic here either. I've worked with developers that near
 
 I know for myself that I often reach the point of a burnout but have learned to curb that situation and I haven't had a real burnout in a while.
 
-## The Cause
+### The Cause
 
 Before I get into remedies and preventions, let's discuss a cause for burnouts. The cause is in its definition, basically overexerting yourself without taking a break to recharge; however, as simple as it sounds, most of us don't internalize it. There are still young developers on forums that seem to think they're invincible. And by young, I mean junior, not age-wise.
 
