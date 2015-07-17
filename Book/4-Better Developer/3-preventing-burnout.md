@@ -1,6 +1,6 @@
 title: Development Burnouts - Why and How Not To
 ---
-flag: review
+flag: done
 ---
 content:
 
@@ -32,11 +32,11 @@ I know for myself that I often reach the point of a burnout but have learned to 
 
 Before I get into remedies and preventions, let's discuss a cause for burnouts. The cause is in its definition, basically overexerting yourself without taking a break to recharge; however, as simple as it sounds, most of us don't internalize it. There are still young developers on forums that seem to think they're invincible. And by young, I mean junior, not age-wise.
 
-Working long hours. Contrary to popular belief, working longer hours does not necessarily get you faster results. In fact, the longer you work, the more likely you are to make mistakes, degrade the quality of your code, and create problems. Even the popular eight hour work day is seemingly not the best approach to work. Sweden recently put seven and even six hour days on trial with much success. However, that may not be an option for you. The important thing is to balance out your day and not work more than your allotted eight unless it's an emergency.
+Contrary to popular belief, working longer hours does not necessarily get you faster results. In fact, the longer you work, the more likely you are to make mistakes, degrade the quality of your code, and create problems. Even the popular eight hour work day is seemingly not the best approach to work. Sweden recently put seven and even six hour days on trial with much success. However, that may not be an option for you. The important thing is to balance out your day and not work more than your allotted eight unless it's an emergency.
 
 This means that, no more weekend work, no more "staying after five" or whenever, and no more working late at night at home just to get a project done on a deadline. But if you do need to work longer hours it should happen rarely and not be a habit. On top of that, it should be followed by a time of less stress and responsibility. Meaning that once you launch that long difficult project, take a break.
 
-Taking on too much. Another good point is not to take on too much. It might seem inviting to volunteer for every new project but in the end, it'll lead to stress. And if it doesn't lead to working long hours, it will still lead to fatigue. Sometimes, it's inevitable but over-assignment should be a last resort. Prolonged exposure to high stress will definitely knock you out of the game.
+Another good point is not to take on too much. It might seem inviting to volunteer for every new project but in the end, it'll lead to stress. And if it doesn't lead to working long hours, it will still lead to fatigue. Sometimes, it's inevitable but over-assignment should be a last resort. Prolonged exposure to high stress will definitely knock you out of the game.
 
 There are other reasons but two those are the top ones. Along with that are less visible and recognizable ones:
 
