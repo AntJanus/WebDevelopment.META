@@ -43,7 +43,7 @@ There are other reasons but two those are the top ones. Along with that are less
 1. working monotonously with no new projects and no real change in the form of the projects.
 2. unclear job expectations.
 
-## Solution
+### Solution
 
 The solution is to never get to the point where you're starting to think you've burnt out. However, you may have already passed that point of no return. It's fine, we've all been there and we will all be there again. Let's talk about what you can do once you reach that point.
 
@@ -64,7 +64,7 @@ But that will only keep things from getting worse. What you'll need to do is sta
 
 Honestly, if you encounter severe issues with any of these points, start looking for a new job. You're worth it.
 
-## Prevention
+### Prevention
 
 Lastly, let's discuss prevention. From the solutions list, you should already have an idea of what you need to do. But just to be organized, I'll go over it again with some extra tips especially ones concerning lifestyle because work burnout can be caused by outside influences as well. Prevention is probably the most important part of this chapter as prevention should slowly become a part of your life as a developer and internalizing the advice in this section will help you become a better developer. Because what's better than a developer who can handle stressful situations, can work sustainably at the same level, and rides high on productivity and low on burnout? Not much, and it's a big step toward become a better dev and moving along in your career path.
 

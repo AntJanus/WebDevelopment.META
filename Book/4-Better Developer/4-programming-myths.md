@@ -1,12 +1,13 @@
 title: Programming Myths
 ----
+flag: done
+---
 content:
 
 Programming myths permeate the developer world as much as urban myths spread through high school. The non-tech media believes it whole-heartedly, young developers suspect something but stay in denial, and older developers know better, most of the time, until they start a whole new myth that serves them. Or a combination of the reactions may explain how you feel about them.
-
 I wanted to dispell some of the myths and discuss what they really mean rather than what they have come to mean.
 
-## The 10x
+###The 10x
 
 The 10x-er is a developer with such great knowledge that they can accomplish the work of 10 other developers of similar stature. It's a completely false idea but it's something media likes to write about. Mainly because we all like super heroes and a 10x engineer is a superhero/myth/legend among developers. It's the Ubermensch.
 
@@ -16,7 +17,9 @@ The reason why it's a myth is two-fold. One of them is the fallacy that's often 
 
 And the same goes for web developers, a real 10xer can't replace 10 developers. You simply can't assign 400 hours of work for a developer to figure out within a week. It doesn't work that way. To take the myth down a notch, let's think about a great developers. A great developer can save a lot of time with their current knowledge, coding standards, and some ingenuity. These elements should be part of every senior developer's box of tools. And some of these early-on positive paths can result in saving time overall, or just having a better infrustructure.
 
-However, it's only the *perceived* difference between a bad developer and a great one can make that great one look like a 10xer. On top of that having a team of developers fosters peer review, brainstorming, support and much more while a single developer can't do that for themselves. So, in short: you can't replace an entire team with a single person.
+However, it's only the *perceived* difference between a bad developer and a great one can make that great one look like a 10xer.
+
+On top of that having a team of developers fosters peer review, brainstorming, support and much more creates a much better cohesive team while a single developer can't do that for themselves. So, in short: you can't replace an entire team with a single person.
 
 On the flip side, a single developer with the means and ability can write programs that replace 10 people easily, but that's not what the myth means though it's a much better definition.
 
@@ -30,7 +33,7 @@ This is visible in Startups as well. Ever wonder why startups can get a project 
 
 In short: a 10xer is a scapegoat for accomplishments and an utterly simplified situation in which a single developer is made out into a legendary hero that others should aspire to.
 
-## VIM and/or Emacs and/or Sublime Text will make you a better developer
+###VIM and/or Emacs and/or Sublime Text will make you a better developer
 
 There has been a strange rise of people using super-simple text-editors to write code. Vim is a text editor shipped and/or available for most operating systems in the world. It's available via the command line and recently via GUI as well. Emacs is pretty much in the same boat albeit a few years younger. Sublime Text took what these two offered and created a very powerful text editor that was simpler than IDEs (integrated development environments) but more user-friendly than the commandline text editors.
 
@@ -42,17 +45,17 @@ So it's really up to you to know what works. All I can recommend is that you lea
 
 But will it make you a better developer? No, just a less frustrated one.
 
-## Language X is better than the rest
+###Language X is better than the rest
 
-There is no holy grail of languages, in fact, every language serves a specific purpose (or many) and has a niche to fill. You can easily tell that by the number of users that use it for their projects. For instance, both Rubyists and PHP developers like to claim that their language is better while in fact, neither is. They both work a little differently, have a different development ecosystem and thus serve a different purpose. As much as developers love to bicker, in the end, it's all just a matter of preference.
+There is no holy grail of languages, in fact, every language serves a specific purpose (or many) and has a niche to fill. You can easily tell that by the number of users that use it for their projects. For instance, both Rubyists and PHP developers like to claim that their language is better while neither really is. They both work a little differently, have a different development ecosystem and thus serve a different purpose. As much as developers love to bicker, in the end, it's all just a matter of preference.
 
-Now, that's not to say that some languages are better at some things over others. It's common knowledge that if you want to write code that runs fast, VERY fast, you write it in C++ because it's one of the fastest languages that's still high-level enough that coding it in is not a (terrible) struggle. If you want to code a website, however, C++ may be a pain and so you look at the web development languages instead, they do their job well. If you want to write interactive code in the browser, you'll have to stick with Javascript, no matter what you want to do.
+Now, that's not to say that some languages aren't better at some things over others. It's common knowledge that if you want to write code that runs fast, VERY fast, you write it in C++ because it's one of the fastest languages that's still high-level enough that coding it in is not a (terrible) struggle. If you want to code a website, however, C++ may be a pain and so you look at the web development languages instead, they do their job well. If you want to write interactive code in the browser, you'll have to stick with Javascript, no matter what you want to do.
 
 Otherwise, a lot of the "is it better or not" also depends on your paradigm (so functional programming is *not* fun in PHP), on what you like as far as the syntax goes (like where Python requires indentation), and so on, all very subjective and all very variable.
 
 So anytime you hear someone say that one language is better than another, add a little "for my specific purposes and my preferences" at the end of that statement.
 
-## You need to know Math
+###You need to know Math
 
 Well, yes, and no. Mostly no. Taking Calculus III at College will not make you a great developer, nor a good one, I know I've tried. It's completely beside the point. Will you be dealing with numbers? Yes, but that's just basic high school Algebra. At most, you'll be dealing with trying to figure out how efficient your code is in terms of the big "O" but that's just Algebra II/III-level math and it doesn't come up on a daily basis.
 
@@ -62,15 +65,15 @@ One of them is game development where you'll have to learn the basics of matrice
 
 But that's game development. Most other fields don't require advanced math skills.
 
-## Developers have to know all the design patterns and algorithms
+###Developers have to know all the design patterns and algorithms
 
-That's another no. In fact, there was an interesting discussion on Quora about real-world application of algorithms and one of the developers mentioned how they created an incredibly awesome matching system for users on a social network and after some time and study found that the matching system was, in fact, an algorithm they did not know about. However, these stories are rare.
+That's another no. In fact, there was an interesting discussion on Quora about real-world application of algorithms and one of the developers mentioned how they created an incredibly awesome matching system for users on a social network and after some time and study found that the matching system was an algorithm they did not know about. However, these stories are rare.
 
 What's less rare is people intuitively using design patterns and algorithms that they either forgot about and learned a long time ago, or they don't know about at all. Knoweldge of these can be useful but 90% of the time, algorithms do not make or break a good application. So if you can't recall what a heap sort looks like or if you're using a Multiton or Object pool, don't despair! You're not a bad developer.
 
-On a side note, there has been a lot of discussion about how adherence to design patterns can lead to low-quality apps since many of them are misused or, since they're rather abstract, they do not fit the job. Algorithms have been debated for a long time as either completely useless at a higher level (application-level, where you code), or already implemented where they matter (such as in basic functions of the programming language you use).
+On a side note, there has been a lot of discussion about how adherence to design patterns can lead to low-quality apps since many of them are misused or, since they're rather abstract, they do not fully fit the job. Algorithms have been debated for a long time as either completely useless at a higher level (application-level, where you code), or already implemented where they matter (such as in basic functions of the programming language you use).
 
-## Offshoring code will destroy your career
+###Offshoring code will destroy your career
 
 If you're in the US or the UK, you might be hearing the scare of off-shoring code, the practice of having developers in other countries do the same work but for much less. Don't despair. First of all, certain countries definitely do have great developers who work at great prices (I'm looking at you Eastern Europe!); however, there is a simple matter of language barrier and luck that keeps projects from succeeding and ultimately costing a company more than it would have spent on proper developers in its country.
 
@@ -80,7 +83,7 @@ And this is where "luck" comes in. The chances of successfully maneuvering the d
 
 What happens then? There are tons of offshoring horror stories but they all end up similarly. The client may try again and fail again, the client may run out of money and drop the whole thing, or, most commonly, the client will turn toward more reliable developers and dev shops in their country where at least they can enforce contracts.
 
-## When you ship software, it's bug-free and doesn't need maintenance
+###When you ship software, it's bug-free and doesn't need maintenance
 
 Unfortunately for everyone, software is rarely ever "finished". Meaning that you don't just "write it once, and use it for life". The reason for that is complex but there are a few things to keep in mind:
 
@@ -97,10 +100,14 @@ Imagine you wrote a Wordpress theme for a client. If they install a plugin that 
 
 In short, developing software is never done.
 
-## Once you master a language, you're done learning
+###Once you master a language, you're done learning
 
 You're not because the second you think you "master" something, you'll find out there are a million new things to learn about it. For instance, CSS should have been probably the easiest "language" to learn (I use that term loosely here), yet there are professionals that dedicate their entire lives today in order to learn the nuances of it, how to exploit it, and make it work for them. The second you master the syntax, you'll learn about Object Oriented CSS (a way to organize your CSS such that it's easy to understand, it doesn't reuse styles without cause, with some other perks too), and then you'll find out about paint optimization (styling so that the browser takes less time to apply your styles), then there are animations, CSS preprocessors that allow variable use, etc. etc. And it keeps going.
 
 And every language is like that. And the world is moving. Once you think you have a handle on one thing, you'll find the next thing to learn, and then you'll have to go back and update your understanding of that one thing because it just got a massive overhaul. Then there are "best practices" (a collection of practices that one should employ for certain programming tasks) which update constantly.
 
 Basically, the learning never stops. You can't stop because if you do, you'll find yourself knowing legacy software that no one uses any longer. It's really not as scary as it sounds but it's something to keep in mind.
+
+###And there is more
+
+There are many more myths so just keep a sceptical mind and don't trust overreaching conclusions (like "Developers that learn C first are better developers").
