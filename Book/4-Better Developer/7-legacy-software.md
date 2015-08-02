@@ -1,5 +1,7 @@
 title: Legacy Software and Technical Debt
 ---
+flag: review
+---
 content:
 
 The idea of technical debt is tightly coupled with legacy software and both are concepts that are important to developers that want to advance in their field. Dealing with and masterly using both concepts can help create applications with extended longevity.

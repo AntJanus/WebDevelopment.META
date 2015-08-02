@@ -1,5 +1,7 @@
 title: Languages to Learn
 ----
+flag: done
+----
 content:
 
 I wanted to have a fun little chapter so this one's it. I'd like to discuss the languages that are good to learn not just because of their usage but also because of what they can teach you along the way. Generally speaking, I'd stick to the languages I introduced in Section II Learning; however, there are times when it's definitely worthwhile to venture out and learn something new. Whether it's a new programming paradigm associated with a programming language or it simply introduces a different way of thinking, it's definitely worth learning more.
@@ -29,9 +31,7 @@ Next, there is PHP, the age-old rival. PHP is rapidly reinventing itself and pro
 
 There's also the fact that PHP runs the popular Wordpress CMS so learning it is a great way to introduce yourself to the most popular Blogging/CMS platform in the world.
 
-My less objective reasons for learning PHP:
-
--
+The language is also undergoing lots of modernization as it finally got a package manager, coding standards (with PSR), a spec is on the way, and the newest versions include type hinting.
 
 ### Javascript
 
@@ -47,6 +47,8 @@ I've already discussed Python as a back-end development language that originated
 
 What's great about Python is its procedural programming application as those plugins. With a few lines of code, you can achieve a lot of power.
 
+I'd recommend learning Python as a step toward learning general programming and computing.
+
 ### C\#
 
 C\# is sometimes called the "C++ for the web". It's true in some way and false in others; however, learning it can bring in a lot of insight as to why developers chose to go with C\# despite its platform limiations, and why some developers hate it. Most of the time, C\# is hated by people who hate Microsoft but outside of that, C\# is a wonderful language.
@@ -55,17 +57,19 @@ It's a language that works mostly OO with the ASP.NET MVC framework or as proced
 
 C\# is also statically typed and that's definitely worth getting into.
 
+And just like Python, it's multi-purpose so you can build game engines with it, desktop apps, and even mobile apps.
+
 ## C++
 
-C++ is a multi-use language, one that can be used for just about anything. In fact, the OS you're running right now is written in it, so is your browser, your hardware drivers, PHP's engine, and much more. In fact, it runs most of the world's applications.
+C++ is a multi-use language, one that can be used for just about anything. In fact, the OS you're running right now is written in it, so is your browser, your hardware drivers, PHP's engine, and much more. It actually runs most of the world's applications.
 
-The best part about learning C++ is reinventing the wheel. C++ is as low-level as most developers get since beyond that is only C, Assembly, and machine language and due to the nature of Compilers, there's no reason to go lower level than C++ (in 99.9% of cases). Learning C++ can teach you about the fundamentals of Computer Science from using efficient algorithms (that are already implemented in most other languages), to building your own data structures.
+The best part about learning C++ is reinventing the wheel. C++ is as low-level as most developers get since beyond that is only C, Assembly, and machine language and due to the nature of compilers, there's no reason to go lower level than C++ (in 99.9% of cases). Learning C++ can teach you about the fundamentals of Computer Science from using efficient algorithms (that are already implemented in most other languages), to building your own data structures.
 
-The coolest part of C++ is just how much it's used today, and everywhere. You can use it to write video games (the Unreal engine, in fact, uses C++) or command line utilities. It's definitely worth learning as an OOP language as well. It's complicated but VERY powerful. It can imbue a sense of responsibility when writing it but it can give you an appreciation for all of the work done on higher-level languages in order to make them easier to use at the penalty of speed.
+The coolest part of C++ is just how much it's used today, and everywhere. You can use it to write video games (the Unreal engine uses C++) or command line utilities. It's definitely worth learning as an OOP language as well. It's complicated but VERY powerful. It can imbue a sense of responsibility when writing it but it can give you an appreciation for all of the work done on higher-level languages in order to make them easier to use at the penalty of speed.
 
 ## Haskell
 
-Haskell is an academic programming language that entered the mainstream. It's touted as the language that you learn and it'll change your life. It's a purely functional language meaning that it enforces even the most rigid functional paradigm rules like immutability (inability to change variables after they're set).
+Haskell is an academic programming language that entered the mainstream. It's touted as the language that you learn and it'll change your life. It's a purely functional language meaning that it enforces even the most rigid functional programming paradigm rules like immutability (inability to change variables after they're set).
 
 I haven't heard of any other language talked about as much and it forces you to think in terms of recursion and function chaining.
 
@@ -77,11 +81,11 @@ Java is another multi-purpose language. It's similar to C# but it's actually cro
 
 Shell is the language of the command line. It's used to write "bash scripts" which are able to run various commands as if they were typed in one by one. Learning bash is great because it helps you understand how to operate Linux and Unix-like systems. Not only that, but Shell helps you operate faster in the command line.
 
-But what about everything else? Shell uses streams and is efficient at it because Unix uses streams. With some learning, it can help you learn how chaining numerous very simple commands can produce an indistinguishable output. For instance, Shell can in one command bring up a list of running processes, select only those that have a search term in it, organize them alphabetically, and save them. Yet all it employs is: search, sort, and save. Combinging that with other some other commands, you can create something exponentially more complex just by chaining simple commands together.
+But what about everything else? Shell uses streams and is efficient at it because Unix uses streams. With some learning, it can help you learn how chaining numerous very simple commands can produce an indistinguishable output. For instance, Shell can in one command bring up a list of running processes, select only those that have a search term in it, organize them alphabetically, and save them. Yet all it employs is: search, sort, and save. Combining that with other some other commands, you can create something exponentially more complex just by chaining simple commands together.
 
 ## Others
 
-There are many others worth looking into like R (for mathematical programming), Go, Objective-C (to make OSX and iOS apps), and so on. But it all depends on your secondary focus. Learning Java and Objective-C can help you get into mobile app development while C++, C\#, and Python can help you get into game programming. Javascript is starting to take over the world so if you don't know it by now, it's a wonderful addition.
+There are many others worth looking into like R (for mathematical programming), Go (another multi-purpose language that is gaining in popularity), Objective-C (to make OSX and iOS apps), and so on. But it all depends on your secondary focus. Learning Java and Objective-C can help you get into mobile app development while C++, C\#, and Python can help you get into game programming. Javascript is starting to take over the world so if you don't know it by now, it's a wonderful addition. And Go can introduce you to better back-end programming.
 
 If you've worked with startup-y languages (JS, Ruby, and even PHP), it's definitely fun to try out the enterprise-y, statically-typed, compiled alternatives (Java, C\#). If you want to learn about general computing and computer science, C++ is the way to go. For more utilitarian applications, Shell and Python can help you out.
 
