@@ -1,25 +1,27 @@
 title: General Advice
 ----
+flag: review
+----
 content:
 
 To close off the chapter, I wanted to discuss some general advice for developers that want to become better developers. It's an important but difficult step that many struggle with. There's no clear path but the muddy path we're presented with does have some main points. I've gone over most, so let's jump into the last few.
 
-## Testing
+###Testing
 
 So you've heard me mention testing more than enough times to realize that it's an important part of a good developer's job. There are even front-end tests now for browser-based applications. That's how big they are in the dev world.
 
 Testing in summary is a process of writing small programs that verify your main applications' behavior by testing smaller and smaller parts of it. Those kind of tests are called "unit tests" because they test a small amount of logic. Let's look at a sample NodeJS module which creates a "snake case" string out of a regular string:
 
-````
+```js
 module.exports = function(str) {
   return str.toLowerCase().replace(/ /g, '_');
 };
 
-````
+```
 
 To test it, we just need to try out a few strings, enough to satisfy that it really works. Testing usually requires a setup of a testing framework. There's PHPUnit for PHP, Cucumber for Ruby, Mocha for NodeJS, and so on. Here's what a Node test would look like for the function above.
 
-````
+```js
 var snakeCase = require('./snakeCase.js'); //our function
 var should = require('should'); //node assertion library
 
@@ -32,7 +34,7 @@ describe('Snake case function', function() {
 	done();
   });
 });
-````
+```
 
 Now, every time that test runs, it'll check if "My sentence" will really equal to "my\_sentence" when used with our `snakeCase()` function. A CI (continuous integration) system should automatically run these tests for you. For instance, travis-ci will download your entire app per commit, provision a machine according to your instructions and then run your test framework. That way, if you mess something up by accident, you'll notice right away. It's said that there can never be enough unit tests. Meaning that the more you know for sure your app works as expected, the better chance you'll have finding new and old bugs.
 
@@ -66,7 +68,7 @@ It's definitely worth investing into especially when onboarding new developers w
 
 ## Version Control
 
-Version control is THE thing that everyone mentions to newbies and suggest it to any pros that don't use it yet (chastise them  rather). Version control is a system that allows you to "store" version of your code. Imagine that every time you save, a copy of your file is saved in a server. On top of that, you can browse through the history of your file and go back and forth between versions.
+Version control is THE thing that everyone mentions to newbies and suggest it to any pros that don't use it yet (chastise them  rather). Version control is a system that allows you to "store" versions of your code. Imagine that every time you save, a copy of your file is saved in a server. On top of that, you can browse through the history of your file and go back and forth between versions.
 
 Except things are a little more complicated and *much* better. For instance, you don't just version a single file, you keep your entire project. What's cool is that every time you make a change, you can commit that change (so no *autosave* into version control). Committing a change means that you're *sure* you want this change to be part of the official project and its history, collectivelly called a "repository" or "repo" for short. A commit allows you to add a message like "fixed parse error in WorkController.php" or even longer messages to list all of the tasks you've done.
 
