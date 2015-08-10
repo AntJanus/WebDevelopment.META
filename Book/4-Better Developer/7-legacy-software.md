@@ -1,12 +1,12 @@
 title: Legacy Software and Technical Debt
 ---
-flag: review
+flag: done
 ---
 content:
 
-The idea of technical debt is tightly coupled with legacy software and both are concepts that are important to developers that want to advance in their field. Dealing with and masterly using both concepts can help create applications with extended longevity.
+The idea of technical debt is tightly coupled with the idea of legacy software and both are concepts that are important to developers that want to advance in their field. Dealing with and masterly using both concepts can help create applications with extended longevity.
 
-## Technical Debt
+### Technical Debt
 
 Technical debt can best be described in terms of actual debt and investment. Debt comes from taking out money that you promise to pay back one day. The reason for taking that money out can be any, from paying off bills to covering unexpected expenses, to getting principal for investment.
 
@@ -18,7 +18,7 @@ In another scenario, Susan paid off her debt; however, her car broke down so she
 
 Such debt is useful then because it staves off a worse situation by applying a quick-fix to an unexpected situation. It also means that Susan had to realign her existing budget to pay off that debt despite the fact that she had done no wrong of her own.
 
-In our last scenario, Susan borrows $500 to get a new car part. She did so because the new car part will not only make her car run faster and smoother, but it will also keep her gas expenses lower. If her old car part broke down, she knew that it would damage other parts of the car which would mean the repair would far exceed the debt. Thus, she invested the $500 into her car in order to save money in the long-term. She still had to adjust her budget to pay off the debt but after she paid it off, she found herself having extra money every month from her savings. On top of that, she got to work a little faster each day because driving more than 60 on a 65 used to rattle her car, but now, she can easily ride the speed limit.
+In our last scenario, Susan borrows $500 to get a new car part. She did so because the new car part will not only make her car run faster and smoother, but it will also keep her gas expenses lower. If her old car part broke down, she knew that it would damage other parts of the car which would mean the repair would far exceed the debt she had incurred so far. Thus, she invested the $500 into her car in order to save money in the long-term. She still had to adjust her budget to pay off the debt but after she paid it off, she found herself having extra money every month from her savings. On top of that, she got to work a little faster each day because driving more than 55 on a 65 used to rattle her car, but now, she can easily ride the speed limit.
 
 This is investment debt. It's a debt purposely taken out to make more money, pay off the debt, and be left with more money than before the debt.
 
@@ -30,7 +30,7 @@ With technology, things are much muddier and misunderstanding technical debt can
 
 Let's start with a scenario where Susan is a software engineer working on a project.
 
-In our first scenario, Susan was behind on her work because of previous projects. There were some problems with a client, content was delivered late by a week, and so she's left with a tight deadline. Because of a tight deadline, Susan opts out to pull a couple of all nighters in order to quickly finish up her work by her deadline. Susan did not do her best job, people seldom do under tight deadlines and with little sleep. However, a lack of proper abstraction, properly DRY code, and tighter validation meant that she incurred **technical debt**. Basically, she created a quick solution to a problem but at the cost of the project's longevity. Over the next month, she refactored her code to use proper classes, eliminate redundant loops, and write tests. In this way, she paid her debt.
+In our first scenario, Susan was behind on her work because of previous projects. There were some problems with a client, content was delivered late by a week, and so she's left with a tight deadline. Because of a tight deadline, Susan opts out to pull a couple of all nighters in order to quickly finish up her work by her deadline. Susan did not do her best job, people seldom do under tight deadlines and with little sleep. A lack of proper abstraction, properly DRY code, and tighter validation meant that she incurred **technical debt**. Basically, she created a quick solution to a problem but at the cost of the project's longevity. Over the next month, she refactored her code to use proper classes, eliminate redundant loops, and write tests. In this way, she paid her debt.
 
 Technical debt is basically a way to cut corners, or not properly implement a solution in order to save time. This is fine to do. However, if one continues this behavior, they can get to a place of **technical bankruptcy** where "quick solutions" lead to an ultimate death of a project where touching any part of the codebase while retaining all functionality is difficult. It's a place where a refactor is no longer possible. In this scenario, Susan was forced to introduce technical debt due to project management.
 
@@ -45,7 +45,7 @@ Unfortunately, to managers, the debt is invisible. If they see a solution and it
 5. features tend to get more "impossible" to add due to the system's growing structure.
 6. the code doesn't make sense when you look at it.
 
-Lastly, there is one type of debt, the investment debt, that's purposefully introduced. Let's go back to Susan. She found herself another job at a startup company because she was sick of poor project management and "putting out fires". The startup said that it wants to build a great product that will stand the test of time, especially when it comes to code rot (the decrease in quality of code over time). It said, "no more patching". Susan started her work happily, however, her first order of business was to rapidly code a product. They wanted her to cut all corners, use 3rd party libraries to speed up the development time, skip writing tests, and "screw architecture". All the while making it fast. She imagined a nightmare until she was told about the reasons. Investment debt can be a very valuable tool, it can:
+Lastly, there is one type of debt, the investment debt, that's purposefully introduced. Let's go back to Susan. She found herself another job at a startup company because she was sick of poor project management and "putting out fires". The startup said that it wants to build a great product that will stand the test of time, especially when it comes to code rot (the decrease in quality of code over time). It said, "no more patching". Susan started her work happily, however, her first order of business was to rapidly code a product. They wanted her to cut all corners, use unstable 3rd party libraries to speed up the development time, skip writing tests, and "screw architecture". All the while making it fast. She imagined a nightmare until she was told about the reasons. Investment debt can be a very valuable tool, it can:
 
 1. bring a new product to the market right away to test out its viability and gain initial adoption.
 2. test out a feature of an existing product.
@@ -58,7 +58,7 @@ In another company though, founders may push developers to keep adding features 
 
 So finally, we get to our "debt bankruptcy" where you've worked on an unamangeable project, pushed to your limits in quick fixes and patches, and are now dealing with a big app that has all the features the company needs but is at the brink of destruction.
 
-However, we've so far discussed the "money-like" debt, but there are debts to consider:
+However, we've so far discussed the "money-like" debt, but there are other debts to consider:
 
 1. locking down to a platform. If the platform doesn't update to your needs or lacks the features you require, it becomes a "debt" that would require a complete rewrite for a new platform to be fulfilled.
 2. having any kind of a dependency. Dependency means someone else has control over it, just like a platform it may not udpate or may lack new features. In fact, it *could* update but so much that you can't catch up. A dependency then becomes a "debt". You're saving time by using a 3rd party library but incurring debt by using it. With every update/change, you may have to pay a little of that debt to keep your app up to date.
@@ -69,19 +69,20 @@ To summarize these dilemmas, let's figure out how to deal with debt:
 2. take responsibility over the technical debt and pay it.
 3. recognize where debt is inevitable, necessary, or can be to your advantage otherwise.
 4. when choosing a platform/dependency, stick to well-known ones that are likely to keep existing and update your dependencies when you can in order to not fall too far behind.
-5.
 
-## Legacy Software.
+### Legacy Software and Debt Bankruptcy
 
-Legacy software is a mix of that "debt bankruptcy" and can apply to being locked down to a platform that is no longer moving. The debt may become so great that the company will declare "bankruptcy" and start all over. It's more common than you'd think. Twitter itself started as a Ruby application. Ruby could no longer fulfill Twitter's feed so they declared "bankruptcy" on their application and wrote a new one from scratch using Scala and a combination of other languages. Facebook uses PHP and to push it to its limits, they've also started working on their custom PHP implementation. They continuously pay for their debt by improving their platform to meet their needs at which point, the debt is no longer there.
+Legacy software is a mix of that "debt bankruptcy" and can apply to being locked down to a platform that is no longer moving. The debt may become so great that the company will declare "bankruptcy" and start all over. It's more common than you'd think.
+
+Twitter itself started as a Ruby application. Ruby could no longer fulfill Twitter's needs so they declared "bankruptcy" on their application and wrote a new one from scratch using Scala and a combination of other languages. Facebook uses PHP and to push it to its limits, they've also started working on their custom PHP implementation. They continuously pay for their debt by improving their platform to meet their needs at which point, the debt is no longer there. Both platforms took on the debt of using languages that are difficult to scale out to millions of users in order to start serving the application as quickly as possible.
 
 So what happens to that old software? It becomes "legacy software". Legacy software often makes us thing of "time long ago". It makes us think of Java, of Windows XP and Internet Explorer 6, it makes us think of large dusty computers with code written in the 90s. And you're half-right, there's plenty of those and plenty of companies hiring new developers to completely rewrite their application. But until the rewrite is done and every feature and every user migrated, there's still "legacy software", the old version, to deal with.
 
-Legacy software is a fickle. It *always* feels old, terrible, and you're wondering who was drinking or smoking what when they wrote it. Often times, we get to look at our own software become legacy for one reason or another and so we realize just how far we've come from it. The problem is that it *works* for its purposes right now and it's difficult to move away from that or justify a rewrite.
+Legacy software is fickle. It *always* feels old, terrible, and you're wondering who was drinking or smoking what when they wrote it. Often times, we get to look at our own software become legacy for one reason or another and so we realize just how far we've come from it. The problem is that it *works* for its purposes right now and it's difficult to move away from that or justify a rewrite.
 
 Imagine a manager's position on a decision like this one. After hearing about the current system's limitations, he or she has several different options. One of them is to ask the developers to write a better system with modern methodologies, platform, and libraries. The plan to make the modern version of the software is a difficult one to follow and we can go over that. After all, you may be tasked with this yourself.
 
-### Starting Over
+#### Starting Over
 
 One of the inevitabilities with legacy software is starting over. There are still companies out there running obscure old versions of hardware and software because they can't justify a rewrite. The investment they made was so large and vast that paying very high salaries to developers that can fix bugs and problems year after year is cheaper than starting over.
 
@@ -98,13 +99,13 @@ One of the first things to do when doing a rewrite is analyzing the legacy softw
 5. what parts of the software do most features rely on and how do most features work?
 6. if the underlying platform could do anything you wanted, what would be the ways to improve the software as far as code ande execution goes? Would it benefit from concurrency, asynchronous calls, or lower-level language usage to speed up the execution of the most vital code?
 
-After an analysis is done, it's time to figure out what can be cut out and what the minimum viable product is, or in other words, what's the minimum our new software has to be able to do in order to replay at least a portion of the legacy software.
+After an analysis is done, it's time to figure out what can be cut out and what the minimum viable product is, or in other words, what's the minimum our new software has to be able to do in order to replace at least a portion of the legacy software.
 
 Many times, the legacy software includes features that were added long time ago when it was still a code baby; however, since then, no one had a reason to remove them, despite them not being used. Some of these extra features can cause slow-downs, or can hamper advancing the application itself because no one really knows if they're used or not.
 
 However, there are features that excel and drive the masses to run the software. These features should be paid extra attention. They should be analyzed for improvements and where the bottlenecks are. And how the next platform can make these features even more usable. These frequently-used features are generally what you'll want to use for your MVP (minimum viable product).
 
-When it's time to gather all these features and set a plan for your new application, there's also time to evaluate future features. This is the kicker, and this is one of the reasons why you're rewriting. Legacy softweare can often feel like a shackle with a chain soldered to a sky-scraper. Well, now you're free.
+When it's time to gather all these features and set a plan for your new application, there's also time to evaluate future features. This is the kicker, and this is one of the reasons why you're rewriting. Legacy software can often feel like a shackle with a chain soldered to a sky-scraper. Well, now you're free.
 
 Ask your management, other developers, and yourself, what are some things you want to add but can't? What are some frequently-requested features that were never fulfilled? What technological limitations does the software hit performance wise and usability-wise? Those questions will help you steer the development to the right technology choices.
 
@@ -132,7 +133,7 @@ She also realized that to keep up with the requirements of the modern world, she
 
 Her front-end skills lacked in some areas so she did some of her own research and delegated the rest of it to a front-end expert on the team. He came back suggesting the use of ReactJS, a Javascript framework that was used by Facebook. It not only had strong backing (FB), but it suited the spreadsheet structure of the app which other frameworks could not handle. On top of that, ReactJS had a ruby gem that would allow them to use React's templating on the back-end.
 
-In the end, Susan had to cut some of her ambition down and postpone the development of the NodeJS API but she was able to get started with the Ruby application and slowly replace the legacy system's implementation.
+In the end, Susan had to cut some of her ambition down and postpone the development of the NodeJS API but she was able to get started with the Ruby application and slowly replace the legacy system's implementation. And that's okay. As they say, "Aim low, shoot high".
 
 **what it all meant**
 
@@ -144,14 +145,14 @@ That's all fine. Luckily, she wasn't faced with the worst case: not being able t
 
 ### Patching the sinking ship
 
-I talked about the manager of the company having two different decisions at hand. One of them was starting over. The other one I will discuss now, patching the sinking ship. It basically means making the best of what the current platform can offer. The reasoning behind it can be numerous, from saving costs, to delaying until a new MVP is created, it could also happen when the cost of a new system is not yet justifieable. It's one of those situations where you can be frustrated about it as a developer, having to support an older system, but as a manager or even a Lead Dev, you may have to make decisions that are good for the company, not necessarily good for the application. There is nothing bad about it but it can be annoying as a developer. Try to see the bigger picture.
+I talked about the manager of the company having two different decisions at hand. One of them was starting over. The other one I will discuss now, patching the sinking ship. It basically means making the best of what the current platform can offer. The reasoning behind it can be numerous, from saving costs, to delaying until a new MVP is created, it could also happen when the cost of a new system is not yet justifieable. It's one of those situations where you can be frustrated about it as a developer, having to support an older system, but as a manager or even a Lead Dev, you may have to make decisions that are good for the company, not necessarily good for the application. There is nothing bad about it but it can be annoying for a developer. Try to see the bigger picture.
 
 Another reason could be that the older product *is* salvageable. There are certain things you *can* do to patch up the hole in your software and possibly even refactor, bit-by-bit to bring it up to speed, reintroduce coding standards, overall make the application a joy to use again (or at least make it bareable!).
 
 Here are some things that will help you tighten up the app a bit:
 
 1. Introduce proper testing. Testing will help make sure the application works despite any pocking, and refactoring you do. This makes the process easier because each time you make a change, you'll be able to verify the application working.
-2. Start refactoring smaller portions of the app. This helps you gain some momentum while updating the database.
+2. Start refactoring smaller portions of the app. This helps you gain some momentum while updating the codebase.
 3. Make changes to make the app's code more manageable, but don't change the behavior. This is so that you don't have to introduce additional complexity until the refactor is done.
 4. Section off parts of the application to do bigger refactors.
 5. Break up the app into smaller sections. Try to untangle spaghetti code into small parts, write tests to confirm they work, and keep going.
@@ -168,7 +169,7 @@ All of them are valid considerations and should be analyzed. You don't have to s
 
 But seriously, write tests.
 
-## And everything together
+### And everything together
 
 Last lesson I'd like to bestow is that nothing is as cut and dry as what I write about. Technical debt can be difficult to spot and distinguishing between "good" and "bad" debt even more difficult. However, as a developer, you should always be vigilant and balance out the amount of crud you accumulate in your application as a result of faster development or faster application deployment.
 
