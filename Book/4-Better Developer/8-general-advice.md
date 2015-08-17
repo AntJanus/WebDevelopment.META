@@ -1,6 +1,6 @@
 title: General Advice
 ----
-flag: review
+flag: done
 ----
 content:
 
@@ -46,7 +46,7 @@ For instance, let's say we were expanding our string conversion library with a `
 
 A fully tested app brings a peace of mind which nothing else can replace.
 
-## Development environment
+###Renewable Development environment
 
 One of the new advents of modern web development is the development environment. Or rather, the re-buildable programmable development environment. There are tools like Vagrant and Docker that allow us to replicate the exact environment our application will use but locally in a virtual machine. This gives you unprecedented power because you'll have the ability to develop in a production-like environment without affecting production *and* you'll have an environment that you can reboot and rebuild in case something goes wrong.
 
@@ -70,7 +70,7 @@ It's definitely worth investing into especially when onboarding new developers w
 
 Version control is THE thing that everyone mentions to newbies and suggest it to any pros that don't use it yet (chastise them  rather). Version control is a system that allows you to "store" versions of your code. Imagine that every time you save, a copy of your file is saved in a server. On top of that, you can browse through the history of your file and go back and forth between versions.
 
-Except things are a little more complicated and *much* better. For instance, you don't just version a single file, you keep your entire project. What's cool is that every time you make a change, you can commit that change (so no *autosave* into version control). Committing a change means that you're *sure* you want this change to be part of the official project and its history, collectivelly called a "repository" or "repo" for short. A commit allows you to add a message like "fixed parse error in WorkController.php" or even longer messages to list all of the tasks you've done.
+Except things are a little more complicated and *much* better. For instance, you don't just version a single file, you keep your entire project. What's cool is that every time you make a change, you can commit that change (so no *autosave* into version control). Committing a change means that you're *sure* you want this change to be part of the official project and its history, collectivelly called a "repository", or "repo" for short. A commit allows you to add a message like "fixed parse error in WorkController.php" or even longer messages to list all of the tasks you've done.
 
 Once you're done, you can "push" your changes to a server and your co-workers can can "pull" your updates to their repository copies. So the history of your project is present not only on your machine, but also on your server, and whoever else copied the repo.
 
@@ -78,9 +78,9 @@ So, you get the "version control" part right? You get to save, create a file his
 
 But there's so much more to version control. Think about those co-workers who can push and pull changes from the repo. The version control history works in terms of "deltas" or a written history of a file based on changes rather than saving an entire file with a copy every time. That means that you can merge your co-workers changes without messing up what you're working on right now.
 
-There are some features to help with that process of colaboration. For instance, there are "branches". If you imagine your file history like a large tree that spans upward with a single tree trunk heading the way, the tree trunk would be the "master" branch or the main branch while the others are supporting. Unlike a tree however, a project history can branch out and then come back together.
+There are some features to help with that process of colaboration. For instance, there are "branches". If you imagine your file history like a large tree that spans upward, the tree trunk would be the "master" branch or the main branch while the others are supporting. Unlike a tree however, a project history can branch out and then come back together.
 
-Developers use branches to develop specific features that they can test out and work out without damaging the project's main history record. This can allow developers to start rewrites, refactors, or development of new features without pollutin the main history, while still allowing that developer to push out changes to the server and allow others to work on the same branch. A branch has its own history and when time comes, you can merge that branch into "master" and the branch's entire history merges into the main history with it.
+Developers use branches to develop specific features that they can test out and work out without damaging the project's main history record. This can allow developers to start rewrites, refactors, or development of new features without polluting the main history, while still allowing that developer to push out changes to the server and allow others to work on the same branch. A branch has its own history and when time comes, you can merge that branch into "master" and the branch's entire history merges into the main history with it.
 
 You can also delete branches or just leave them behind for when you have time.
 
