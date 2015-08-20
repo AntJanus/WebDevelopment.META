@@ -1,5 +1,7 @@
 title: Portfolio creation
 ----
+flag: review
+----
 content:
 
 Portfolios are very important for designers; however, they've been increasingly more important for developers as well. Creating your portfolio can be a daunting task but once done, it can be refreshing, useful, and you'll be glad you did it. It's a great way to show off your work, to force yourself to finish work, and to re-evaluate your skillsets over time.

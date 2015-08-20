@@ -1,5 +1,7 @@
 title: Personal Projects
 ----
+flag: done
+----
 content:
 
 Part of the life of a developer is working on personal projects. They're important because they're a sandbox of ideas, expression, and learning. It's the equivalent of a gym for sports athletes. It's where we practice our cutting edge skills, try out new frameworks, and use architecture patterns that probably don't make sense anywhere else. It's just how lion cubs practice hunting by playing games with their siblings.

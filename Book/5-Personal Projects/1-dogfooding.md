@@ -1,8 +1,10 @@
 title: Dogfooding
 ----
+flag: done
+----
 content:
 
-When working on personal projects, it can be difficult to keep focus. In fact, one of the most common jokes between developers is the fact that we all have a big number of half-finished, non-functioning projects that we all swore to get back to one day but didn't. And you'll be there, too. One day, inspiration will hit and you'll hit the ground running until you're tired at which point you'll leave that piece of ground forever.
+When working on personal projects, it can be difficult to keep focus. In fact, one of the most common jokes between developers is the fact that we all have a big number of half-finished, non-functioning projects that we all swore to get back to one day but didn't and never will. And you'll be there, too. One day, inspiration will hit and you'll hit the ground running until you're tired at which point you'll leave that piece of ground forever.
 
 The idea behind starting a project strong and keeping it up is that of "momentum". Momentum is the steady advancement of a project. Long-term projects often suffer from keeping up that momentum until they fall into disrepair while many short-term projects suffer from building it up. It's a psychological effect with real-world consequences.
 
@@ -12,11 +14,11 @@ It's even more crucial to personal projects because those don't have financial b
 
 Which is how we come to the concept of dogfooding.
 
-## Build for your needs
+###Build for your needs
 
 Dogfooding, in a simple sense, is the concept of building to satisfy your own needs. Not just learning needs or creativity, but real-life needs that could be solved by an application. The need has to be strong enough to keep yourself working under that motivation.
 
-A great example of this is a snippet library. A snippet library is a library of snippets, or short samples of code, that some developers keep around to use and reuse in various projects. These snippets could be Regex, utility functions (possibly a camelCase to snake\_case converter), and even entire layouts. Snippet libraries have to have clean code that could be used anywhere otherwise it's useless.
+A great example of this is a snippet library. A snippet library is a library of snippets, or short samples of code, that some developers keep around to use and reuse in various projects. These snippets could be Regex, utility functions (possibly a camelCase to snake\_case converter), and even entire HTML layouts. Snippet libraries have to have clean code that could be used anywhere otherwise it's useless.
 
 If a snippets library contains some non-abstracted garbage and requires other services, and things you really don't actually need to use some function, you'll abandon it quickly.
 
@@ -26,9 +28,9 @@ So look around and see what your needs are. Maybe you need a to-do list that wor
 
 Again, satisfy your needs. Keep using and building the product.
 
-## Build with purpose and build deep
+###Build with purpose and build deep
 
-To go back to some of what I talked about. It's important to build with a purpose. It's easy to build throwaway projects but not very useful. Long-term projects help us keep up with technology, update and upgrade, and test technology out. For example, let's say you built a random To-do list app. There's no sense in it, there are a million others.
+To go back to some of what I talked about. It's important to build with a purpose. It's easy to build throwaway projects but not very useful. Long-term projects help us keep up with technology, update and upgrade, and test technology out. For example, let's say you built a random To-do list app with no special twist to it. There's no sense in it, there are a million others.
 
 And once you're done, or once you explore the technology you wanted to explore, you'll abandon it, a half-build house. If you actually follow through, you may learn more than just the basic syntax of that technology.
 
