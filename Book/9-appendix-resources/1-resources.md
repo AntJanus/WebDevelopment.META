@@ -34,6 +34,9 @@ I'll also mention a few helpful sites.
 
 ###Personal Projects
 
+- [Behance](http://behance.com) - A popular portfolio website
+- [Github](http://github.com) - A social version control to post private and public projects for others to see and contribute to.
+
 ###Meta
 
 ###Tools

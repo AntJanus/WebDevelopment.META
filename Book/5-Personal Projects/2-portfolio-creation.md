@@ -4,15 +4,15 @@ flag: review
 ----
 content:
 
-Portfolios are very important for designers; however, they've been increasingly more important for developers as well. Creating your portfolio can be a daunting task but once done, it can be refreshing, useful, and you'll be glad you did it. It's a great way to show off your work, to force yourself to finish work, and to re-evaluate your skillsets over time.
+Portfolios are very important for designers; however, they've been increasingly more important for developers as well. Creating your portfolio can be a daunting task but once done, it can be refreshing, useful, and you'll be glad you did it. It's a great way to show off your work, to force yourself to finish projects, and to re-evaluate your skillsets over time.
 
-## Showing off
+###Showing off
 
-Obviously, portfolios are about showing off. As far as jobs go, many hiring managers don't understand code and concepts and want solid proof of your work. The best way to do it by linking them to a portfolio and telling them what you did on each project.
+Obviously, portfolios are about showing off. As far as jobs go, many hiring managers don't understand code concepts and want solid proof of your work. The best way to do it is by linking them to a portfolio and telling them what you did on each project.
 
-Unfortunately, a lot of times, you won't be able to take credit for the work you've done for a company, client, or while contracting. In fact, some of the highest profile clients don't want to share who's done the work. And that's fine. But it sucks for you as a developer.
+Unfortunately, a lot of the times, you won't be able to take credit for the work you've done for a company, client, or while contracting. In fact, some of the highest profile clients don't want to share who's done the work. And that's fine. But it sucks for you as a developer. There are contractual obligations that will prohibit you from disclosing what you've done and where (this is often called an NDA: Non-disclosure agreement). I may or may not have signed a few myself.
 
-That means being inventive. One of the coolest projects I've seen around is treating yourself both as the developer and client. Meaning that you *hire* yourself to do a project, perhaps your own personal website. The experience will help you see both sides of the fences, and on top of that, you'll come out with a portfolio piece client project.
+That means being inventive. One of the coolest ideas I've seen around is treating yourself both as the developer and client. Meaning that you *hire* yourself to do a project, perhaps your own personal website. The experience will help you see both sides of the fences, and on top of that, you'll come out with a portfolio piece client-like project.
 
 You can even document your work along the way. From brainstorming to alpha, to the final version and post it as a blogpost, a proof of your work.
 
