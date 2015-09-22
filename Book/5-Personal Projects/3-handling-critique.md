@@ -1,18 +1,20 @@
 title: Handling Critique
 ----
+flag: review
+----
 content:
 
 I like to say that people that criticize you unconstructively are people that are not happy. And with that, I'd like to talk about handling critique from your peers. Just like artists that expose themselves and their inner creativity to the world face criticism, commentary, trolling, and other forms of back-communication, developers expose their code and their thought patterns to the world and face much the same. And it can be very difficult to handle.
 
-So difficult that there are developers that have quit working on public projects because of it, or have stayed away from twitter in order to get some peace. One well-known programmer Notch (creator of Minecraft), mentioned this issue in [an article](http://notch.net/2014/09/im-leaving-mojang/) about how he no longer wanted to face the public because they expected him to be this god-developer while he just wanted to work on and create games.
+So difficult that there are developers that have quit working on public projects because of it, or have stayed away from twitter in order to get some peace. One well-known programmer Notch (creator of Minecraft), mentioned this issue in [an article](http://notch.net/2014/09/im-leaving-mojang/) about how he no longer wanted to face the public because they expected him to be this god-developer while he just wanted to work on creating games.
 
 Whenever posting a project or writing a blogpost, there's always the fear of backlash and until you experience it, you won't know how bad it can be.
 
-## Types of people on the internet
+###Types of people on the internet
 
 For every post and every project you post publicly or on a forum, you'll face a myriad of people who will have their two cents to add to the discussion. Triage the comments to find those that really matter, those that require responses, and those that need to be fully ignored lest you want to lose your sanity.
 
-### Trolls
+####Trolls
 
 The hardest part is facing trolls, or better yet, figuring out WHO exactly is a troll. A troll isn't just someone who tries to provoke a flame war, it's also an individual that merely has nothing positive or constructive to add to the discussion, even further, I'd say, a troll is someone who will attack you for no reason.
 
@@ -27,11 +29,11 @@ Here are some common messages to watch out for:
 
 There are definitely more examples. The best thing you can do is ignore these comments, and if possible, downvote them on a forum. Pay them no attention whatsoever (other than the downvoting). Also remember that you should *not* stop being a developer, you're a good person no matter what the troll says, and death is definitely not an appropriate response to your article.
 
-Some trolls go very far to insult you, almost personally as if you were their greatest enemy. Again, ignore it. People say you should grow thicker skin, I say you should grow more selective eyes!
+Some trolls go very far to insult you, almost as if you were their greatest enemy. Again, ignore it. People say you should grow thicker skin, I say you should grow more selective eyes!
 
 **Note** Sometimes the first example and the last example may warrant further inspection but be cautious.
 
-### Flaming commentators
+####Flaming commentators
 
 Some people that comment have a certain way with words that makes them seem aggressive. In fact, they may sound almost like trolls, with possible threats, having some weird personal vendetta against you; however, they will have a comment of substance. In these situations, it can be prudent to read through their comment but be careful not to get too emotionally invested in it.
 
@@ -47,7 +49,7 @@ The simple fact is, not all comments will be helpful and you can't satisfy every
 
 For these kinds of people, keep in mind that they forget that *you* wrote the article or created the project and though seemingly personal, the comments' aggression has nothing to do with you.
 
-### The constructive critic
+####The constructive critic
 
 Constructive criticism is the holy grail of posting your projects or peer reviewing code. It's a comment that helps you, your article, and your project become *better*. Look out for people that will disect your project and discuss with you the finer points of your development. They may tell you that perhaps your project could be handled better with streams, thus eliminating lots of logic from a certain file. Or that there is a highly esteemed precedent with handling a particular situation that your project cannot handle.
 
@@ -57,7 +59,7 @@ In the end, these are the people to look for as far as validation and writing do
 
 Make sure to *respond*. You want these people to keep doing what they're doing because they're few and far in between.
 
-### The questioner
+####The questioner
 
 The questioner is basically a person that asks you questions that require you to defend your position and at the same time think about what the question means. In an earlier example, I discussed trolls asking you to compare your project to an unrelated project (like MySQL adapter for Symfony being compared to a Mongo command line tool, seemingly related but not). What if they asked you how it relates to an actually similar project?
 
@@ -77,13 +79,13 @@ Here are some questions that a questioner may ask:
 
 And so on. Make sure to answer these as they will not only help the questioner but help you understand your project and writing better.
 
-### The praiser
+####The praiser
 
 Almost as useless as a troll (but easier on the eyes!) is the praiser. That's a person that mindlessly praises any project for possibly no reason. I've seen a lot of new developers do that and they're usually unable to participate in any *real* discussion. It can also be the case of someone genuinely encouraging you. However, again, it does not help you with your project other than stroke your ego.
 
 Take the praise, thank them for their help and move on.
 
-## Why even expore yourself to the public?
+###Why even expose yourself to the public?
 
 I've already covered the types of commenters and that should have already revealed *why* you should even seek the comments out. Many developers feel uncomfortable with being exposed to the public. And that's okay; however, if you're open to posting your work on reddit, hackernews, or other social media sites that cater to developers, you should do so, and you should take full advantage of it.
 
@@ -97,8 +99,8 @@ What's great about the public forum about your personal projects is the feedback
 
 And much more. Try to write a sample article discussing some technological challenge or breakthrough, or prepare an app to be publicly dissected and try it out!
 
-##Lastly, take it easy
+###Lastly, take it easy
 
-Think about this, celebrities are in the public eye, daily. With paparazzis takins pictures of them as they shop, walk down the sidewalk, and attend various events. They're being watched non-stop. And while many of them may enjoy this, we all hear about celebrity breakdowns caused by tabloids, or just by invasion of privacy.
+Think about this, celebrities are in the public eye, daily. With paparazzis taking pictures of them as they shop, walk down the sidewalk, and attend various events. They're being watched non-stop. And while many of them may enjoy this, we all hear about celebrity breakdowns caused by tabloids, or just by invasion of privacy.
 
 Luckily, you're most likely close to being a "nobody" in the grand scheme of things. That means that you can hide your secrets, and hide your writing, and in fact, hide your identity. Use this to your advantage. If you just *can't* take the public critique, you don't have to. If you can only handle it in small portions, you may choose to do so. And in the end, no one will fault you if you simply don't answer inquiries or comments. As Reddit says, "OP never delivers", and you're welcome to follow that unspoken rule.
