@@ -4,7 +4,7 @@ flag: review
 ----
 content:
 
-Portfolios are very important for designers; however, they've been increasingly more important for developers as well. Creating your portfolio can be a daunting task but once done, it can be refreshing, useful, and you'll be glad you did it. It's a great way to show off your work, to force yourself to finish projects, and to re-evaluate your skillsets over time.
+Portfolios are very important for designers; however, they've been increasingly important for developers as well. Creating your portfolio can be a daunting task but once done, it can be refreshing, useful, and you'll be glad you did it. It's a great way to show off your work, to force yourself to finish projects, and to re-evaluate your skillsets over time.
 
 ###Showing off
 
@@ -20,15 +20,21 @@ Other times, you're welcome to dogfood and build apps for yourself and post thos
 
 A portfolio should always be presentable and hold only the best work you have so make sure not to saturate it with half-done projects, links to sites that no longer exist, and work too old to even show.
 
+###Where
+
+Not all development work has a tangible web interface. So you have two options. If you're a front-end developer or wanting to be one, your best course of action is to have an actual website that demonstrates what you can do: from animation, to styling beautiful sites. However, make sure to keep the original code handy, you might want to make it publicly available. And if you're a back-end developer, you'll be faced with the same issue.
+
+One of the more popular places to put your portfolio code is Github. Github allows you to create a profile for yourself, showcase your project code, and even history (if you've upkept using Git throughout the process). While hiring managers may not be savvy enough to understand it, your fellow programmers will.
+
 ###Finishing work
 
-An upside of building a portfolio from scratch is having to finish your projects. As you'll progress as a developer, you'll start to notice how *easy* it is to start a project but how much more difficult it is to finish it. It's the same in the professional world as it is in your personal development. Large companies can easily launch *initiatives* and just as easily abandon it without finishing it and testing it out.
+An upside of building a portfolio from scratch is having to finish your projects. As you'll progress as a developer, you'll start to notice how *easy* it is to start a project but how much more difficult it is to finish it. It's just as true in the professional world as it is in your personal development. Large companies can easily launch *initiatives* and just as easily abandon them without finishing them and testing them out.
 
 Portfolios require *done* work so they force you to actually do what you need to do.
 
 ###Re-evaluating Skills
 
-One cool thing about portfolios is that they're a snapshot into your skillset. Just having a six month span of projects will show you just how far you've come. It can astonishing but very awesome to be able to re-evaluate yourself in this manner.
+One cool thing about portfolios is that they're a snapshot into your skillset. Having a six month span of projects will show you just how far you've come. It can astonishing but very awesome to be able to re-evaluate yourself in this manner.
 
 For instance, I recently sent out a copy of my resume and realized that my portfolio was vastly out of date. I was working in the educational sector on a lot of back-end work. Back-end work is very difficult to showcase but I tried nevertheless. What was impressive was how far I've come. I checked out a project from earlier in the year and could not believe how messy and inefficient I used to be! "I wouldn't do *that* today!" I told myself but I already know I will the next time I check my portfolio. I'll see that my code today is just as messy!
 
