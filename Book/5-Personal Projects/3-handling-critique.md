@@ -1,6 +1,6 @@
 title: Handling Critique
 ----
-flag: review
+flag: done
 ----
 content:
 
@@ -10,13 +10,17 @@ So difficult that there are developers that have quit working on public projects
 
 Whenever posting a project or writing a blogpost, there's always the fear of backlash and until you experience it, you won't know how bad it can be.
 
+###Where might one get critique?
+
+Before we get to the critique itself, I implore you to seek it out. There are various places to get good feedback. There are the obvious places like [Reddit](https://reddit.com) and places like [HackerNews](https://news.ycombinator.com). You can also request feedback on Twitter and other social media. The newest hottest meeting place of developers is just around the corner.
+
 ###Types of people on the internet
 
 For every post and every project you post publicly or on a forum, you'll face a myriad of people who will have their two cents to add to the discussion. Triage the comments to find those that really matter, those that require responses, and those that need to be fully ignored lest you want to lose your sanity.
 
 ####Trolls
 
-The hardest part is facing trolls, or better yet, figuring out WHO exactly is a troll. A troll isn't just someone who tries to provoke a flame war, it's also an individual that merely has nothing positive or constructive to add to the discussion, even further, I'd say, a troll is someone who will attack you for no reason.
+The hardest part is facing trolls, or better yet, figuring out WHO exactly is a troll. A troll isn't just someone who tries to provoke a flame war, it's also an individual that merely has nothing positive or constructive to add to the discussion. A troll might also be someone who will attack you for no reason.
 
 Look out for the commentary that seems strangely provocative and holds no substance and skip it. Just about every developer has gotten caught up in the 20+ message discussions that ended up nowhere only to realize the person was just trolling them.
 
@@ -89,7 +93,7 @@ Take the praise, thank them for their help and move on.
 
 I've already covered the types of commenters and that should have already revealed *why* you should even seek the comments out. Many developers feel uncomfortable with being exposed to the public. And that's okay; however, if you're open to posting your work on reddit, hackernews, or other social media sites that cater to developers, you should do so, and you should take full advantage of it.
 
-Unlike many other fields, development allows us to publicly announce and dissect our projects. There are definitely several other fields where this *could* be done but I'm not sure how effective it would be. I'm sure that architects could share prototype plans with each other, and discuss the merits of moving columns or even rooms from place to place. Engineers could probably do the same, though benefit less. Designers do have a similar public discussion and it's just as crucial to them so at least there's that. And to cover my ass, I have literally no idea how people peer review in other fields or if they do at all.
+Unlike many other fields, development allows us to publicly announce and expose our projects. There are definitely several other fields where this *could* be done but I'm not sure how effective it would be. I'm sure that architects could share prototype plans with each other, and discuss the merits of moving columns or even rooms from place to place. Engineers could probably do the same, though benefit less. Designers do have a similar public discussion and it's just as crucial to them so at least there's that. And to cover my ass, I have literally no idea how people peer review in other fields or if they do at all.
 
 What's great about the public forum about your personal projects is the feedback. Through feedback you can learn a lot such as:
 
