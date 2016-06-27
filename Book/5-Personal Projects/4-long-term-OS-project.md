@@ -1,16 +1,18 @@
 title: Long term open source projects
 ----
+flag: review
+----
 content:
 
 If you're lucky, one of your apps or tools will become a long term open source project with lots of interaction and usage by outside developers. If that is so, prepare for the long haul and learn how to manage one of these projects so that they not only don't take over your life, but so that they can thrive even further.
 
-I'll be discussing all of these aspects of a project in terms of Github since it has great bug tracking, pull requests, and so much more.
+I'll be discussing all of these aspects of a project in terms of Github since it has great bug tracking, pull requests, and so much more. It's the prime real estate for open source work.
 
 ## Bugs & Issues
 
 Let's explore bugs. In Github, one can open an "issue" on any open source project that has issues enabled. This allows developers to submit feature requests, bugs, ask for help, and communicate with the developers of the project about the project.
 
-To keep a thriving project, one has to deal with bugs and issues in order to keep up the usage but also to not get swamped. A sign of a healthy thriving project is a number of opened issues and a number of opened pull requests (external or internal requests to merge in code).
+To keep a thriving project, one has to deal with bugs and issues in order to keep up the usage but also to not get swamped. A sign of a healthy thriving project is a number of opened issues and a number of opened pull requests (external or internal requests to merge in code) as well as discussion and closing of them.
 
 When a new issue opens, it could be about a number of things and it's important to categorize issues as so:
 
