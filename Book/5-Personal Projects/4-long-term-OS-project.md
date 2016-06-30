@@ -1,6 +1,6 @@
 title: Long term open source projects
 ----
-flag: review
+flag: done
 ----
 content:
 
@@ -38,6 +38,8 @@ As I've mentioned before, make sure that a bug is specifically to your app. If a
 
 One thing you can also do, if the bug is low priority enough, is ask the developer themselves to come up with a fix and participate. That definitely takes work off your shoulders and puts on someone who actively needs a fix and maybe able to contribute back and develop it.
 
+Collaboration should be heavily encouraged so don't feel like you have to shoulder the entire bourden of the project yourself.
+
 ### Inability to run
 
 I would say it's a type of a bug but it's more than that. People run all kinds of setups. Not only are there several major operating systems (numerous Linux flavors, OpenBSD, OS X, Windows, and whatever else), but there are several browsers, and a multitude of versions of dependency software.
@@ -64,11 +66,11 @@ Discussions are just like feedback on the project. They can be valuable but they
 
 ## Versioning and milestones
 
-To keep an application feeling fresh, there's a need to keep up momentum. There are different ways of doing that. One of them is to start regularly versioning your application (with tags). Versioning an application let's users know when an update is out, and if there is an issue, which version to upgrade to in order to resolve it.
+To keep an application feeling fresh, there's a need to keep up momentum. There are different ways of doing that. One of them is to start regularly versioning your application (with tags). Versioning an application lets users know when an update is out, and if there is an issue, which version to upgrade to in order to resolve it.
 
 A cool aspect of versioning is setting milestones. Milestones are basically issue/pull request options that associated them with a version. So for instance, version 1.0.5 could be associated with numerous pending PRs and issues. This lets users know when PRs will be merged down, issues solved, and that the application is, indeed, progressing.
 
-It's good to follow semantic versioning and updating all the different places your utility or app can be downloaded from.
+It's good to follow [semantic versioning](http://semver.org/) and updating all the different places your utility or app can be downloaded from.
 
 ## Contributors
 
